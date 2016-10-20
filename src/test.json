@@ -1,0 +1,125 @@
+{
+  "lock_version": 7,
+  "position": 0,
+  "publish": true,
+  "ref_id": "6e75fe2203ccd2464e8d46e12f6514e8",
+  "title": "[Canistro. Ancient bridge, S of Fucine Lake (Canistro, Italy)]",
+  "display_string": "[Canistro. Ancient bridge, S of Fucine Lake (Canistro, Italy)], 1947 - 1961",
+  "other_level": "Photographic Materials",
+  "restrictions_apply": true,
+  "created_by": "l.ciuffa",
+  "last_modified_by": "archeoziggy",
+  "create_time": "2016-05-24T14:26:13Z",
+  "system_mtime": "2016-09-15T08:32:13Z",
+  "user_mtime": "2016-06-22T08:28:54Z",
+  "suppressed": false,
+  "language": "eng",
+  "level": "otherlevel",
+  "jsonmodel_type": "archival_object",
+  "external_ids": [],
+  "subjects": [
+    {
+      "ref": "/subjects/6652"
+    },
+    {
+      "ref": "/subjects/4395"
+    }
+  ],
+  "linked_events": [],
+  "extents": [
+    {
+      "lock_version": 0,
+      "number": "1",
+      "physical_details": "black & white :",
+      "dimensions": "10 x 13 cm.",
+      "created_by": "archeoziggy",
+      "last_modified_by": "archeoziggy",
+      "create_time": "2016-06-22T08:28:55Z",
+      "system_mtime": "2016-06-22T08:28:55Z",
+      "user_mtime": "2016-06-22T08:28:55Z",
+      "portion": "whole",
+      "extent_type": "Photographic Materials",
+      "jsonmodel_type": "extent"
+    }
+  ],
+  "dates": [
+    {
+      "lock_version": 0,
+      "begin": "1947",
+      "end": "1961",
+      "created_by": "archeoziggy",
+      "last_modified_by": "archeoziggy",
+      "create_time": "2016-06-22T08:28:55Z",
+      "system_mtime": "2016-06-22T08:28:55Z",
+      "user_mtime": "2016-06-22T08:28:55Z",
+      "date_type": "inclusive",
+      "label": "creation",
+      "jsonmodel_type": "date"
+    }
+  ],
+  "external_documents": [],
+  "rights_statements": [
+    {
+      "lock_version": 0,
+      "identifier": "e033c258dd5e8697e5cd68a5fbc0b852",
+      "active": true,
+      "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+      "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+      "created_by": "archeoziggy",
+      "last_modified_by": "archeoziggy",
+      "create_time": "2016-06-22T08:28:55Z",
+      "system_mtime": "2016-06-22T08:28:55Z",
+      "user_mtime": "2016-06-22T08:28:55Z",
+      "rights_type": "institutional_policy",
+      "jsonmodel_type": "rights_statement",
+      "external_documents": []
+    }
+  ],
+  "linked_agents": [
+    {
+      "role": "creator",
+      "terms": [],
+      "ref": "/agents/people/957"
+    }
+  ],
+  "instances": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_multipart",
+      "persistent_id": "4645e0a0bc6b4d974154f173992a593e",
+      "type": "odd",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    },
+    {
+      "jsonmodel_type": "note_multipart",
+      "persistent_id": "49a9bb9b8a8a50b0f12b89886dba0f32",
+      "type": "arrangement",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "uri": "/repositories/9/archival_objects/122819",
+  "repository": {
+    "ref": "/repositories/9"
+  },
+  "resource": {
+    "ref": "/repositories/9/resources/161"
+  },
+  "parent": {
+    "ref": "/repositories/9/archival_objects/122816"
+  },
+  "has_unpublished_ancestor": false
+}

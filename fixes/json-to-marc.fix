@@ -1,0 +1,74 @@
+# LDR
+marc_add('LDR','_','02198nkm a2200421 a 450')
+
+# 001
+# assigned in Koha reservoir
+
+# 003, 040
+marc_add('003','_','ltRAAR')
+marc_add('040',ind1,' ',ind2,' ',a,'ltRAAR')
+
+# 008
+# assigned in Koha reservoir
+
+# 005
+marc_add('005','_','20161004181628.0')
+
+# 035
+# assigned by OCLC
+
+# 100
+# need an iterator here, hard-coded for now
+paste('author_0','linked_agents.0.ref')
+lookup('author_0','../lists/personal_names.csv',delete:1)
+marc_add('100',ind1,' ',ind2,' ',a,$.author_0)
+marc_set('100e','pht')
+
+# 245
+marc_add('245',ind1,'0',ind2,'0',a,$.title)
+marc_set('245h','[graphic]')
+
+# 260
+paste('dates',dates.0.begin,dates.0.end,join_char:" - ")
+replace_all('dates','[^0-9\w\-]','')
+marc_add('260',ind1,' ',ind2,' ',a, $.dates)
+
+paste('physical_details','extents.0.physical_details')
+#marc_set('300a',$.number)
+marc_add('300',ind1,' ',ind2,' ',b, $.physical_details)
+marc_set('300c',$.extents.0.dimensions)
+
+# 500
+paste('notes','notes.0.subnotes.0.content')
+marc_add('500',ind1,' ',ind2,' ',a, $.notes)
+
+# 506
+set_field("access","Closed access material (Archive)")
+marc_add('506',ind1,' ',ind2,' ',a,$.access)
+marc_set('506u','http://photoarchive.aarome.org/index/use.html')
+
+# 540
+set_field("rights","Publication restricted (AAR copyright)")
+marc_add('540',ind1,' ',ind2,' ',a,$.rights)
+marc_set('540u','http://photoarchive.aarome.org/index/rights.html')
+
+# 650
+# need an iterator here, hard-coded for now
+paste('topical_0','subjects.0.ref')
+lookup('topical_0','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_0)
+
+paste('geog_1','subjects.1.ref')
+lookup('geog_1','../lists/subjects.csv',delete:1)
+marc_add('651',ind1,' ',ind2,'4',a,$.geog_1)
+
+# 700
+# need an iterator here, hard-coded for now
+paste('personal_0','linked_agents.0.ref')
+lookup('personal_0','../lists/personal_names.csv',delete:1)
+marc_add('700',ind1,' ',ind2,' ',a,$.personal_0)
+
+# 710 (institutional default)
+set_field("710_default","American Academy in Rome")
+marc_add('710',ind1,'2',ind2,' ',a,$.710_default)
+
