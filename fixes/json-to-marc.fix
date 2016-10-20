@@ -58,9 +58,25 @@ paste('topical_0','subjects.0.ref')
 lookup('topical_0','../lists/subjects.csv',delete:1)
 marc_add('650',ind1,' ',ind2,'4',a,$.topical_0)
 
-paste('geog_1','subjects.1.ref')
-lookup('geog_1','../lists/subjects.csv',delete:1)
-marc_add('651',ind1,' ',ind2,'4',a,$.geog_1)
+paste('topical_1','subjects.1.ref')
+lookup('topical_1','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_1)
+
+paste('topical_2','subjects.2.ref')
+lookup('topical_2','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_2)
+
+paste('topical_3','subjects.3.ref')
+lookup('topical_3','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_3)
+
+paste('topical_4','subjects.4.ref')
+lookup('topical_4','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_4)
+
+paste('topical_5','subjects.0.ref')
+lookup('topical_5','../lists/subjects.csv',delete:1)
+marc_add('650',ind1,' ',ind2,'4',a,$.topical_5)
 
 # 700
 # need an iterator here, hard-coded for now

@@ -1,125 +1,661 @@
-{
-  "lock_version": 7,
-  "position": 0,
-  "publish": true,
-  "ref_id": "6e75fe2203ccd2464e8d46e12f6514e8",
-  "title": "[Canistro. Ancient bridge, S of Fucine Lake (Canistro, Italy)]",
-  "display_string": "[Canistro. Ancient bridge, S of Fucine Lake (Canistro, Italy)], 1947 - 1961",
-  "other_level": "Photographic Materials",
-  "restrictions_apply": true,
-  "created_by": "l.ciuffa",
-  "last_modified_by": "archeoziggy",
-  "create_time": "2016-05-24T14:26:13Z",
-  "system_mtime": "2016-09-15T08:32:13Z",
-  "user_mtime": "2016-06-22T08:28:54Z",
-  "suppressed": false,
-  "language": "eng",
-  "level": "otherlevel",
-  "jsonmodel_type": "archival_object",
-  "external_ids": [],
-  "subjects": [
-    {
-      "ref": "/subjects/6652"
+[
+  {
+    "lock_version": 3,
+    "position": 2,
+    "publish": true,
+    "ref_id": "7c5aa9c5e0283694e488b87374d78794",
+    "title": "[Bovianum Vetus, Samnium. Remains of ancient theatre (Pietrabbondante, Italy)]",
+    "display_string": "[Bovianum Vetus, Samnium. Remains of ancient theatre (Pietrabbondante, Italy)], 1947 - 1961",
+    "other_level": "Photographic Materials",
+    "restrictions_apply": true,
+    "created_by": "archeoziggy",
+    "last_modified_by": "archeoziggy",
+    "create_time": "2016-06-07T10:31:56Z",
+    "system_mtime": "2016-09-15T08:32:13Z",
+    "user_mtime": "2016-06-17T13:04:40Z",
+    "suppressed": false,
+    "language": "eng",
+    "level": "otherlevel",
+    "jsonmodel_type": "archival_object",
+    "external_ids": [],
+    "subjects": [
+      {
+        "ref": "/subjects/3775"
+      },
+      {
+        "ref": "/subjects/7267"
+      },
+      {
+        "ref": "/subjects/1982"
+      },
+      {
+        "ref": "/subjects/7268"
+      }
+    ],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "physical_details": "black & white :",
+        "dimensions": "10 x 13 cm.",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:04:40Z",
+        "system_mtime": "2016-06-17T13:04:40Z",
+        "user_mtime": "2016-06-17T13:04:40Z",
+        "portion": "whole",
+        "extent_type": "Photographic Materials",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "1947",
+        "end": "1961",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:04:40Z",
+        "system_mtime": "2016-06-17T13:04:40Z",
+        "user_mtime": "2016-06-17T13:04:40Z",
+        "date_type": "inclusive",
+        "label": "creation",
+        "era": "ce",
+        "calendar": "gregorian",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [
+      {
+        "lock_version": 0,
+        "identifier": "734dbd264dcc8f0515d4bfa83681531b",
+        "active": true,
+        "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+        "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:04:40Z",
+        "system_mtime": "2016-06-17T13:04:40Z",
+        "user_mtime": "2016-06-17T13:04:40Z",
+        "rights_type": "institutional_policy",
+        "jsonmodel_type": "rights_statement",
+        "external_documents": []
+      }
+    ],
+    "linked_agents": [
+      {
+        "role": "creator",
+        "terms": [],
+        "ref": "/agents/people/957"
+      }
+    ],
+    "instances": [],
+    "notes": [
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "98f3b6750923b51bf7034b8eeff00306",
+        "type": "odd",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      },
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "7748da3e3f7806150de3d42092e3b412",
+        "type": "arrangement",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      }
+    ],
+    "uri": "/repositories/9/archival_objects/122952",
+    "repository": {
+      "ref": "/repositories/9"
     },
-    {
-      "ref": "/subjects/4395"
-    }
-  ],
-  "linked_events": [],
-  "extents": [
-    {
-      "lock_version": 0,
-      "number": "1",
-      "physical_details": "black & white :",
-      "dimensions": "10 x 13 cm.",
-      "created_by": "archeoziggy",
-      "last_modified_by": "archeoziggy",
-      "create_time": "2016-06-22T08:28:55Z",
-      "system_mtime": "2016-06-22T08:28:55Z",
-      "user_mtime": "2016-06-22T08:28:55Z",
-      "portion": "whole",
-      "extent_type": "Photographic Materials",
-      "jsonmodel_type": "extent"
-    }
-  ],
-  "dates": [
-    {
-      "lock_version": 0,
-      "begin": "1947",
-      "end": "1961",
-      "created_by": "archeoziggy",
-      "last_modified_by": "archeoziggy",
-      "create_time": "2016-06-22T08:28:55Z",
-      "system_mtime": "2016-06-22T08:28:55Z",
-      "user_mtime": "2016-06-22T08:28:55Z",
-      "date_type": "inclusive",
-      "label": "creation",
-      "jsonmodel_type": "date"
-    }
-  ],
-  "external_documents": [],
-  "rights_statements": [
-    {
-      "lock_version": 0,
-      "identifier": "e033c258dd5e8697e5cd68a5fbc0b852",
-      "active": true,
-      "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
-      "restrictions": "Closed access material. https://dhc.aarome.org/usage",
-      "created_by": "archeoziggy",
-      "last_modified_by": "archeoziggy",
-      "create_time": "2016-06-22T08:28:55Z",
-      "system_mtime": "2016-06-22T08:28:55Z",
-      "user_mtime": "2016-06-22T08:28:55Z",
-      "rights_type": "institutional_policy",
-      "jsonmodel_type": "rights_statement",
-      "external_documents": []
-    }
-  ],
-  "linked_agents": [
-    {
-      "role": "creator",
-      "terms": [],
-      "ref": "/agents/people/957"
-    }
-  ],
-  "instances": [],
-  "notes": [
-    {
-      "jsonmodel_type": "note_multipart",
-      "persistent_id": "4645e0a0bc6b4d974154f173992a593e",
-      "type": "odd",
-      "subnotes": [
-        {
-          "jsonmodel_type": "note_text",
-          "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
-          "publish": true
-        }
-      ],
-      "publish": true
+    "resource": {
+      "ref": "/repositories/9/resources/161"
     },
-    {
-      "jsonmodel_type": "note_multipart",
-      "persistent_id": "49a9bb9b8a8a50b0f12b89886dba0f32",
-      "type": "arrangement",
-      "subnotes": [
-        {
-          "jsonmodel_type": "note_text",
-          "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
-          "publish": true
-        }
-      ],
-      "publish": true
-    }
-  ],
-  "uri": "/repositories/9/archival_objects/122819",
-  "repository": {
-    "ref": "/repositories/9"
+    "parent": {
+      "ref": "/repositories/9/archival_objects/122816"
+    },
+    "has_unpublished_ancestor": false
   },
-  "resource": {
-    "ref": "/repositories/9/resources/161"
+  {
+    "lock_version": 2,
+    "position": 3,
+    "publish": true,
+    "ref_id": "4456f13581c0f1e7cd8a4a026b6743b6",
+    "title": "[Mount Greco from the site of Aufidena in central Samnium (Alfedena, Italy)]",
+    "display_string": "[Mount Greco from the site of Aufidena in central Samnium (Alfedena, Italy)], 1947 - 1961",
+    "other_level": "Photographic Materials",
+    "restrictions_apply": true,
+    "created_by": "archeoziggy",
+    "last_modified_by": "archeoziggy",
+    "create_time": "2016-06-07T10:50:31Z",
+    "system_mtime": "2016-09-15T08:32:13Z",
+    "user_mtime": "2016-06-17T13:05:00Z",
+    "suppressed": false,
+    "language": "eng",
+    "level": "otherlevel",
+    "jsonmodel_type": "archival_object",
+    "external_ids": [],
+    "subjects": [
+      {
+        "ref": "/subjects/1982"
+      },
+      {
+        "ref": "/subjects/7268"
+      }
+    ],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "physical_details": "black & white :",
+        "dimensions": "10 x 13 cm.",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:00Z",
+        "system_mtime": "2016-06-17T13:05:00Z",
+        "user_mtime": "2016-06-17T13:05:00Z",
+        "portion": "whole",
+        "extent_type": "Photographic Materials",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "1947",
+        "end": "1961",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:00Z",
+        "system_mtime": "2016-06-17T13:05:00Z",
+        "user_mtime": "2016-06-17T13:05:00Z",
+        "date_type": "inclusive",
+        "label": "creation",
+        "era": "ce",
+        "calendar": "gregorian",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [
+      {
+        "lock_version": 0,
+        "identifier": "18bdb7e98bb4708ef7795dc75dbbdbd8",
+        "active": true,
+        "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+        "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:00Z",
+        "system_mtime": "2016-06-17T13:05:00Z",
+        "user_mtime": "2016-06-17T13:05:00Z",
+        "rights_type": "institutional_policy",
+        "jsonmodel_type": "rights_statement",
+        "external_documents": []
+      }
+    ],
+    "linked_agents": [
+      {
+        "role": "creator",
+        "terms": [],
+        "ref": "/agents/people/957"
+      }
+    ],
+    "instances": [],
+    "notes": [
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "3b63acf8b029b80908818940cd47a53e",
+        "type": "odd",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      },
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "4071aa9d14d882073eafc5e6e6335c45",
+        "type": "arrangement",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      }
+    ],
+    "uri": "/repositories/9/archival_objects/122954",
+    "repository": {
+      "ref": "/repositories/9"
+    },
+    "resource": {
+      "ref": "/repositories/9/resources/161"
+    },
+    "parent": {
+      "ref": "/repositories/9/archival_objects/122816"
+    },
+    "has_unpublished_ancestor": false
   },
-  "parent": {
-    "ref": "/repositories/9/archival_objects/122816"
+  {
+    "lock_version": 4,
+    "position": 4,
+    "publish": true,
+    "ref_id": "7bcbe0ea8b043af06301503fa03f6250",
+    "title": "[Grumentum. Specimen of walling in opus reticulatum (Grumento Nova, Italy)]",
+    "display_string": "[Grumentum. Specimen of walling in opus reticulatum (Grumento Nova, Italy)], 1947 - 1961",
+    "other_level": "Photographic Materials",
+    "restrictions_apply": true,
+    "created_by": "archeoziggy",
+    "last_modified_by": "archeoziggy",
+    "create_time": "2016-06-08T09:34:28Z",
+    "system_mtime": "2016-09-15T08:32:13Z",
+    "user_mtime": "2016-06-17T13:05:20Z",
+    "suppressed": false,
+    "language": "eng",
+    "level": "otherlevel",
+    "jsonmodel_type": "archival_object",
+    "external_ids": [],
+    "subjects": [
+      {
+        "ref": "/subjects/3726"
+      },
+      {
+        "ref": "/subjects/1982"
+      },
+      {
+        "ref": "/subjects/7269"
+      },
+      {
+        "ref": "/subjects/6420"
+      },
+      {
+        "ref": "/subjects/3016"
+      }
+    ],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "physical_details": "black & white :",
+        "dimensions": "10 x 13 cm.",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:20Z",
+        "system_mtime": "2016-06-17T13:05:20Z",
+        "user_mtime": "2016-06-17T13:05:20Z",
+        "portion": "whole",
+        "extent_type": "Photographic Materials",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "1947",
+        "end": "1961",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:20Z",
+        "system_mtime": "2016-06-17T13:05:20Z",
+        "user_mtime": "2016-06-17T13:05:20Z",
+        "date_type": "inclusive",
+        "label": "creation",
+        "era": "ce",
+        "calendar": "gregorian",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [
+      {
+        "lock_version": 0,
+        "identifier": "b918c756d7e98d9f276f973c00277b51",
+        "active": true,
+        "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+        "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:20Z",
+        "system_mtime": "2016-06-17T13:05:20Z",
+        "user_mtime": "2016-06-17T13:05:20Z",
+        "rights_type": "institutional_policy",
+        "jsonmodel_type": "rights_statement",
+        "external_documents": []
+      }
+    ],
+    "linked_agents": [
+      {
+        "role": "creator",
+        "terms": [],
+        "ref": "/agents/people/957"
+      }
+    ],
+    "instances": [],
+    "notes": [
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "3f00a01199e89e35176ff79655d0503d",
+        "type": "odd",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      },
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "d2f90105af137791d6dd0943482ced44",
+        "type": "arrangement",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      }
+    ],
+    "uri": "/repositories/9/archival_objects/122989",
+    "repository": {
+      "ref": "/repositories/9"
+    },
+    "resource": {
+      "ref": "/repositories/9/resources/161"
+    },
+    "parent": {
+      "ref": "/repositories/9/archival_objects/122816"
+    },
+    "has_unpublished_ancestor": false
   },
-  "has_unpublished_ancestor": false
-}
+  {
+    "lock_version": 4,
+    "position": 5,
+    "publish": true,
+    "ref_id": "ca555e6a9546df61022d9a2eb5c3ada8",
+    "title": "[Grumentum. Walls in opus reticulatum (Grumento Nova, Italy)]",
+    "display_string": "[Grumentum. Walls in opus reticulatum (Grumento Nova, Italy)], 1947 - 1961",
+    "other_level": "Photographic Materials",
+    "restrictions_apply": true,
+    "created_by": "archeoziggy",
+    "last_modified_by": "archeoziggy",
+    "create_time": "2016-06-08T09:43:08Z",
+    "system_mtime": "2016-09-15T08:32:13Z",
+    "user_mtime": "2016-06-17T13:05:39Z",
+    "suppressed": false,
+    "language": "eng",
+    "level": "otherlevel",
+    "jsonmodel_type": "archival_object",
+    "external_ids": [],
+    "subjects": [
+      {
+        "ref": "/subjects/7269"
+      },
+      {
+        "ref": "/subjects/1982"
+      },
+      {
+        "ref": "/subjects/3726"
+      },
+      {
+        "ref": "/subjects/6420"
+      }
+    ],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "physical_details": "black & white :",
+        "dimensions": "10 x 13 cm.",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:39Z",
+        "system_mtime": "2016-06-17T13:05:39Z",
+        "user_mtime": "2016-06-17T13:05:39Z",
+        "portion": "whole",
+        "extent_type": "Photographic Materials",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "1947",
+        "end": "1961",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:39Z",
+        "system_mtime": "2016-06-17T13:05:39Z",
+        "user_mtime": "2016-06-17T13:05:39Z",
+        "date_type": "inclusive",
+        "label": "creation",
+        "era": "ce",
+        "calendar": "gregorian",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [
+      {
+        "lock_version": 0,
+        "identifier": "ce142e8fa108aa21bf4d287b19c3164d",
+        "active": true,
+        "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+        "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:39Z",
+        "system_mtime": "2016-06-17T13:05:39Z",
+        "user_mtime": "2016-06-17T13:05:39Z",
+        "rights_type": "institutional_policy",
+        "jsonmodel_type": "rights_statement",
+        "external_documents": []
+      }
+    ],
+    "linked_agents": [
+      {
+        "role": "creator",
+        "terms": [],
+        "ref": "/agents/people/957"
+      }
+    ],
+    "instances": [],
+    "notes": [
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "c3a224852b3c8c613f3b1c8401040492",
+        "type": "odd",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      },
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "599788fb16702b29c3f13bc0262af065",
+        "type": "arrangement",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      }
+    ],
+    "uri": "/repositories/9/archival_objects/122991",
+    "repository": {
+      "ref": "/repositories/9"
+    },
+    "resource": {
+      "ref": "/repositories/9/resources/161"
+    },
+    "parent": {
+      "ref": "/repositories/9/archival_objects/122816"
+    },
+    "has_unpublished_ancestor": false
+  },
+  {
+    "lock_version": 3,
+    "position": 6,
+    "publish": true,
+    "ref_id": "0a9cc206e2edb1f24ae6f98f1c2fc332",
+    "title": "[Grumentum. Specimen of walls with Grumento Nova in background (Grumento Nova, Italy)]",
+    "display_string": "[Grumentum. Specimen of walls with Grumento Nova in background (Grumento Nova, Italy)], 1947 - 1961",
+    "other_level": "Photographic Materials",
+    "restrictions_apply": true,
+    "created_by": "archeoziggy",
+    "last_modified_by": "archeoziggy",
+    "create_time": "2016-06-08T10:12:21Z",
+    "system_mtime": "2016-09-15T08:32:13Z",
+    "user_mtime": "2016-06-17T13:05:58Z",
+    "suppressed": false,
+    "language": "eng",
+    "level": "otherlevel",
+    "jsonmodel_type": "archival_object",
+    "external_ids": [],
+    "subjects": [
+      {
+        "ref": "/subjects/1982"
+      },
+      {
+        "ref": "/subjects/7269"
+      },
+      {
+        "ref": "/subjects/2036"
+      }
+    ],
+    "linked_events": [],
+    "extents": [
+      {
+        "lock_version": 0,
+        "number": "1",
+        "physical_details": "black & white :",
+        "dimensions": "10 x 13 cm.",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:58Z",
+        "system_mtime": "2016-06-17T13:05:58Z",
+        "user_mtime": "2016-06-17T13:05:58Z",
+        "portion": "whole",
+        "extent_type": "Photographic Materials",
+        "jsonmodel_type": "extent"
+      }
+    ],
+    "dates": [
+      {
+        "lock_version": 0,
+        "begin": "1947",
+        "end": "1961",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:58Z",
+        "system_mtime": "2016-06-17T13:05:58Z",
+        "user_mtime": "2016-06-17T13:05:58Z",
+        "date_type": "inclusive",
+        "label": "creation",
+        "era": "ce",
+        "calendar": "gregorian",
+        "jsonmodel_type": "date"
+      }
+    ],
+    "external_documents": [],
+    "rights_statements": [
+      {
+        "lock_version": 0,
+        "identifier": "0837a6fb66fb698d035fbdbe00b039d7",
+        "active": true,
+        "permissions": "Publication restricted. https://dhc.aarome.org/copyright",
+        "restrictions": "Closed access material. https://dhc.aarome.org/usage",
+        "created_by": "archeoziggy",
+        "last_modified_by": "archeoziggy",
+        "create_time": "2016-06-17T13:05:58Z",
+        "system_mtime": "2016-06-17T13:05:58Z",
+        "user_mtime": "2016-06-17T13:05:58Z",
+        "rights_type": "institutional_policy",
+        "jsonmodel_type": "rights_statement",
+        "external_documents": []
+      }
+    ],
+    "linked_agents": [
+      {
+        "role": "creator",
+        "terms": [],
+        "ref": "/agents/people/957"
+      }
+    ],
+    "instances": [],
+    "notes": [
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "5b781ce67b224907b66184d35fd5525e",
+        "type": "odd",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The Blake collection is an accurate survey, mostly on Italian mosaics. It consists of photographs, personal notes, drawings, postcards and manuscripts. \nPhotographs are mostly on ancient roman roads.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      },
+      {
+        "jsonmodel_type": "note_multipart",
+        "persistent_id": "5024d6df6bb41dc198b595ac04dd11b0",
+        "type": "arrangement",
+        "subnotes": [
+          {
+            "jsonmodel_type": "note_text",
+            "content": "The photographs were organized by Marion Blake in alphabetical order by site. The original order has been maintained;  to proceed with inventory and digitization single photographs have been numbered.",
+            "publish": true
+          }
+        ],
+        "publish": true
+      }
+    ],
+    "uri": "/repositories/9/archival_objects/122998",
+    "repository": {
+      "ref": "/repositories/9"
+    },
+    "resource": {
+      "ref": "/repositories/9/resources/161"
+    },
+    "parent": {
+      "ref": "/repositories/9/archival_objects/122816"
+    },
+    "has_unpublished_ancestor": false
+  }
+]
