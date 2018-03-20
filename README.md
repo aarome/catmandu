@@ -1,4 +1,4 @@
-### A collection of Catamandu metadata processors for the American Academy in Rome library and digital collections programs. 
+#### A collection of Catamandu metadata processors for the American Academy in Rome library and digital collections programs. 
 
 Catmandu is a command line tool to access and convert data from your digital library, research services or any other open data sets.
 
@@ -8,7 +8,7 @@ Catmandu is a command line tool to access and convert data from your digital lib
 * [Catmandu installation](https://github.com/LibreCat/Catmandu/wiki/Installation)
 * [Catmandu Docker image](https://hub.docker.com/r/librecat/catmandu/)
 
-### Academy sub-projects
+#### Academy projects
 
 There are currently three projects underway:
 
