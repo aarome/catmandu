@@ -3,6 +3,8 @@
 Catmandu is a command line tool to access and convert data 
 from your digital library, research services or any other open data sets.
 
-More on Catmandu here: http://librecat.org/
-Catmandu on Github: https://github.com/LibreCat/Catmandu
-Catmandu live demo: http://demo.librecat.org/
+[About LibreCat and Catmandu](http://librecat.org/)
+[Catmandu on Github](https://github.com/LibreCat/Catmandu)
+[Catmandu fix language cheat sheet](https://github.com/LibreCat/Catmandu/wiki/Fixes-Cheat-Sheet)
+[Catmandu installation](https://github.com/LibreCat/Catmandu/wiki/Installation)
+[Catmandu Docker image](https://hub.docker.com/r/librecat/catmandu/)
