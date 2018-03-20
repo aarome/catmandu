@@ -1,0 +1,37 @@
+# MARC to CSV processor
+# Maps MARC field to CSV columns
+
+# Control fields
+marc_map(001,001)
+marc_map(003,003)
+
+# General information
+marc_map(010,010)
+marc_map(040,"source", -join => ";")
+
+# Main entries
+marc_map(130a,130a, -join => ";")
+marc_map(130f,130f, -join => ";")
+marc_map(1308,1308, -join => ";")
+marc_map(130d,130d, -join => ";")
+marc_map(1300,1300, -join => ";")
+marc_map(1301,1301, -join => ";")
+marc_map(130x,130x, -join => ";")
+marc_map(130y,130y, -join => ";")
+marc_map(130s,130s, -join => ";")
+marc_map(130p,130p, -join => ";")
+marc_map(130v,130v, -join => ";")
+marc_map(130t,130t, -join => ";")
+marc_map(130k,130k, -join => ";")
+marc_map(130n,130n, -join => ";")
+marc_map(130l,130l, -join => ";")
+marc_map(1309,1309, -join => ";")
+
+# Koha local fields
+marc_map(942a,'term_type')
+unless any_match('term_type','UNIF_TITLE')
+  reject()
+end
+
+remove_field(_id)
+remove_field(record)
