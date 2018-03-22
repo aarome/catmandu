@@ -1,0 +1,70 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01343nz  a2200277n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh92004203</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19920921105202.6</marcxml:controlfield>
+            <marcxml:controlfield tag="008">920803i| anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 92004203 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">MdU</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nymphaea (Architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nymphaeums (Architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nymphea (Architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nympheums (Architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Garden structures</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Shrines</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Fountains</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Letzner, W. Römische Brunnen und Nymphaea in der westlichen Reichshälfte, 1990.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.</marcxml:subfield>
+              <marcxml:subfield code="b">(Nymphaeum; ancient Greek and Roman sanctuary consecrated to water nymphs ... in the 16th cent. the nymphaeum became a feature of Italian gardens)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Encyc. of world art:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 7, p. 303 (Nymphaeum often conceived as the architectural façade of a natural grotto consecrated to the nymphs)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Fagiolo, M. Roma delle delizie, 1990:</marcxml:subfield>
+              <marcxml:subfield code="b">added t.p. (Theaters of water, grottoes, nymphaea, fountains)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">OED</marcxml:subfield>
+              <marcxml:subfield code="b">(Nymphaeum, -eum. Archaeol. Pl. -aea, ea. A grotto or shrine of the nymphs; a building, or part of one, designed to represent this)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Penguin dict. of arch.</marcxml:subfield>
+              <marcxml:subfield code="b">(Nymphaeum)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. 3</marcxml:subfield>
+              <marcxml:subfield code="b">(Nymphaeum)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Acad. Am. encyc.;</marcxml:subfield>
+              <marcxml:subfield code="a">Encyc. Am.;</marcxml:subfield>
+              <marcxml:subfield code="a">Encic. ital.;</marcxml:subfield>
+              <marcxml:subfield code="a">Ox. classic. dict.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,93 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02143cz  a2200349n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr93020782</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20090512075254.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">930608n| acannaabn          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr 93020782 </marcxml:subfield>
+    <marcxml:subfield code="z">nr 97013155 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca03389374</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NjP</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">UkCU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">Uk</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica di S. Sebastiano (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica di San Sebastiano (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="w">nne</marcxml:subfield>
+    <marcxml:subfield code="a">S. Sebastiano fuori le mura (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">San Sebastiano sulla via Appia (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Saint-Sébastien hors les murs (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica of San Sebastiano (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">San Sebastiano fuori le mura (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">San Sebastiano ad Catacumbas (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">San Sebastiano alle Catacombe (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica Apostolorum (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica Petri et Pauli (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ferrua, A. La Basilica e la catacomba di S. Sebastiano, 1990.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Roma e dintorni (TCI), 1977</marcxml:subfield>
+    <marcxml:subfield code="b">(Basilica di S. Sebastiano, via Appia, connects with the catacombs)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">History of architecture, 18th ed., 1975:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 845 (S. Sebastiano fuori le mura, Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OCLC, Apr. 3, 1997</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: San Sebastiano sulla via Appia (Church : Rome, Italy))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Saint-Sébastien hors les murs, 1925:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Saint-Sébastien hors les murs)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Enc. Brit. at Britannica.com, Mar. 16, 2001</marcxml:subfield>
+    <marcxml:subfield code="b">(under columbarium: Basilica of San Sebastiano in Rome; under catacomb: Basilica of San Sebastiano, located on the Appian Way near Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 19 Oct. 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(San Sebastiano fuori le mura, or San Sebastiano ad Catacumbas)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Italian Wikipedia, 19 Oct. 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(San Sebastiano alle Catacombe)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">La Basilica Apostolorum sulla via Appia e l'area cimiteriale circostante, 2009:</marcxml:subfield>
+    <marcxml:subfield code="b">p. xii (Basilica Petri et Pauli) p. xiii (The  Basilica di S. Sebastiano (Rome, Italy) once called Basilica Apostolorum or Basilica Petri e Pauli was built on the remains of the 4th century Basilica)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,101 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02027cz  a2200337n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n50080634</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20140522070205.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">810216n| azannaabn          |a aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  50080634 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00114206</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">TxU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">ICrlF</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">15791209</marcxml:subfield>
+              <marcxml:subfield code="g">16391103</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Martín,</marcxml:subfield>
+              <marcxml:subfield code="c">de Porres, Saint,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Saint</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lima (Peru)</marcxml:subfield>
+              <marcxml:subfield code="b">Lima (Peru)</marcxml:subfield>
+              <marcxml:subfield code="c">Peru</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">male</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">spa</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">De Porres Martín,</marcxml:subfield>
+              <marcxml:subfield code="c">Saint,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Martín,</marcxml:subfield>
+              <marcxml:subfield code="c">de Porras, Saint,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Porras, Martín de,</marcxml:subfield>
+              <marcxml:subfield code="c">Saint,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Porres, Martín de,</marcxml:subfield>
+              <marcxml:subfield code="c">Saint,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Porres, Juan Martín de,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">De Porres, Juan Martín,</marcxml:subfield>
+              <marcxml:subfield code="d">1579-1639</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Meet brother Martin ... 1936.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">St. Martin de Porres, 1962.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Collier's Enc.</marcxml:subfield>
+              <marcxml:subfield code="b">(Martin de Porres, St. (1579-1639))</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Enc. Brit, 15th ed.</marcxml:subfield>
+              <marcxml:subfield code="b">(Porres, San Martín de, b. 1579, d. 11-3-1639; Peruvian national patron of social justice)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Enc. univ. illus.</marcxml:subfield>
+              <marcxml:subfield code="b">(Martín de Porres, Beato, b. 1569, d. 11-5-1639)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">San Martín de Porras, 1992</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, May 9, 2013</marcxml:subfield>
+              <marcxml:subfield code="b">(Saint Martin de Porres; born December 9, 1579 in Lima, Viceroyalty of Peru; died November 3, 1639 in Lima; a lay brother of the Dominican Order who was beatified in 1837 by Pope Gregory XVI and canonized in 1962 by Pope John XXIII. He is the patron saint of mixed-race people and all those seeking interracial harmony.  Among the many miracles attributed to him were those of levitation, bilocation, miraculous knowledge, instantaneous cures, and an ability to communicate with animals. Juan Martin de Porres was born in the city of Lima, in the Viceroyalty of Peru, on December 9, 1579, the illegitimate son of a Spanish nobleman, Don Juan de Porres. His mother was a freed slave from Panama, of African or possibly part Native American descent, named Ana Velázquez.)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

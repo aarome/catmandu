@@ -1,0 +1,76 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00909cz  a2200277n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">no2014033694</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20161015075245.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">140313n| azannaabn          |n aaa     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">no2014033694</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://dbpedia.org/resource/Huck_Hodge</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">Q1633717</marcxml:subfield>
+              <marcxml:subfield code="2">wikidata</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://www.wikidata.org/entity/Q1633717</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca09705367</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">NNC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">NNC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1977</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Hodge, Huck,</marcxml:subfield>
+              <marcxml:subfield code="d">1977-</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Gainesville (Fla.)</marcxml:subfield>
+              <marcxml:subfield code="c">United States</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Composition (Music)</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Art music</marcxml:subfield>
+              <marcxml:subfield code="2">lcgft</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Composers</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Males</marcxml:subfield>
+              <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">eng</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">For Tristan Murail, 2012:</marcxml:subfield>
+              <marcxml:subfield code="b">insert (Huck Hodge, composer)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Efflux, ©2007:</marcxml:subfield>
+              <marcxml:subfield code="b">title page (Huck Hodge)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, March 7, 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Huck Hodge, American composer; born 1977, Gainesville, FL)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

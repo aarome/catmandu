@@ -1,0 +1,45 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00850cz  a2200193n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n93048584</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19931208090410.5</marcxml:controlfield>
+  <marcxml:controlfield tag="008">930524n| acannaab|          |a ana |||  </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  93048584 </marcxml:subfield>
+    <marcxml:subfield code="z">nr 93000721 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Cattedrale di San Lorenzo (Perugia, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Duomo di Perugia (Perugia, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Perugia (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Cattedrale di San Lorenzo</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Cattedrale di Perugia (Perugia, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Cattedrale di S. Lorenzo (Perugia, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Museo della Cattedrale di Perugia, 1991- :</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1, p. xiii (Cattedrale di San Lorenzo in Perugia) p. xxi, etc. (Duomo di Perugia; Cattedrale San Lorenzo)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Arte in Italia, c1983:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 431 (Cattedrale di S. Lorenzo)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Una città e la sua cattedrale, 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Cattedrale di S. Lorenzo, Perugia)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,32 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00768nz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2012023743</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20120219075039.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">120217n| acannaabn          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2012023743</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca09119473</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OU</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">OU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Stadio Olimpico (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Olympic Stadium</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stadio Olimpico, 1991?:</marcxml:subfield>
+    <marcxml:subfield code="b">cover (Stadio Olimpico) p. 3 (Olympic Stadium; the World Football Championship of 1990 sports event) p. 5 (originally built in the 30s) p. 4 of cover ( Stadio Olimpico, Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stadio Olimpico, Rome, via WWW, Feb. 17, 2012</marcxml:subfield>
+    <marcxml:subfield code="b">(Stadio Olimpico, Rome, Italy; nickname: Olympic Stadium; used for the Olympic Games in 1960, XXVII Olympiad; host huge sports events, including the 1990 FIFA World Cup)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

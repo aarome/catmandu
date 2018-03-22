@@ -1,0 +1,43 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00697cz  a2200181n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh86001018</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19920409102614.5</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860224|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 86001018 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Arch of Nero (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nero, Arch of (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Nero's Arch (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Triumphal arches</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Kleiner, F.S. The Arch of Nero in Rome, 1985</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Griffin, M.T. Nero: The End of a Dynasty, 1984: p. 122</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica 14;</marcxml:subfield>
+              <marcxml:subfield code="a">Coarelli, F. Guida Archaeological di Roma, 1974;</marcxml:subfield>
+              <marcxml:subfield code="a">Kleine Pauly;</marcxml:subfield>
+              <marcxml:subfield code="a">Ox. classic. dict.;</marcxml:subfield>
+              <marcxml:subfield code="a">Princeton encyc. classic. sites;</marcxml:subfield>
+              <marcxml:subfield code="a">Walter, G. Nero, 1976</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

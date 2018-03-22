@@ -1,0 +1,53 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01108nz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh94003435</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19940622104941.3</marcxml:controlfield>
+            <marcxml:controlfield tag="008">940518|| anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 94003435 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItRSI</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Ara Pacis (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Altar of Augustan Peace (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Altar of Peace (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Altar of Peace of Augustus (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Ara Pacis Augustae (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Altars</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Ara Pacis Augustae, 1938.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict., 1950</marcxml:subfield>
+              <marcxml:subfield code="b">(Ara Pacis: a monument to commemorate the safe return of Augustus from Gaul and Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedeker's Rome &amp; Central Italy, 16th ed.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 212, etc. (Ara Pacis; Ara Pacis Augustae; the shrine of the goddess of Peace erected in 13-9 B.C. after the return of Augustus from his campaigns in Spain and Gaul)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 1, p. 477 (Ara Pacis, also Ara Pacis Augustae, Altar of Augustan Peace)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hachette guide to Italy, 1988:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 527 (Ara Pacis Augustae, Altar of Peace of Augustus)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

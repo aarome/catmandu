@@ -1,0 +1,46 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00613cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">nb2013010899</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150107071615.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">130529n| azannaabn          |n ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">nb2013010899</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca09485437</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Uk</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">Uk</marcxml:subfield>
+              <marcxml:subfield code="d">InU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="043" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">e-it---</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Blera (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cities and towns</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Italy</marcxml:subfield>
+              <marcxml:subfield code="e">Viterbo, Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Vocabolario del dialetto di Blera, 2010:</marcxml:subfield>
+              <marcxml:subfield code="b">prelim. (Blera, VT) p. [vi] (Comune di Blera)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet, 29 May 2011</marcxml:subfield>
+              <marcxml:subfield code="b">(Blera, Lazio, Italy; populated place, 42°16ʹN, 12°01ʹE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Blera</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

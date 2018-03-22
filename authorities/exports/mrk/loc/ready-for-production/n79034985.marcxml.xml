@@ -1,0 +1,160 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03370cz  a2200565n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79034985</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20111018074628.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790425n| acannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79034985 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85068750 </marcxml:subfield>
+    <marcxml:subfield code="z">nb2011025248</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0285800</marcxml:subfield>
+    <marcxml:subfield code="e">E0285800</marcxml:subfield>
+    <marcxml:subfield code="f">N0410100</marcxml:subfield>
+    <marcxml:subfield code="g">N0410100</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00268573</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(Uk)000349558</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">IEN</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">Uk</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">a-tu---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Istanbul (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stamboul (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stampōl (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stambul (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stěmpol (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">T︠S︡arigrad (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Istāmbūl (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">T︠S︡arʹgrad (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Āsitānah (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ḳushṭa (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">İstanbul Büyük Şehir Belediyesi (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Greater Istanbul Municipality (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">İstanbul Anakent Belediyesi (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">İstanbul Büyükşehir Belediyesi (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Polē (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Estambul (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Baladīyat Isṭānbūl (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Istanbul Metropolitan Municipality (Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">Constantinople</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Valid as a name heading after 1453</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Istanbul</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ʻĀrif Ardabīlī. Farhād nāmah-ʼi ... 2535 i.e. 1976 or 1977:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Islāmbūl)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN phone call 7/31/81</marcxml:subfield>
+    <marcxml:subfield code="b">(İstanbul, ppl, 41°01ʹN, 28°58ʹE; Istanbul (conventional); variant: Constantinople [earlier name]; Byzantium [earlier name]; Stamboul, Stambul; Istambul)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Barnay, Y. Yehude Erets-Yiśraʼel ba-meʼah ha-18. ... 1982 (subj.)</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ḳushṭa)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Conf. on the Preservation of Architect. Heritage of Islamic Cities (1985 : Istanbul, Turkey). Bildiriler, 1987:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (İstanbul Büyük Şehir Belediyesi; Greater Istanbul Municipality)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">T.C. devlet teşkilatı rehberi, 1986, 1986:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 512 (With law no. 3030 of 6/27/84 the administration, but not the boundaries, of those large cities now designated as "büyük şehir belediyeleri" has changed)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN, 6-13-88</marcxml:subfield>
+    <marcxml:subfield code="b">(İstanbul; variants: İstanbul Büyük Şehir Belediyesi, İstanbul Anakent Belediyesi)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sayılarla İstanbul, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (İstanbul Büyükşehir Belediyesi)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kamarados-Vyzantios, G. To xerrizōma tou Hellēnismou tēs Polēs ... 1987?:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (tēs Polēs; stēn Polē)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Estambul, c1996.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">al-Ḥifāẓ ʻalá al-turāth al-miʻmārī al-Islāmī, 1988 or 1989- :</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1, t.p. (Baladīyat Istānbūl)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">İstanbul Büyükşehir Belediyesi WWW English home page, 3 June 2010</marcxml:subfield>
+    <marcxml:subfield code="b">(Istanbul Metropolitan Municipality)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet, Dec. 7, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(Istanbul (BGN conventional); İstanbul (BGN standard)--PPL, 41°01ʹ07ʺN 28°57ʹ53ʺE, variants: Byzantion; Byzantium; Constantinople; Constantinopoli; Constantinopolis; Istamboul; Istambul; Konstantinopel; Konstantinoupolis; Kustantiniyah; Stamboul; Stambul; Tsarigrad; İstanbul İli, Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Istanbul Büyükşehir Belediyesi web site, 22 Sept. 2011</marcxml:subfield>
+    <marcxml:subfield code="b">(Istanbul Büyükşehir Belediyesi; Istanbul Metropolitan Municipality)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Turkey</marcxml:subfield>
+    <marcxml:subfield code="z">Istanbul</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

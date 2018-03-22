@@ -1,0 +1,50 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00910cz  a2200205n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85006507</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19960910150745.3</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860211i| anannbab|          |b ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85006507 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">CC</marcxml:subfield>
+              <marcxml:subfield code="c">General</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Archaeology</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="360" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">subdivision</marcxml:subfield>
+              <marcxml:subfield code="a">Antiquities</marcxml:subfield>
+              <marcxml:subfield code="i">under names of countries, cities, etc., and under individual ethnic groups, e.g.</marcxml:subfield>
+              <marcxml:subfield code="a">Egypt--Antiquities; Mayas--Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Archeology</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Anthropology</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Auxiliary sciences of history</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">History</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Here are entered works on archaeology as a branch of learning. This heading may be divided geographically for works on this branch of learning in a specific place. Works on the antiquities of particular regions, countries, cities, etc. are entered under the name of the place subdivided by</marcxml:subfield>
+              <marcxml:subfield code="a">Antiquities.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

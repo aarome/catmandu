@@ -1,0 +1,72 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01121cz  a2200277n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79021085</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130921070328.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790411n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79021085 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00254886</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">DNLM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cagliari (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">nne</marcxml:subfield>
+    <marcxml:subfield code="a">Cagliari (Sardinia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caller (Sardinia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Karales (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Karalis (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Carales (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caralis (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tuvixeddu, c2000:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Karales)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sardinia.net WWW site, Jan. 12, 2005:</marcxml:subfield>
+    <marcxml:subfield code="b">Cagliari page (ancient names for Cagliari are Karalis or Karales)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Nagel's Italy, 1987:</marcxml:subfield>
+    <marcxml:subfield code="b">Cagliari section, p. 1264 (Carthaginian and Roman necropolis of Caralis)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Breve storia di Cagliari, c2012:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 17 (Carales  [no publs. in LC ], ancient name for Cagliari)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">International Symposium on Trends in Neuroimmunology (1988 : Cagliari, Italy). Trends in neuroimmunology, c1990:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP t.p. verso (Cagliari, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Cagliari</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

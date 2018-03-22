@@ -1,0 +1,107 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02331cz  a2200325n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no99068108</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140727070438.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">990917n| azannaabn          |n aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no 99068108 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca05066177</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OOC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">OOC</marcxml:subfield>
+    <marcxml:subfield code="d">MoKU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">1962</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Rudy, Paul,</marcxml:subfield>
+    <marcxml:subfield code="d">1962-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="e">Kansas City (Mo.)</marcxml:subfield>
+    <marcxml:subfield code="e">Austin (Tex.)</marcxml:subfield>
+    <marcxml:subfield code="e">Boulder (Colo.)</marcxml:subfield>
+    <marcxml:subfield code="e">North Newton (Kan.)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="371" ind1=" " ind2=" ">
+    <marcxml:subfield code="m">rudyp@umkc.edu</marcxml:subfield>
+    <marcxml:subfield code="v">Paul Rudy WWW site, April 30, 2014</marcxml:subfield>
+    <marcxml:subfield code="u">http://www.paulrudy.com/Paul_Rudy/Home.html</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="372" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Music</marcxml:subfield>
+    <marcxml:subfield code="a">Composition (Music)</marcxml:subfield>
+    <marcxml:subfield code="a">Electronic music</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">University of Texas at Austin</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+    <marcxml:subfield code="t">1997</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">University of Colorado Boulder</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+    <marcxml:subfield code="t">1992</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Bethel College (North Newton, Kan.)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+    <marcxml:subfield code="t">1984</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">United States</marcxml:subfield>
+    <marcxml:subfield code="a">Aspen Music Festival</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+    <marcxml:subfield code="s">1995</marcxml:subfield>
+    <marcxml:subfield code="t">2001</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">University of Missouri--Kansas City. Conservatory of Music and Dance</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+    <marcxml:subfield code="s">1999</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Composers</marcxml:subfield>
+    <marcxml:subfield code="a">Musicians</marcxml:subfield>
+    <marcxml:subfield code="a">Music teachers</marcxml:subfield>
+    <marcxml:subfield code="a">Educators</marcxml:subfield>
+    <marcxml:subfield code="a">College teachers</marcxml:subfield>
+    <marcxml:subfield code="a">Authors</marcxml:subfield>
+    <marcxml:subfield code="a">Lecturers</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">eng</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="378" ind1=" " ind2=" ">
+    <marcxml:subfield code="q">Paul David</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Hultgren, C. Electro-acoustic cello book, ℗1999:</marcxml:subfield>
+    <marcxml:subfield code="b">label (Paul Rudy) insert (composer; currently on faculty of Univ. of Missouri, Kansas City, Conservatory of Music, and the Aspen Music School)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OCLC database, Sept. 16, 1999</marcxml:subfield>
+    <marcxml:subfield code="b">(access points.: Rudy, Paul David, 1962- ; Rudy, Paul; usage: Paul David Rudy; Paul Rudy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">2001-2002 UMKC general catalog, 2001:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 468 (Paul Rudy; D.M.A., University of Texas at Austin)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Paul Rudy WWW site, April 30, 2014:</marcxml:subfield>
+    <marcxml:subfield code="b">Professor; Full CV (Paul Rudy; composer, author, lecturer; DMA, Composition, The University of Texas at Austin, 1997; MM, Composition, The University of Colorado, Boulder, 1992; BA, Trumpet, Bethel College (N. Newton, KS), 1984. Curators' Professor, University of Missouri-Kansas City, 2012- ; Coordinator of Composition Studies, University of Missouri-Kansas City, Conservatory of Music (2005-2012); Professor of Composition, University of Missouri-Kansas City, Conservatory of Music (1999-2012); member of Board of Directors, NewEar Ensemble, Kansas City, Missouri (2000-2006); Faculty Composition Technologist and Founder and Director of AMPS (Amplified Music Performance Series), Aspen Music Festival, 1995-2001)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

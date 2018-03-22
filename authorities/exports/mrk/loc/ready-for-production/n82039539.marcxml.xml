@@ -1,0 +1,36 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00706cz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n82039539</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130329074724.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">820422n| azannaabn          |n aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  82039539 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="053" ind1=" " ind2="0">
+    <marcxml:subfield code="a">ML410.S473</marcxml:subfield>
+    <marcxml:subfield code="c">Biography</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Sessions, Roger,</marcxml:subfield>
+    <marcxml:subfield code="d">1896-1985</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Centeno, A. The intent of the artist ... 1941.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His Conversations with Roger Sessions, c1987:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP in published book (hdg.: Sessions, Roger, 1896-1985)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Baker's biographical dictionary of twentieth-century classical musicians, c1997</marcxml:subfield>
+    <marcxml:subfield code="b">(Sessions, Roger (Huntington); b. Dec. 28, 1896, Brooklyn; d. Mar. 16, 1985, Princeton, N.J. ; American composer and teacher)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

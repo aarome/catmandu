@@ -1,0 +1,247 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03992cz  a2200661n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79055925</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130309074702.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790629n| azannaabn          |b aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79055925 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00289032</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="g">0337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantine</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Rome</marcxml:subfield>
+    <marcxml:subfield code="e">Rome, Italy</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Emperor</marcxml:subfield>
+    <marcxml:subfield code="a">Military leader</marcxml:subfield>
+    <marcxml:subfield code="a">Religious leader</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">lat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantijn,</marcxml:subfield>
+    <marcxml:subfield code="c">de Grote,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantin,</marcxml:subfield>
+    <marcxml:subfield code="c">cel Mare,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantin</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantin,</marcxml:subfield>
+    <marcxml:subfield code="c">le Grand,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="w">nnea</marcxml:subfield>
+    <marcxml:subfield code="a">Constantine</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">d. 337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantine,</marcxml:subfield>
+    <marcxml:subfield code="c">Saint,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantine,</marcxml:subfield>
+    <marcxml:subfield code="c">the Great,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantino</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantinus Flavius Valerius Aurelius,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantinus</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Constantinus,</marcxml:subfield>
+    <marcxml:subfield code="c">Magnus,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Costantino</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Costantino,</marcxml:subfield>
+    <marcxml:subfield code="c">il Grande,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Flaviĭ Valeriĭ Avreliĭ Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Flavius Valerius Aurelius Constantinus Augustus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Flavius Valerius Aurelius Constantinus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Flavius Valerius Constantinus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">den Store,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">der Grosse,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">Veliki,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">Velikiĭ,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantin,</marcxml:subfield>
+    <marcxml:subfield code="c">Vulki,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Kōnstantinos,</marcxml:subfield>
+    <marcxml:subfield code="c">ho Megas,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Kōnstantinos</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Konstantyn,</marcxml:subfield>
+    <marcxml:subfield code="c">Weliký,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Kostandianos</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Κωνσταντίνος,</marcxml:subfield>
+    <marcxml:subfield code="c">ο Μέγας,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Флавий Валерий Аврелий Константин,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Константин</marcxml:subfield>
+    <marcxml:subfield code="b">I,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Константин,</marcxml:subfield>
+    <marcxml:subfield code="c">Великий,</marcxml:subfield>
+    <marcxml:subfield code="d">-337</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Constantin cel Mare, 1982:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p., etc. (Constantin cel Mare)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">L'Orange, H.P. Das spätantike Herrscherbild von Diokletian bis zu den Konstantin-Söhnen, 284-361 n. Chr., c1984:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Konstantin) p. 38, etc. (b. ca. 282; d. 337; Flavius Valerius Constantinus)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Loi de jugement, 1971:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Empereur Constantin)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Le pied de l'arc en ciel, 1995:</marcxml:subfield>
+    <marcxml:subfield code="b">cover p. 4 (Constantin "le Grand")</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Hoi morphes tōn archaiōn theōn stēn nomismatokopia tou Megalou Kōnstantinou, 1998:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 47 (Constantine I, the Great, reigned from 25th of July, 306 AD up to his death on 22nd of May, 337)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vojskovođa, car, svetac, 1997:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (... Konstantina Velikog)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Las grandes reformas fiscales del Imperio Romano, 2006:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Constantino)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, Apr. 13, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(Constantine I; Caesar Flavius Valerius Aurelius Constantinus Augustus (27 Feb. c. 272-22 May 337), commonly known in English as Constantine I, Constantine the Great, or (among Eastern Orthodox, Oriental Orthodox and Byzantine Catholic Christians) Saint Constantine, was Roman emperor from 306, and the undisputed holder of that office from 324 until his death in 337) Greek page (Κωνσταντίνος Αʹ ο Μέγας = Kōnstantinos I ho Megas) Russian page (Константин I Великий = Konstantin I Velikiĭ; Флавий Валерий Аврелий Константин = Flaviĭ Valeriĭ Avreliĭ Konstantin, Константин I = Konstantin I, Константин Великий = Konstantin Velikiĭ; Latin: Flavius Valerius Aurelius Constantinus)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,22 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00325nz  a2200121n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr97020789</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19970621051555.6</marcxml:controlfield>
+  <marcxml:controlfield tag="008">970606n| acannaab|          |n aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr 97020789 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">HU</marcxml:subfield>
+    <marcxml:subfield code="c">HU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Green, Elliott,</marcxml:subfield>
+    <marcxml:subfield code="d">1960-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Elliott Green, c1996:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 14, etc. (artist; b. 1960, Detroit, Mich.)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

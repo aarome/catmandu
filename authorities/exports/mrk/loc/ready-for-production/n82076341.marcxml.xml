@@ -1,0 +1,76 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01299cz  a2200289n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n82076341</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20100515075349.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">820702n| acannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  82076341 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0381700</marcxml:subfield>
+    <marcxml:subfield code="e">E0381700</marcxml:subfield>
+    <marcxml:subfield code="f">N0343300</marcxml:subfield>
+    <marcxml:subfield code="g">N0343300</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00773080</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">a-sy---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tadmur (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tudmur (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tadmor (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tedmor (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Palmyra (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Palmyre (Syria)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">Palmyra</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Heading is applicable after 634. Before 635, use: Palmyra.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN 8/4/81</marcxml:subfield>
+    <marcxml:subfield code="b">(Tadmur, ppl, 34°33ʹN, 38°17ʹE; variants: Tudmur, Tadmor)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tel. call to BGN, 7/11/84</marcxml:subfield>
+    <marcxml:subfield code="b">(Tadmur (Syria); ppl, 34°33ʹN, 38°17ʹE; variants: Tudmur, Tadmor, Tedmor)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN, 10-21-87</marcxml:subfield>
+    <marcxml:subfield code="b">(Tadmur, ppl., 34°33ʹN, 38°17ʹE; variants: Palmyre, Tedmor, Tudmur, Tadmor, Palmyra)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Browning, I. Palmyra, c1979:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 9 (name Tadmor is attested as early as 19th cent. B.C.) p. 10 (known to Romans as Palmyra; incorporated into Roman province of Syria in ca. 17 A.D.) p. 50 (with Islam, town reverted to its ancient name Tadmor; surrendered to Khalid ibn al Walid in 634)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Syria</marcxml:subfield>
+    <marcxml:subfield code="z">Tadmur</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

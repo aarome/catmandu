@@ -1,0 +1,58 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02041nz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh96003610</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19960521113209.8</marcxml:controlfield>
+            <marcxml:controlfield tag="008">960329i| anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 96003610 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItRSI</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Rostra (Roman architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Rostrums (Roman architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Architecture, Roman</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Boni, G. Esplorazione dei rostri, 1981.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Deman, E. The so-called Flavian rostra, 1909.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nagel's Italy, 1987:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 791 (Rostra; the platform from which orators addressed the people)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedeker's Rome, 1930:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 329 (Rostra; the orators' tribune erected by Augustus)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford classical dict.</marcxml:subfield>
+              <marcxml:subfield code="b">(Rostra; the earliest speaker's platform at Rome lay on the S. side of the Comitium; built in 338 B.C.; it was adorned with the prows of captured ships (from which it takes its name). Caesar built a new rostra at the N. end of the Forum which was added on to by Augustus in 42 B.C.; others were built in 29 B.C. and 470 A.D.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Companion guide to Rome, 1972:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 50 (the orig. Rostra was built so that speakers could address people standing in the Comitium on one side or in the Forum on the other) pp. 56-57 (Caesar built a new Rostra (Augustus completed building it) at the Capitoline end of the Forum, these are the remains seen today)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Macro.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 19, p. 568, under Rome (Republican rostra; orig. rostra rebuilt by Sulla) p. 570 (Caesarian rostra; built by Caesar, enlarged by Augustus)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. 3</marcxml:subfield>
+              <marcxml:subfield code="b">(Rostrum; Rosturms or Rostra: platform for speakers in the Forum of ancient Rome decorated with the beaks of ships captured in war)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Pictorial dict. of ancient Rome, 1968:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 2, p. 272, etc. (Rostra; republican rostra; orator's platform presum. built by Maenius 338 B.C. was later rebuilt by Sulla on approx. the same place; destroyed when Caesar replanned the Forum and built a new Rostra which was completed by Augustus (Rostra Augusti) excavated in 1831/34)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

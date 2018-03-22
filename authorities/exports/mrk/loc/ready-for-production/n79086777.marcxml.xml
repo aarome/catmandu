@@ -1,0 +1,51 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01019cz  a2200229n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79086777</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20160621075303.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800418n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79086777 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00319204</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaElC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">DNLM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="s">1870</marcxml:subfield>
+    <marcxml:subfield code="t">2014-12-31</marcxml:subfield>
+    <marcxml:subfield code="2">edtf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy : Province)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Provincia di Roma</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Its Fogli degli annunzi legali ...</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, June 19, 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(The Province of Rome (Italian: Provincia di Roma) was one of the five provinces of Lazio, Italy. The province of Rome ... is essentially coterminous with the Rome metropolitan area. Rome was the provincial capital. The Province of Rome existed from 1870 to 31 December 2014. On 1 January 2015, it was replaced with a new administrative area, the Metropolitan City of Rome Capital. [no publications in LC or NLM])</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="675" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Rome (Province)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

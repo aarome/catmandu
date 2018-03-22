@@ -1,0 +1,55 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01021cz  a2200229n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n81113048</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20010726074031.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">811009n| acannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  81113048 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00658075</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Collegio dei maroniti (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Collège maronite romain</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Maronite College (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Collegio dei maroniti</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Maronite College</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Madrasah al-Mārūnīyah</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Collège maronite de Rome</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Raphael, P. Le rôle du Collège ... 1950 (subj.)</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Collège maronite romain) p. 53 (founded in 1585; ceased to exist in 1799; restored in 1890)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Catholic encycl.,</marcxml:subfield>
+    <marcxml:subfield code="b">v. 13, p. 135 (Collegio dei maroniti; Maronite College)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dalīl al-makhṭūṭāt wa-al-kutub al-maʻrūḍah ... 1984:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (al-Madrasah al-Mārūnīyah fī Rūmā) added t.p. (Collège maronite de Rome)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,30 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00540nz  a2200145n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n2011064052</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20110916075009.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">110915n| acannaabn          |n ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n 2011064052</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pietole (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Quattro dipinti restaurati della chiesa di Pietole, 2011:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Pietole)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet, Sept. 15, 2011:</marcxml:subfield>
+    <marcxml:subfield code="b">(Pietole; Italy; Lombardy; 45° 07ʹ N  010° 50ʹ E; PPL)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, Sept. 15, 2011:</marcxml:subfield>
+    <marcxml:subfield code="b">(under Vigilio:  Pietole is a frazione in the comune of Virgilio)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

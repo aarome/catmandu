@@ -1,0 +1,174 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02815cz  a2200577n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2016012139</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20160709075226.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">160128n| azannaabn          |b aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2016012139</marcxml:subfield>
+    <marcxml:subfield code="z">sh 85105379 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca10375920</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">UPB</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseidon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Greek deity</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Gods, Greek</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Males</marcxml:subfield>
+    <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Bō sāi dōng</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Bosaidong</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Bosidun</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Pasejdon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poiséadón</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseidōnas</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseidone</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseidoni</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseidons</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Posejdon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poseydon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Posidó</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Posidon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poszeidón</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Pozejdon</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Pozidono</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Puseidonu</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">بوسيدون</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Ποσειδτ̔̈»εε·ν</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Ποσειδτ̔̈«”ϐδ·νας</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Пасейдон</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Пасэйдон</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Посејдон</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Посейдон</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">포세이돈</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">פוסידון</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">ポセイドーン</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">波塞冬</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="500" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Neptune</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">De Fidio, Pia. I dosmoi pilii a Poseidon, 1977.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 28 January 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Poseidon;  Ποσειδτ̔̈»εε·ν; one of the twelve Olympian deities in Greek mythology, main domain the ocean, also called the earth shaker because of his role in causing earthquakes; equivalent to Neptune in Roman mythology; other forms of name: بوسيدون ; Poseydon; Posejdon; Пасейдон; Пасэйдон; Посейдон; PosidЃo; Puseidonu; Ποσειδτ̔̈«”ϐδ·νας; PoisЃeadЃon; 포세이돈; Poseidone; פוסידון ; Poseidoni; Posidon; Poseidons; PoszeidЃon; Посејдон; ポセイドーン; Pozejdon)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Merriam-Webster dictionary online, July 8, 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Poseidon: the Greek god of the sea -- compare Neptune; Neptune: the Roman god of the sea -- compare Poseidon)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Oxford dictionaries online, July 8, 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Poseidon. The god of the sea, water, earthquakes, and horses, son of Cronus and Rhea and brother of Zeus. He is often depicted with a trident in his hand. Roman equivalent Neptune)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,50 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00917cz  a2200217n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2005005945</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20060217115123.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">050901|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2005005945</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItFiC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Tursi (Genoa, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Doria Tursi Palace (Genoa, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Doria Tursi (Genoa, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Townhall Palace (Genoa, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Tursi Palace (Genoa, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Palaces</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2005448045: The Musei di Strada Nuova in Genoa : Palazzo Rosso, Palazzo Bianco and Palazzo Tursi, 2004.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Comune di Genova WWW site, August 31, 2005:</marcxml:subfield>
+              <marcxml:subfield code="b">La città (Palazzo Tursi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeNova04 WWW site, Dec. 20, 2005</marcxml:subfield>
+              <marcxml:subfield code="b">(Palazzo Tursi; Palazzo Doria Tursi; built 1565; Via Garibaldi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hello Riviera WWW site, Dec. 20, 2005</marcxml:subfield>
+              <marcxml:subfield code="b">(Townhall Palace, also called the Tursi Palace)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

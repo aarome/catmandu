@@ -1,0 +1,35 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00734cz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr2002026953</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20021210033204.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">020722n| acannaabn          |n aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr2002026953</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NNPM</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">NNPM</marcxml:subfield>
+    <marcxml:subfield code="d">NNPM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Camassei, Andrea,</marcxml:subfield>
+    <marcxml:subfield code="d">1602-1649</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rape of Proserpine [drawing], 16--</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Thieme-Becker</marcxml:subfield>
+    <marcxml:subfield code="b">(Camassei, Andrea; painter and etcher; b. Dec. 2, 1602 in Bevagna near Foligno; d. Aug. 18, 1649 in Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The Grove dictionary of art online, Dec. 2, 2002</marcxml:subfield>
+    <marcxml:subfield code="b">(Camassei, Andrea; b. Bevagna, Umbria, bapt. Dec. 1, 1602; d. Rome, Aug. 18, 1649; Italian painter and printmaker)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Union list of artist names, Dec. 2, 2002</marcxml:subfield>
+    <marcxml:subfield code="b">(Camassei, Andrea; Italian artist, 1602-1649)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

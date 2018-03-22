@@ -1,0 +1,83 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01159cz  a2200301n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79085026</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130228074700.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">791010n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79085026 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0134418</marcxml:subfield>
+    <marcxml:subfield code="e">E0134418</marcxml:subfield>
+    <marcxml:subfield code="f">N0510303</marcxml:subfield>
+    <marcxml:subfield code="g">N0510303</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00317513</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OrU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">NNC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-gx---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dresden (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Drezno (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dráždʼany (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dresda (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Landeshauptstadt Dresden (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Drezden (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Dresden</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dresda sull'Arno, c1982:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Dresda)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Strehlow, H. Dresdener Plätze, c2002:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Landeshauptstadt Dresden) colophon (Landeshauptstadt Dresden)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Drezdenskai︠a︡ kartinnai︠a︡ galerei︠a︡, starye mastera, 1980:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Drezden)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Atlas mira, 1999</marcxml:subfield>
+    <marcxml:subfield code="b">p. 90, 356 (Drezden, Germanii︠a︡)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 51°03ʹ03ʺN 013°44ʹ18ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Germany</marcxml:subfield>
+    <marcxml:subfield code="z">Dresden</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

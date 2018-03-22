@@ -1,0 +1,36 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00800nz  a2200169n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh95008906</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19951206112658.9</marcxml:controlfield>
+            <marcxml:controlfield tag="008">951020|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 95008906 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Campanile di San Marco (Venice, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">San Marco Campanile (Venice, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Bell towers</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 93-190271: Il Campanile di San Marco, 1992.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hachette guide to Italy, 1988:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 830, under Venice (Il Campanile; collapsed in 1902 but rebuilt)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Italia, guida artistica, 1993:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 258, under Venezia (Campanile di San Marco; located on the small square in front of the Palazzo ducale; from the 12th century; restructured 1511-1514; rebuilt 1903-1912; work of Giorgio Spavento and Bartolomeo Bon)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

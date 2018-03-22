@@ -1,0 +1,88 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01246cz  a2200289n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79042080</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140126070216.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790502n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79042080 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0121204</marcxml:subfield>
+    <marcxml:subfield code="e">E0121204</marcxml:subfield>
+    <marcxml:subfield code="f">N0442503</marcxml:subfield>
+    <marcxml:subfield code="g">N0442503</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E012.201111</marcxml:subfield>
+    <marcxml:subfield code="e">E012.201111</marcxml:subfield>
+    <marcxml:subfield code="f">N044.417500</marcxml:subfield>
+    <marcxml:subfield code="g">N044.417500</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00275524</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC-R</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">LNT</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ravenna (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Italy</marcxml:subfield>
+    <marcxml:subfield code="f">Emilia-Romagna (Italy)</marcxml:subfield>
+    <marcxml:subfield code="f">Ravenna (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ravenne (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Raṿeno (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Ravenna</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frossard, A. L'Evangile selon Ravenne, c1984:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ravenne)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Col. Lipp. gaz., 1952</marcxml:subfield>
+    <marcxml:subfield code="b">(Ravenna; city, Ravenna prov., Emilia-Romagna, N cent. Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Seder tefilat minḥah,1703:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Raṿeno)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 44°25ʹ03ʺN 012°12ʹ04ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, 22 January 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Ravenna; country: Italy; ADM1: Emilia-Romagna; 44° 25ʹ 03ʺN, 012° 12ʹ 04ʺE; 44.4175 [N], 12.201111 [E]; populated place)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Ravenna</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

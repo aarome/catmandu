@@ -1,0 +1,57 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01738nz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh94003441</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19940622105431.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">940518i| anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 94003441 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItRSI</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Basilicas (Roman architecture)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Roman basilicas</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Public buildings</marcxml:subfield>
+              <marcxml:subfield code="z">Rome</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 453, under Roman architecture (Basilicas: the basilica was a large covered hall for the holding of courts of justice and for banking and other commercial transactions.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. 2</marcxml:subfield>
+              <marcxml:subfield code="b">(Basilicas: Rom. antiq. An oblong building typically with a broad nave ending a semicircular apse ... used for the sittings of tribunals and as public halls of exchange or assembly)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict.</marcxml:subfield>
+              <marcxml:subfield code="b">(Basilica, a Roman form of building consisting of a rectangular roofed hall, with or without exedras, which served as a social or commercial meeting place, associated with a forum)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Peng. dict. arch.</marcxml:subfield>
+              <marcxml:subfield code="b">(Basilica: an ancient Roman colonnaded hall for public use, later adopted as a building type for early Christian churches. The term indicated function and not form)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Yarwood, D. Encyc. arch., 1986</marcxml:subfield>
+              <marcxml:subfield code="b">(Basilica: one of most important buildings of ancient Rome)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Zestermann, A. Die antiken und die christlichen basiliken, 1847</marcxml:subfield>
+              <marcxml:subfield code="b">(basilicas were a Roman form)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Here are entered works on large oblong buildings of ancient Rome that were used as public meeting places or halls of justice. Works on Christian churches built following the form of ancient Roman basilicas as well as Roman Catholic churches having certain liturgical privileges are entered under</marcxml:subfield>
+              <marcxml:subfield code="a">Basilicas.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="681" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Note under</marcxml:subfield>
+              <marcxml:subfield code="a">Basilicas</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

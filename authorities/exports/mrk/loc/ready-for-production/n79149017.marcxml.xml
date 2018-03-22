@@ -1,0 +1,96 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01648cz  a2200349n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79149017</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20120702135757.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800819n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79149017 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0084100</marcxml:subfield>
+    <marcxml:subfield code="e">E0084100</marcxml:subfield>
+    <marcxml:subfield code="f">N0500700</marcxml:subfield>
+    <marcxml:subfield code="g">N0500700</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00380068</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">NN</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">CSt</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-gx---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfurt am Main (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfort on the Main (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfurt-na-Maĭni (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfurt-na-Maĭne (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Francoforte sul Meno (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfurt (Germany : West)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Frankfurt a. M. (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Francfort (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Frankfurt am Main</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Its Mitteilungen der Stadtverwaltung ...</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Furtwängler, W. Sinfonia n. 2 in mi minore [SR] p1983:</marcxml:subfield>
+    <marcxml:subfield code="b">label (Francoforte sul Meno)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Horovitz, M. Rabane Franḳfurṭ, c1972:</marcxml:subfield>
+    <marcxml:subfield code="b">added t.p. (Frankfurt [in rom.])</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Arbeiten aus dem Paul-Ehrlich-Institut (Bundesamt für Sera und Impfstoffe) zu Frankfurt a.M., Bd. 82 (1988)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Problemy ekonomichnoï intehrat︠s︡iï Ukraïny v I︠E︡vropeĭsʹkyĭ Soi︠u︡z--teorii︠a︡ i stratehii︠a︡, 1996- :</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1, t.p. (Frankfurtu-na-Maĭni)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ciudades cinco estrellas. Francfort, 1993?</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">IFLA cataloguing principles, 2004:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Frankfurt) p. 3 (Frankfurt am Main, Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 50°07ʹ00ʺN 008°41ʹ00ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Germany</marcxml:subfield>
+    <marcxml:subfield code="z">Frankfurt am Main</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

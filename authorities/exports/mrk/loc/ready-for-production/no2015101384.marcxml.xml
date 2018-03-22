@@ -1,0 +1,229 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>05782cz  a2200733n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">no2015101384</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170323073805.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">150801n| azannaabn          |b aaa     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">no2015101384</marcxml:subfield>
+              <marcxml:subfield code="z">sh2011005936</marcxml:subfield>
+              <marcxml:subfield code="z">sh 85001432 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca10233123</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">WaU</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">WaU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepios</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Greek deity</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Gods, Greek</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Males</marcxml:subfield>
+              <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asclepius</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asclepio</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Ασκληπιος</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asclepiu</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepi</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Асклепій</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepiĭ</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Асклепий</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepije</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asclepi</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Æskulap</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepio</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asclépios</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Esculapio</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">אסקלפיוס</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asḳlepiyos</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asḳlepyos</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Aesculapius</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklēpijs</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepijas</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepijus</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Eskulapas</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Aszklépiosz</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Асклепиј</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepij</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Ескулап</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Eskulap</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">アスクレーピオス</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asukurēpiosu</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepiy</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asklepiu</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Асклепије</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">阿斯克勒庇俄斯</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Asikeleibiesi</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="500" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Aesculapius</marcxml:subfield>
+              <marcxml:subfield code="c">(Roman deity)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hart, Gerald D. Asclepius, the god of medicine, 2000.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Aleshire, Sara B. Asklepios at Athens, 1991.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Walton, Alice. The cult of Asklepios, 1894.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wickkiser, Bronwen Lara. Asklepios, medicine, and the politics of healing in fifth-century Greece, 2008.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Solimano, Giannina. Asclepio : le aree del mito, 1976.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Encyclopædia Britannica online, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Asclepius; Greco-Roman god. Alternative titles: Aesculapius; Asklepios. Asclepius, Greek Asklepios, Latin Aesculapius, Greco-Roman god of medicine, son of Apollo (god of healing, truth, and prophecy) and the mortal princess Coronis)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.britannica.com/topic/Asclepius</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Theoi Greek mythology website, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Asklepios (or Asclepius) was the god of medicine and reputed ancestor of the Asklepiades, the ancient Greek doctors' guild; son of Apollon and the Trikkaian princess Koronis; Greek name: Ασκληπιος = Asklēpios; Latin spelling: Aesculapius)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.theoi.com/Ouranios/Asklepios.html</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Mythography website, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(In Greek mythology, Asklepios (Asclepius) was the god of healing. He was the son of the Olympian god Apollo and a mortal woman named Coronis; Asklepios was known as Aesculapius in Roman mythology)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.loggia.com/myth/asklepios.html</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GreekMythology.com, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Asclepius was the ancient Greek god of medicine, son of the god Apollo and Coronis, the daughter of Phlegyas, King of the Lapiths. Asclepius is also called Vejovis, Vejove, Vediovis, Aesculapius)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.greekmythology.com/Other_Gods/Asclepius/asclepius.html</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Encyclopedia mythica, via WWW, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Asclepius was a Greek hero who later become the Greek god of medicine and healing. The son of Apollo and Coronis, Asclepius had five daughters, Aceso, Iaso, Panacea, Aglaea and Hygieia. He was worshipped throughout the Greek world but his most famous sanctuary was located in Epidaurus which is situated in the northeastern Peloponnese; The Romans adopted the cult of Asclepius, but changed his name to Latin; they called him Aesculapius)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.pantheon.org/articles/a/asclepius.html</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Brewer's dictionary of phrase and fable, 2009, via Credo reference, December 16, 2011</marcxml:subfield>
+              <marcxml:subfield code="b">(Aesculapius: The Latin form of the Greek Asklepios, god of medicine and of healing, son of Apollo and father of Hygeia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, August 1, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Asclepius (Greek: Ασκληπιτ̔̈«”ϐϐ·ς = Asklēpios; Latin: Aesculapius) was a god of medicine in ancient Greek religion and mythology) Asturian page (Asclepiu) Azerbaijani page (Asklepi [in roman]) Belarusian page (Асклепій = AsklepiІi) Bulgarian page (Асклепий = AsklepiІi) Bosnian page (Asklepije) Catalan page (Asclepi) Corsican page (Asclepiu) Danish page (skulap) Greek page (Ασκληπιτ̔̈«”ϐϐ·ς = AsklЅepios) Spanish page (Asclepio) Esperanto page (Asklepio) French page (AsclЃepios) Croatian page (Asklepije) Italian page (Asclepio or Esculapio) Hebrew page (אסקלפיוס = AsѴklepiyos or AsѴklepyos) Latin page (Aesculapius) Latvian page (AsklЅepijs) Lithuanian page (Asklepijas; Asklepijus; Eskulapas) Hungarian page (AszklЃepiosz) Macedonian page (Асклепиј = Asklepij; Ескулап = Eskulap) Japanese page (アスクレーピオス = AsukurЅepiosu) Occitan page (AsclЂepi) Uzbek page (Asklepiy [in roman]) Portuguese page (AsclЃepio) Romanian page (Asclepios) Russian page (Асклепий = AsklepiІi) Albanian page (Asklepiu) Slovenian page (Asklepij) Serbian page (Асклепије = Asklepije) Ukrainian page (Асклепій = AsklepiІi) Chinese page (阿斯克勒庇俄斯 = Asikeleibiesi)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

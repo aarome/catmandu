@@ -1,0 +1,98 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02035cz  a2200397n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n83017887</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20081019075023.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">830510n| acannaabn          |b ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  83017887 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00911162</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Masjid al-Aqṣá (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Jāmiʻ al-Aqṣá (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Aqsa Mosque (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nna</marcxml:subfield>
+    <marcxml:subfield code="a">Jerusalem.</marcxml:subfield>
+    <marcxml:subfield code="b">Masjid al-Aqṣá</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Jāmiʻ al-Aḳṣā (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Aḳṣā (Mosque : Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Thālith al-Ḥaramayn</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ḥaram al-Sharīf (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ḥaram al-Qudsī al-Sharīf (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Al-Aqsa Mosque (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Masjidil Aqsha (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسجد الاأقصى (القدس)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسجد الاقصى</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسجد الاقصى (القدس)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسجد الاقصى (قدس)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسجد الاقصى (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">مسخد الاقصى (القدس)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Machine-derived non-Latin script reference project.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Its The structural history ... 1949.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Little, D.P. A catalogue of the Islamic documents from al-Ḥaram ǎs-Šarīf in Jerusalem, 1984:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (al-Ḥaram ǎs-Šarīf in Jerusalem) added t.p. (al-Ḥaram al-Qudsī al-Sharīf) introd. (the third most holy place in the Muslim world; situated in a vaulted hall built by the Crusaders, just west of al-Masǧid al-Aqṣá)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Munjid</marcxml:subfield>
+    <marcxml:subfield code="b">(al-Ḥaram al-Sharīf: a name given to the bldgs. of al-Masjid al-Aqṣá in Jerusalem; also called: Thālith al-Ḥaramayn (with Mecca and Medina))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Masjid al-Aqṣá (Jerusalem). Maktabah. Fihris makhṭūṭāt Maktabat al-Masjid al-Aqṣá, 1983- :</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1, add. t.p. (Al-Aqsa Mosque)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gayo, L.H. Masjidil Aqsha diambang pintu Perang Teluk, 1990:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Masjidil Aqsha)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

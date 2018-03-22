@@ -1,0 +1,102 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01919cz  a2200397n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79129553</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20120919074749.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">801003n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79129553 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00361051</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC-S</marcxml:subfield>
+    <marcxml:subfield code="d">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">InU</marcxml:subfield>
+    <marcxml:subfield code="d">ICU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Church of the Holy Sepulchre (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Church of the Holy Sepulcher (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Khram Voskresenii︠a︡ Gospodni︠a︡ v Ierusalime</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Heilige Grabeskirche zu Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Iglesia del Gloriosísimo Sepulcro del Señor (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Iglesia de la Resurrección del Señor (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Santo Sepolcro (Church : Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Church of the Resurrection (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Jerusalem.</marcxml:subfield>
+    <marcxml:subfield code="b">Church of the Holy Sepulcher</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Jerusalem.</marcxml:subfield>
+    <marcxml:subfield code="b">Church of the Holy Sepulchre</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilica del Santo Sepolcro (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Basilique du Saint-Sépulcre (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">P. Taphos (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Panagios Taphos (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Hieron Koinon tou P. Taphou (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Hieron Koinon tou Panagiou Taphou (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Hieros Koinos tou Panagiou Taphou (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Naos tēs Anastaseōs (Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Grabeskirche in Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Il Santo Sepolcro di Gerusalemme, 1949:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Santo Sepolcro di Gerusalemme) p. 11 (Basilica del Santo Sepolcro) p. 21 (Basilique du Saint-Sépulcre)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Koikylidēs, K.M. Katalogos synoptikos tōn en tē Vivliothēkē tou Hierou Koinou tou P. Taphou ... 1898.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Nea Siōn, T. 1. (1904), surrogate:</marcxml:subfield>
+    <marcxml:subfield code="b">vol. t.p. ( ... tou Hierou Koinou tou Panagiou Taphou)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">To architektoniko synkrotēma tou Naou tēs Anastaseōs Ierosolymōn ... c1999.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GW</marcxml:subfield>
+    <marcxml:subfield code="b">v. 7, col. 543 (Grabeskirche in Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,48 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00899cz  a2200205n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2009003812</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110319075509.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">090414|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2009003812</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItFiC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Chigi alla Postierla (Siena, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Chigi alla Postierla Palace (Siena, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Chigi Piccolomini (Siena, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Piccolomini (Siena, Italy : Via del Capitano)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Piccolomini Palace (Siena, Italy : Via del Capitano)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Palaces</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2009421008: Il Palazzo Chigi alla Postierla a Siena, c2007:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Palazzo Chigi Piccolomini) p. 11 (built in the 16th century)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Siena nella storia, c2000:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 264 (Palazzo Chigi alla Postierla)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Siennaonline.com Web site, May 5, 2009</marcxml:subfield>
+              <marcxml:subfield code="b">(Palazzo Piccolomini; Piccolomini Palace)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

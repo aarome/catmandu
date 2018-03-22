@@ -1,0 +1,54 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01070cz  a2200217n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2001005994</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20010809104043.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">010622|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2001005994</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Uk</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Falerii Novi (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">New Falerii (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Extinct cities</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Italy</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat: Keay, S. Falerii Novi : a new survey of the walled area, 2000:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 1 (Historical sources record that Rome established the city of Falerii Novi ... in 241 BC)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 414 (Falerii Veteres, destroyed in 241 B.C. and rebuilt by Romans as Falerii Novi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 2, p. 959 (the plain where Falerii Novi (New Falerii) was built and where ruins of the walls still stand.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford classical dictionary, 1970:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 429 (In 241 B.C. the Romans captured and destroyed Falerii, transplanting its inhabitants to a new site, Falerii Novi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Falerii Novi (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

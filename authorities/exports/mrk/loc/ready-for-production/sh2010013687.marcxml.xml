@@ -1,0 +1,56 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01398cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2010013687</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20101023080030.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">100922|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2010013687</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Castello Maniace (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Castel Maniace (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Castello di Siragusa (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Castillo de Zaragoza (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Maniace Castle (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palatium (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Siragusa, Castello di (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Zaragoza, Castillo de (Syracuse, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Castles</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2010488533: Castel Maniace, Siracusa, c2009:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Castello Maniace) p. 6 (Maniace Castle) p. 16 (Castillo de Zaragoza) p. 24 (Castello di Siragusa) p. 45 (Palatium)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Guida d'Italia del T.C.I. Sicilia, 1968:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 618 (under Siricusa: Castello Maniace is named for Giorgio Maniace, the Byzantine general who reconquered Syracuse in 1038, but the present structure was actually built by Frederick II (c.1239) as a residence)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Sept. 16, 2010:</marcxml:subfield>
+              <marcxml:subfield code="b">Castello Maniace (a citadel and castle on a promontory in Syracuse, Sicily ... first fort was built here in 1038 by George Maniakes ... structure was rebuilt by King Frederick II ... used as a residence by numerous queens of Sicily)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

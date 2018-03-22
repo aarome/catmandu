@@ -1,0 +1,72 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01217cz  a2200277n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n89602668</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20000815033840.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">890118n| acannaab           |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  89602668 </marcxml:subfield>
+    <marcxml:subfield code="z">n  79100229 </marcxml:subfield>
+    <marcxml:subfield code="z">n  83219865 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DNGA</marcxml:subfield>
+    <marcxml:subfield code="d">NNU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cattedrale di Lucca</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">San Martino (Church : Lucca, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Lucca.</marcxml:subfield>
+    <marcxml:subfield code="b">San Martino (Cathedral)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Duomo di Lucca</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Duomo di San Martino (Lucca, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Duomo (Lucca, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">S. Martino (Church : Lucca, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cathedral of San Martino (Lucca, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Catalani, A. Messa per soli, coro e orchestra [SR] 1985?:</marcxml:subfield>
+    <marcxml:subfield code="b">label (Cattedrale di Lucca)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Schmarsout, A.  S. Martin von Lucca ... 1890.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Italia : guida artistica, 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 475 ([under Lucca]: duomo di San Martino)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Touring club italiano. Toscana, 1974:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 230 (Duomo (S. Martino))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Guide to artistic Italy, 1981:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 158 ([under Lucca]: Duomo di San Martino)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC data base, 1/18/89</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: Cattedrale di Lucca)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">N.Y. times, Aug. 13, 2000:</marcxml:subfield>
+    <marcxml:subfield code="b">travel section, p. 8 (Cathedral of San Martino; Duomo)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

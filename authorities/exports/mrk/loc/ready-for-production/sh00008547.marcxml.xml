@@ -1,0 +1,47 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00870cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh00008547</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20020103095407.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">000828|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 00008547 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">CaAEUS</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Stabian Baths (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Terme Stabiane (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Thermae Stabianae (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Italy</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Public baths</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Gilchrist, S. Pompeii. Stabian Baths (Terme Stabiane) : general view, c1998</marcxml:subfield>
+              <marcxml:subfield code="b">(digital image of photograph obtained via site license from Archivision, Toronto, Ont.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nappo, S.C. Pompeii : guide to the lost city, c1998:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 69 (The Stabian Baths ... occupy much of the southern sector of Insula VII-1.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Richardson, L. Pompeii : an architectural history, c1988:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 100 ("The Thermae Stabianae")</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

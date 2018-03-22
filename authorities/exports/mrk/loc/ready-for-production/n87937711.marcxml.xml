@@ -1,0 +1,75 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01316cz  a2200265n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n87937711</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170501101930.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">880421n| azannaabn          |a aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  87937711 </marcxml:subfield>
+              <marcxml:subfield code="z">n  80051108 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca02256703</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">MoSW-Mu</marcxml:subfield>
+              <marcxml:subfield code="d">DSI</marcxml:subfield>
+              <marcxml:subfield code="d">CSt</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1940-01-24</marcxml:subfield>
+              <marcxml:subfield code="g">2017-04-27</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">PS3601.C28</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Acconci, Vito,</marcxml:subfield>
+              <marcxml:subfield code="d">1940-2017</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Bronx (New York, N.Y.)</marcxml:subfield>
+              <marcxml:subfield code="b">Manhattan (New York, N.Y.)</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Performance art</marcxml:subfield>
+              <marcxml:subfield code="a">Video art</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Performance artists</marcxml:subfield>
+              <marcxml:subfield code="a">Sculptors</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="378" ind1=" " ind2=" ">
+              <marcxml:subfield code="q">Vito Hannibal</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Acconi, Vito,</marcxml:subfield>
+              <marcxml:subfield code="d">1940-2017</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Onorato, R.J. Vito Acconci, c1987:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Vito Acconci) p. 72 (b. 1/24/40, Bronx, N.Y.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Klangkunst, c1999:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 283 (Vito Acconi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Dict. of art, 1996</marcxml:subfield>
+              <marcxml:subfield code="b">(Acconci, Vito (Hannibal); b. Jan. 24, 1940, New York; American sculptor, performance artist, video artist)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">New York times WWW site, viewed May 1, 2017</marcxml:subfield>
+              <marcxml:subfield code="b">(in obituary published Apr. 28: Vito Acconci; b. Vito Hannibal Acconci, Jan. 24, 1940; raised in the Bronx; d. Thursday [Apr. 27, 2017], Manhattan, aged 77; father of performance and video art and a shamanistic, poetic, deeply influential force on the New York art scene for decades)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

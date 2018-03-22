@@ -1,0 +1,33 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00691nz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr2004010010</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20040331033142.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">040330n| acannaabn          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr2004010010</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">UPB</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">UPB</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Palazzo di Montecitorio (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Palazzo Montecitorio (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">La memoria della shoah, c2004:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Palazzo Montecitorio)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Palazzo di Montecitorio, via the WWW, March 30, 2004</marcxml:subfield>
+    <marcxml:subfield code="b">(usage: Palazzo di Montecitorio; Palazzo Montecitorio; 17th-18th century palace in Rome, seat of the Chamber of Deputies of the Italian Parliament)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">RLIN, March 30, 2004</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: Palazzo di Montecitorio (Rome, Italy))</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

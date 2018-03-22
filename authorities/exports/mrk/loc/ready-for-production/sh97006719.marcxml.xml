@@ -1,0 +1,52 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00848cz  a2200217n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh97006719</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20020103095119.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">970830|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 97006719 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">InU</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">House of the Little Fountain (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Casa della fontana piccola (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Fontana piccola, Casa della (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Little Fountain, House of the (Pompeii)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Italy</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Frölich, T. Casa della fontana piccola, 1996.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Richardson, L. Pompeii, 1988:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 437 (Casa della Fontana Piccola, VI viii 23/24 (excavation code number))</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Naples and Pompeii, 1996:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 252 (House of the Little Fountain, named after the elegant mosaic fountain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica;</marcxml:subfield>
+              <marcxml:subfield code="a">Americana</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

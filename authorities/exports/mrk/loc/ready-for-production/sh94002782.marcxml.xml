@@ -1,0 +1,65 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01287nz  a2200265n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh94002782</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19940519173548.9</marcxml:controlfield>
+            <marcxml:controlfield tag="008">940413|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 94002782 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Stanze di Raffaello (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Raffaello Rooms (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Raphael Rooms (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Raphael Stanze (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Stanze of Raphael (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Stanze vaticane (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Rooms</marcxml:subfield>
+              <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="510" ind1="2" ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Vatican Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Raphael in the apartments of Julius II and Leo X, c1993:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Stanze; the most important rooms of the Papal apts. of the early 16th cent. containing frescoes by Raphael)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lo Bello, N. Nino LoBello's guide to the Vatican:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 122, etc. (Raphael Stanze; Raphael Rooms; Raffaello Rooms)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Korn, F.J. Country of the spirit--Vatican City:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 121 (Stanze)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">LC database, 4/7/94</marcxml:subfield>
+              <marcxml:subfield code="b">(Stanze di Raffaello; Stanze of Raphael; Stanze vaticane)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Old catalog heading</marcxml:subfield>
+              <marcxml:subfield code="b">(Vatican. Stanze)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica 14:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 18, p. 1167 (Stanze)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,50 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01102nz  a2200217n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh96003529</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19960520153002.3</marcxml:controlfield>
+            <marcxml:controlfield tag="008">960329 | anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 96003529 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItRSI</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Lacus Juturnae (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Fountain of Juturna (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Juturna, Fountain of (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Lacus Iuturnae (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Fountains</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Lacus Iuturnae, 1989.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Macro.:</marcxml:subfield>
+              <marcxml:subfield code="b">under Juturna (goddess of springs and fountains; her worship was transferred to Rome localized by the Lacus Iuturnae near the Temple of Vesta) p. 67, under Rome (Lacus Juturnae; marks the site of a spring at the foot of Palatine)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nagel's Italy, 1987:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 791 &amp; index (Lacus Juturnae; where according to legend Castor and Pollux watered their horses)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedeker's Rome:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 331 &amp; index (Lacus Juturnæ; a quadrangular water-basin of the imperial era)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Companion guide to Rome, 1972:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 62 (Fountain of Juturna) index (Juturna, Fountain of)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

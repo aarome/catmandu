@@ -1,0 +1,41 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01017cz  a2200181n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2002010512</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20070615075221.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">021030|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2002010512</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">UPB</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ludovisi Throne</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Trono Ludovisi</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Thrones</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Classics Digital Library Collection, 2001</marcxml:subfield>
+              <marcxml:subfield code="b">(Ludovisi Throne)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford companion to art, 1970:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 675 (Ludovisi Throne; a deep marble fender, perhaps from the end of a large altar, probably south Italian Greek work of c. 460 B.C.; includes relief of two women helping an emerging goddess; on the sides sit a draped woman with incense and a naked woman playing the double flute)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">McGraw-Hill dictionary of art, 1969:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 3, p. 481 (Ludovisi Throne; now in the National Museum of Rome; has three panels alluding perhaps to the birth of Aphrodite; early classical period, ca. 470-465 B.C.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">2007357382: Candelise, A.M. Il Trono Ludovisi, 2006.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

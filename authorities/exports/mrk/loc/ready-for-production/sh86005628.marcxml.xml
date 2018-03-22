@@ -1,0 +1,49 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00747cz  a2200217n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh86005628</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19930223140459.8</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860912|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 86005628 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Palace of Diocletian (Split, Croatia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Diocletian, Palace of (Split, Croatia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Dioklecijanova palaca (Split, Croatia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Palaces</marcxml:subfield>
+              <marcxml:subfield code="z">Croatia</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Marasović, T. Dioklecijanova palača, 1982.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.: v. III, p. 557.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott: p. 1814a.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.: p. 1144.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Old catalog heading</marcxml:subfield>
+              <marcxml:subfield code="b">(Split, Yugoslavia. Palace of Diocletian)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Americana;</marcxml:subfield>
+              <marcxml:subfield code="a">Princeton encyc. classic. sites</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

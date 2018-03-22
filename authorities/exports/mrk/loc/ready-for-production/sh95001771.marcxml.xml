@@ -1,0 +1,65 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00864cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh95001771</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110727075638.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">950306|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 95001771 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0091300</marcxml:subfield>
+              <marcxml:subfield code="e">E0091300</marcxml:subfield>
+              <marcxml:subfield code="f">N0362500</marcxml:subfield>
+              <marcxml:subfield code="g">N0362500</marcxml:subfield>
+              <marcxml:subfield code="2">gnis</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Thugga (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Dougga (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Extinct cities</marcxml:subfield>
+              <marcxml:subfield code="z">Tunisia</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Tunisia</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 93968087: Poinssot, C. Les ruines de Dougga, 1983.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.</marcxml:subfield>
+              <marcxml:subfield code="b">(Thugga, modern Dougga)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">MacKendrick. North African stones speak, 1980:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 23 (Thugga, Dougga)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.</marcxml:subfield>
+              <marcxml:subfield code="b">(Thugga, Dougga)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">BGN</marcxml:subfield>
+              <marcxml:subfield code="b">(Dougga; ruin; 36⁰25ʹN; 9⁰13ʹE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">BGN</marcxml:subfield>
+              <marcxml:subfield code="b">(ancient; 36°25ʹ00ʺN 009°13ʹ00ʺE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Tunisia</marcxml:subfield>
+              <marcxml:subfield code="z">Thugga (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

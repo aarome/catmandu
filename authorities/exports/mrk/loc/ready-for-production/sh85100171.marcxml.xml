@@ -1,0 +1,61 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00651cz  a2200253n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85100171</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20080823081819.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860211|| anannbabn          |b ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85100171 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">NC749</marcxml:subfield>
+              <marcxml:subfield code="b">NC750</marcxml:subfield>
+              <marcxml:subfield code="c">Drawing</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">QA515</marcxml:subfield>
+              <marcxml:subfield code="c">Geometry</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">T369</marcxml:subfield>
+              <marcxml:subfield code="c">Mechanical drawing</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Perspective</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Architectural perspective</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Linear perspective</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Mechanical perspective</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Optics</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Space (Art)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Space perception</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Projection</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Proportion (Art)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Shades and shadows</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,44 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00736cz  a2200181n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n97056239</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20121113104246.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">970530n| acannaab           |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  97056239 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Della Porta, Giacomo,</marcxml:subfield>
+    <marcxml:subfield code="d">1532-1602</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Della Porta, Giacomo,</marcxml:subfield>
+    <marcxml:subfield code="d">1538-1602</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Porta, Giacomo della,</marcxml:subfield>
+    <marcxml:subfield code="d">1532-1602</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Restauri in piazza, c1995:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 51 (Giacomo Della Porta; architect)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC manual cat.</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: Della Porta, Giacomo, 1538-1602)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Diz. biog. degli Ital.</marcxml:subfield>
+    <marcxml:subfield code="b">(Della Porta, Giacomo; b. 1532, Porlezza, Como; d. 09-02-1602; sculptor, architect)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encic. ital.</marcxml:subfield>
+    <marcxml:subfield code="b">(Della Porta, Giacomo; b. ca. 1540, d. 1602; architect, sculptor)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

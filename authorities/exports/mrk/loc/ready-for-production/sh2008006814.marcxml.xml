@@ -1,0 +1,47 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01001cz  a2200205n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2008006814</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20080920080248.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">080919|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2008006814</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Via Ostiense (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ostiense, Via (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ostiensis, Via (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Via Ostiensis (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Roads, Roman</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2008437003: Serra, Simonetta. Via Ostiense, Via Portuense, c2007:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Via Ostiense) p. 7 (located on the left bank of the Tiber River, a Roman road roughly parallel to the river's course from Rome to the Tyrrhenian coast)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Aug. 29, 2008</marcxml:subfield>
+              <marcxml:subfield code="b">(the Via Ostiensis (Italian: via Ostiense) was an important road in ancient Rome. It ran west 30 km from the city of Rome to its important sea port of Ostia Antica, from which it took its name. The road began near the Forum Boarium ...)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Via Ostiense</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

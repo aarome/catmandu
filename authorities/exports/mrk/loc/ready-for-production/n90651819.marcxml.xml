@@ -1,0 +1,59 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01369cz  a2200241n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n90651819</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150729053337.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">900531n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  90651819 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca02753158</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DNLM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ospedale degli Innocenti (Florence, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="e">Florence (Italy)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ospedale di Santa Maria degli Innocenti (Florence, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Regio Spedale degl'Innocenti di Firenze</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Spedale di S. Maria degli Innocenti (Florence, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Spedale degli Innocenti (Florence, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">R. Spedale degli Innocenti di Firenze</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gavitt, P. Charity and children in Renaissance Florence, c1990:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP t.p. (Ospedale degli Innocenti) p. viii, etc. (until quite recently functioned as day-care center and preschool; silk guild and city of Florence collaborated in 1419 to begin construction of the orphanage)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Il Museo Spedale degli ... c1977:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 10-63 (Ospedale di Santa Maria degli Innocenti; Regio Spedale degl'Innocenti di Firenze; Spedale di S. Maria degli Innocenti)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">L'Architettura di Lorenzo il Magnifico, c1992:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Firenze, Spedale degli Innocenti)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Resoconto sanitario-statistico-amministravo ... 1898/1899/1900:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (R. spedale degli Innocenti di Firenze)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

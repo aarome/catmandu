@@ -1,0 +1,65 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00974cz  a2200253n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85000668</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110604080045.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860211|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85000668 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0234335</marcxml:subfield>
+              <marcxml:subfield code="e">E0234335</marcxml:subfield>
+              <marcxml:subfield code="f">N0375817</marcxml:subfield>
+              <marcxml:subfield code="g">N0375817</marcxml:subfield>
+              <marcxml:subfield code="2">geonames</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">DF287.A2</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Acropolis (Athens, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Akropolis (Athens, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Athenian Acropolis (Athens, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Fortification</marcxml:subfield>
+              <marcxml:subfield code="z">Greece</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">This heading is not valid for use as a geographic subdivision.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Martin, R. L'acropole d'Athènes, 1982.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. 3</marcxml:subfield>
+              <marcxml:subfield code="b">(Fortified height of a city, cf. Athenian Acropolis)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Blue guide. Greece:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 73ff (Acropolis)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 141 (Acropolis)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Princeton encyc. classic. sites:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 106ff (Acropolis)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeoNames [algorithmically matched]</marcxml:subfield>
+              <marcxml:subfield code="b">summit; 37°58ʹ17ʺN 023°43ʹ35ʺE</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

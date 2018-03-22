@@ -1,0 +1,74 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01430cz  a2200253n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2013080843</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130804070632.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">130730n| azannaabn          |n aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2013080843</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca09532053</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OCU-Mu</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">OCU-Mu</marcxml:subfield>
+    <marcxml:subfield code="d">OCU-Mu</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">19761027</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Haber, Yotam,</marcxml:subfield>
+    <marcxml:subfield code="d">1976-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Netherlands</marcxml:subfield>
+    <marcxml:subfield code="c">U.S.</marcxml:subfield>
+    <marcxml:subfield code="c">Israel</marcxml:subfield>
+    <marcxml:subfield code="e">Brooklyn, New York, N.Y.</marcxml:subfield>
+    <marcxml:subfield code="f">Nigeria</marcxml:subfield>
+    <marcxml:subfield code="f">Milwaukee, Wis.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="372" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Music</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="373" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Concordia Conservatory</marcxml:subfield>
+    <marcxml:subfield code="s">2010-09</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Composers</marcxml:subfield>
+    <marcxml:subfield code="a">College teachers</marcxml:subfield>
+    <marcxml:subfield code="a">Music teachers</marcxml:subfield>
+    <marcxml:subfield code="a">Piano teachers</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="378" ind1=" " ind2=" ">
+    <marcxml:subfield code="q">Yotam Moshe</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Five borough songbook, 2012:</marcxml:subfield>
+    <marcxml:subfield code="b">insert (On leaving Brooklyn / Yotam Haber)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Yotam Haber WWW site, July 24, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Yotam Haber; born in Holland, grew up in Israel, Nigeria, and Milwaukee; composer; also Adjunct Professor, piano and composition, Concordia Conservatory, Bronxville, NY since September 2010; currently resides in Brooklyn)</marcxml:subfield>
+    <marcxml:subfield code="u">http://www.yotamhaber.com/</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">No Extra Notes WWW site, July 24, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Yotam Haber; born October 27, 1976, Holland, citizen of Israel and United States; composer)</marcxml:subfield>
+    <marcxml:subfield code="u">http://noextranotes.wordpress.com/2009/10/19/yotam-haber/</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OCLC, July 24, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(authorized access points: Haber, Yotam Moshe, 1976-; Haber, Yotam, 1976-; Haber, Yotam Moshe; Haber, Yotam; usage: Yotam Moshe Haber; Yotam Haber [predominant form])</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

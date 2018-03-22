@@ -1,0 +1,57 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01324nz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh97005845</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19970919104850.2</marcxml:controlfield>
+            <marcxml:controlfield tag="008">970729|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 97005845 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Basilica of Constantine (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Basilica di Costantino (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Basilica di Massenzio (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Basilica of Maxentius (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Constantine, Basilica of (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Maxentius, Basilica of (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Basilicas (Roman architecture)</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 97-158790: Kultermann, U. Die Maxentius-Basilika : ein Schlüsselwerk spätantiker Architektur, c1996:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 34-35 (Basilique de Constantin; Basilica of Constantine) p. 94 (Basilica di Costantino)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedeker's Rome &amp; Central Italy, 16th ed.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 336 (Basilica of Constantine; begun by Maxentius but completed by and named after his conqueror Constantine)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.</marcxml:subfield>
+              <marcxml:subfield code="b">(Maxentius, Basilica of, also called Basilica of Constantine)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Coarelli's Guida archeologica di Roma, 1974:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 95 (Basilica di Massenzio o di Costantino)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Intl. dir. of architects and architecture:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 2, p. 75, under Forum Romanum, Rome, Italy (306-312 A.D.: Basilica of Maxentius)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

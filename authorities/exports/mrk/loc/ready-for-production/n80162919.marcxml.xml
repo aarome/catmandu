@@ -1,0 +1,74 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01165cz  a2200313n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n80162919</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20180204222836.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">801217n| azannaabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  80162919 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">W0080000</marcxml:subfield>
+              <marcxml:subfield code="e">W0080000</marcxml:subfield>
+              <marcxml:subfield code="f">N0313800</marcxml:subfield>
+              <marcxml:subfield code="g">N0313800</marcxml:subfield>
+              <marcxml:subfield code="2">other</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00542734</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="043" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">f-mr---</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Marrakech (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Marakesh (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Marrakesch (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Marrākush (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Marrakesh (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Merrakex (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Maraksh (Morocco)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Champion, P.H.J.B. Rabat et Marrakech, 1926.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Canetti, E. Die Stimmen von Marrakesch, 1967.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nadwat al-Imām Mālik, Imām Dār al-Hijrah. Dawrat al-Qāḍī ʻIyāḍ (1981 : Marrakesh, Morocco). Nadwat al-Imām Mālik, Imām ... 1983-1984:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 1, t.p. (Marrākush)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">BGN, 8-24-87</marcxml:subfield>
+              <marcxml:subfield code="b">(Marrakech, 31°38ʹN, 8°00ʹW; variants: Marrakesh; Merrakex; Maraksh)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">BGN, 11-29-88</marcxml:subfield>
+              <marcxml:subfield code="b">(Marrakech, ppl, 31°38ʹN, 8°00ʹW; variants: none)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Morocco</marcxml:subfield>
+              <marcxml:subfield code="z">Marrakech</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

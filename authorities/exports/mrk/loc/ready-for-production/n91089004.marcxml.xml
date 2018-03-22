@@ -1,0 +1,66 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01208cz  a2200253n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n91089004</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20100517080259.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">910904n| acannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  91089004 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0271700</marcxml:subfield>
+    <marcxml:subfield code="e">E0271700</marcxml:subfield>
+    <marcxml:subfield code="f">N0373100</marcxml:subfield>
+    <marcxml:subfield code="g">N0373100</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca03013351</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">a-tu---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Balat (Aydın İli, Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Palatia (Aydın İli, Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Palation (Aydın İli, Turkey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">Miletus</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gaz. of Turkey, 1984</marcxml:subfield>
+    <marcxml:subfield code="b">(Balat; ppl; 37°31ʹN, 27°17ʹE; TU09 [i.e. prov. of Aydın]; variant: Milet [earlier name]; other ppls of same name also listed)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Büyük lugât ve ansikl.</marcxml:subfield>
+    <marcxml:subfield code="b">(Balat, village in Aydın, Aegean region, built on the ruins of Milet)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Bean, G.E. Aegean Turkey, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 181, etc. (under Miletus: anc. site formerly occupied in part by village of Balat (Palatia) destroyed in 1955 earthquake; new village, a mile away, called Yeniköy [no publs. in LC data base])</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Enc. Brit. micro.</marcxml:subfield>
+    <marcxml:subfield code="b">(Miletus, Byzantine Palation, Turkish Balat)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="675" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Web. new geo. dict, 1984.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Turkey</marcxml:subfield>
+    <marcxml:subfield code="z">Balat (Aydın İli)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

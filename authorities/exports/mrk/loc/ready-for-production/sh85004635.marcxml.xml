@@ -1,0 +1,46 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01360cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85004635</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150511122047.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">031001i| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85004635 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">NA313</marcxml:subfield>
+              <marcxml:subfield code="c">Roman architecture</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">NA6860</marcxml:subfield>
+              <marcxml:subfield code="b">NA6862</marcxml:subfield>
+              <marcxml:subfield code="c">Public buildings</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Amphitheaters</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Coliseums</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Theaters</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Outdoor concert facilities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">AAT</marcxml:subfield>
+              <marcxml:subfield code="b">(amphitheaters UF coliseums. Use for circular or elliptical structures in which a central performance area is surrounded by rising tiers of seats)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Feb. 12, 2015:</marcxml:subfield>
+              <marcxml:subfield code="b">Amphitheatre (An amphitheatre or amphitheater is an open-air venue used for entertainment, performances, and sports. ... A contemporary amphitheatre, in the sense in which the word has come to be popularly used now, is a curved, acoustically vibrant performance space, particularly one located outdoors. Contemporary amphitheatres often include standing structures, called bandshells, sometimes curved or bowl-shaped, both behind the stage and behind the audience, creating an area which echoes or amplifies sound, making the amphitheatre ideal for musical or theatrical performances. Most are semicircular in shape, so they should not properly be called amphitheatres, but nevertheless this usage has become common.)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

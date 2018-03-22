@@ -1,0 +1,50 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01008cz  a2200205n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh95000613</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20030107093616.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">950127|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 95000613 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Via Traiana (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Via Appia Traiana (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Roads, Roman</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 93-175819: Stopani, R. La Via Francigena del Sud, 1992:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Via Appia Traiana constructed between 108-110 A.D. in reign of Emperor Trajan; runs from Benevento to Brindisi; an alternate route to Appian Way) p. 7, maps (in Middle Ages became an important Norman &amp; Knights Templars pilgrimage route.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Pauly-Wissowa:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 21, p. 241 (Via Traiana)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 1119 (Via Traiana, built AD 109 by Emperor Trajan, became main route between Beneventum &amp; Brindisium)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Sitwell, N.H.H. Roman roads, 1981:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 118 (Via Traiana)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica 14;</marcxml:subfield>
+              <marcxml:subfield code="a">Kleine Pauly</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Via Traiana</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,138 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02811cz  a2200433n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79018704</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150926053158.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790329n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79018704 </marcxml:subfield>
+    <marcxml:subfield code="z">n  86848838 </marcxml:subfield>
+    <marcxml:subfield code="z">no 95003192 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85115187 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122860</marcxml:subfield>
+    <marcxml:subfield code="e">E0122860</marcxml:subfield>
+    <marcxml:subfield code="f">N0415400</marcxml:subfield>
+    <marcxml:subfield code="g">N0415400</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122900</marcxml:subfield>
+    <marcxml:subfield code="e">E0122900</marcxml:subfield>
+    <marcxml:subfield code="f">N0415400</marcxml:subfield>
+    <marcxml:subfield code="g">N0415400</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0121404</marcxml:subfield>
+    <marcxml:subfield code="e">E0125120</marcxml:subfield>
+    <marcxml:subfield code="f">N0420827</marcxml:subfield>
+    <marcxml:subfield code="g">N0413920</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122030</marcxml:subfield>
+    <marcxml:subfield code="e">E0124349</marcxml:subfield>
+    <marcxml:subfield code="f">N0420301</marcxml:subfield>
+    <marcxml:subfield code="g">N0414610</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00252552</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaElC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">CSt</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Italy</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy : Commune)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy : Governatorato)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rūmah (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Roma (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rom (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rím (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rzym (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Comune di Roma (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Covers the ancient city as well as the medieval and modern city.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cheikho, L. ʻUlamāʼ al-Naṣrānīyah fī al-Islām ... 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Rūmah, Īṭāliyā) add. t.p. (Roma, Italia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Goethe e gli artisti del XX secolo, c1982:</marcxml:subfield>
+    <marcxml:subfield code="b">p. facing t.p. (Rom)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nuc86-79020: L'Archeologia in Roma capitale tra ... 1983</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg. on DDO rept.: Comune di Roma; usage: Comune di Roma)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tatranský, M. A. Arcibiskup umiera, 1985:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Rím)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rzym na przełomie republiki i cesarstwa, 1988:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Rzym)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 41°54ʹ00ʺN 012°28ʹ60ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, Mar. 4, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Rome is a city and special comune ("Roma Capitale") in Italy. Rome is the capital of Italy and also of Lazio. With 2.8 million residents it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. The city is located in the central-western portion of the Italian Peninsula, on the Tiber within the Lazio region of Italy. Rome's history spans more than two and a half thousand years, since its founding in 753 BC. It was the capital city of the Roman Kingdom, the Roman Republic and the Roman Empire and the city is regarded as one of the birthplaces of western civilization. Since the 1st century AD Rome has been the seat of the Papacy and in the 8th century it became the capital of the Papal States, which lasted until 1870. In 1871 Rome became the capital of the Kingdom of Italy, and in 1946 that of the Italian Republic)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The world factbook, via WWW, September 23, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(under Italy: capital: Rome; geographic coordinates: 41 54 N, 12 29 E)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Rome</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

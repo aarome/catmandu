@@ -1,0 +1,44 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00810nz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh94005053</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19940808082924.4</marcxml:controlfield>
+            <marcxml:controlfield tag="008">940707 | anannbab|          |a ana ||| c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 94005053 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ItRSI</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Basilica Ulpia (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Trajan's Basilica (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Ulpia, Basilica (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Basilicas (Roman architecture)</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Foro di Traiano, 1982:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Basilica Ulpia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 244, under article for Forum (Basilica Ulpia loc. opposite Trajan's Forum)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ox. classic. dict.:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 132, under article for Basilica (Trajan's Basilica) p. 370, under art. for Forum Traiani (Basilica Ulpia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedekers, Rome and Central Italy:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 350 (Basilica Ulpia)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

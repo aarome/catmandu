@@ -1,0 +1,59 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01108nz  a2200253n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh97004541</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19970728104837.8</marcxml:controlfield>
+            <marcxml:controlfield tag="008">970604|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 97004541 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Villa Arconati (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Arconati Villa (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Castellazzo (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Crivelli Sormani Villa (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Villa Arconate (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Villa Crivelli Sormani (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Villa del Castellazzo (Bollate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 97-127290: Ferrario, P. La "Regia Villa," 1996:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Castellazzo) p. 5 (Villa del Castellazzo)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Italia, guida artistica, c1992:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 94 (Bollate (Milano): Villa Arconati, now Crivelli, 17th century)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Arte in Italia, 1983:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 87 (Bollate: in the vicinity, at Castellazzo, the Villa Arconate, now Crivelli Sormani)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Fausto Melotti, c1991:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Bollate, Festival di Villa Arconati)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Giancarlo Ossola e Villa Arconati, c1989.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

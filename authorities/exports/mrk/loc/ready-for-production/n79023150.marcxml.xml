@@ -1,0 +1,198 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02721cz  a2200697n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79023150</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20151002053158.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790423n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79023150 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00256915</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">NNC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="130" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">New Testament</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="380" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sacred works</marcxml:subfield>
+    <marcxml:subfield code="2">lcgft</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Ba-yon Tipan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bagong Tipan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Ba-yon Tipan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Bagong Tipan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Jaji ma Hungi</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Kainē Diathēkē</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="w">nnea</marcxml:subfield>
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">N.T.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Nouveau Testament</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Novo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Novum Testamentum</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Novyĭ Zavet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Novyĭ Zavi︠e︡t Gospoda nashego Īisusa Khrista</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Novyĭ Zavit</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Nuevo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Nuovo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Nye Testamente</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Perjanjian Baru</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Phrasanyā Mai</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Bible.</marcxml:subfield>
+    <marcxml:subfield code="p">Dhamma sacʻ kyamʻʺ</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Jaji ma Hungi</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Kainē Diathēkē</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">New Testament</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Nouveau Testament</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Novo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Novum Testamentum</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Novyĭ Zavet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Novyĭ Zavi︠e︡t Gospoda nashego Īisusa Khrista</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Novyĭ Zavit</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Nuevo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Nuovo Testamento</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Nye Testamente</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Perjanjian Baru</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Dhamma sacʻ kyamʻʺ</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="430" ind1=" " ind2="0">
+    <marcxml:subfield code="a">Injīl</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Valgiglio, E. Le antiche versioni latine del Nuovo Testamento, c1985.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Bible. N.T. Lao. Samākhom Phrakhrittatham Pathēt Thai læ Pathēt Lāo. 1973. Phrakhrittathamkhamphī, phāk Phrasanyā Mai, 1973.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Farhat, I. Os videntes na Bíblia, c1992:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Novo Testamento)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vasdekēs, G. Theio drama kai mētriarchia stēn Odysseia, 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Kainē Diathēkē)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Nye Testamente ; Salmenes bok, 1992.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Novyĭ Zavi︠e︡t Gospoda nashego Īisusa Khrista na slavi︠a︡nskom i russkom i︠a︡zykakh, 1899.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">O Abari ma oa, 1993:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (o Jaji ma Hungi) t.p. verso (Perjanjian Baru)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vstup do knyh Novoho Zavitu, 1997.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Novyĭ Zavet v iskusstve, 1998.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Yay halita nan Dios, 1999:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ba-yon Tipan; Bagong Tipan)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Greek imperative mood in the New Testament, 2010.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dhamma sacʻ kyamʻʺ, [c2008]:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Dhamma sacʻ kyamʻʺ)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">al-Injīl al-sharīf, 2004</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

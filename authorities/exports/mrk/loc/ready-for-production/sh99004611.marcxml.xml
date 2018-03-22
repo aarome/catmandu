@@ -1,0 +1,45 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01337cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh99004611</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20130503075946.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">990618|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 99004611 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">CLU</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Loggia di Raffaello (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Loggia of Raphael (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Raphael Loggia (Vatican Palace, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Raphael's Loggia (Vatican Palace, Vatican city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Corridors</marcxml:subfield>
+              <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="510" ind1="2" ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Vatican Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">The Vatican Loggia Old Testament pictures, 1979:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 3 (Raphael's Loggia; Loggia in the Vatican; archway in the Vatican Palace designed by Raphael and comprising 13 vaults, each of which is decorated with 4 fresco panels placed in the ceiling, designed, but not executed by Raphael; completed ca. 1519)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Christusrex page, via WWW, May 25, 1999:</marcxml:subfield>
+              <marcxml:subfield code="b">Stanze e Logge di Raffaello (The Raphael Loggia consists of 13 arches forming a gallery 65 meters long and 4 meters wide. The construction was started by Bramante in 1512, under Pope Julius II and was completed by Raphael Sanzio under the reign of Leo X. The pictorial work was initiated in 1517. The 52 scenes on the ceilings of the loggia are still popularly referred to as "The Raphael Bible")</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

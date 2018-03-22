@@ -1,0 +1,44 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01351cz  a2200181n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79032986</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140531070218.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790424n| azannaab           |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79032986 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DGPO</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">American Academy in Rome</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">American School of Classical Studies in Rome</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">American School of Architecture in Rome</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC manual auth. cd.</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: American Academy in Rome; absorbed the American School of Classical Studies in Rome, effective Jan. 1, 1913)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NUCMC data from Atlanta Historical Society for Shutze, P.T. Papers, 1880-1982</marcxml:subfield>
+    <marcxml:subfield code="b">(American Academy in Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC man. auth. cd.</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: American Academy in Rome; fd. 1894 by artists of Chicago Exposition as American School of Architecture in Rome; incorp. under laws of state of N.Y. in 1897; chartered 1905 by act of U.S. Congress as American Academy in Rome; consolidated 1912 with American School of Classical Studies under title American Academy in Rome, since which time it has consisted of a School of Fine Arts and a School of Classical Studies)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">United States. Joint Resolution Recognizing the American Academy in Rome, an American Overseas Center for Independent Study and Advanced Research, on the Occasion of the 100th Anniversary of Its Founding, 1994.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

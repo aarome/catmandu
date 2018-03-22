@@ -1,0 +1,45 @@
+# MARCXML to JSON processor
+# Maps LC MARCXML fields to ArchivesSpace-ready JSON
+
+# Remove fields we can't use in ArchivesSpace
+marc_remove(005)
+marc_remove(008)
+marc_remove(010)
+marc_remove(040)
+marc_remove(4**)
+marc_remove(5**)
+marc_remove(6**)
+
+# Map control fields
+
+marc_map(001,authority_id)
+marc_map(003,source)
+
+# Subjects - main entry xwalks
+#
+# 130 Uniform titles - uniform_title
+# 147 Named event - temporal
+# 148 Chronological Term - temporal
+# 150 Topical Term - uniform_title
+# 151 Geographic Name - geographic
+# 155 Genre/Form Term - genre_form
+#
+# cultural_context?
+# style_period?
+#
+# walk 1**a data field to title property
+
+if marc_match(130a,'.+')
+	marc_map('130a','title') 
+  add_field('terms.0.term_type','uniform_title')
+end
+
+copy_field('title','terms.0.term')
+add_field('terms.0.jsonmodel_type','term')
+add_field('terms.0.vocabulary','/vocabulary/1')
+add_field('terms.0.created_by','web_services')
+
+
+# Clean up JSON 
+remove_field(_id)
+remove_field(record)

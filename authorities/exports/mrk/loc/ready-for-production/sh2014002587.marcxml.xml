@@ -1,0 +1,64 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01724nz  a2200265n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2014002587</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150110071702.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">141017|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2014002587</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Pazzi (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Congiura, Palazzo della (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Marchesane di Massa, Palazzo di (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo della congiura (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo delle Marchesane di Massa (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Pazzi Quaratesi (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Pazzi Palace (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Pazzi Quaratesi, Palazzo (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat: 2014454414: Bruno, E. I marchi sul Palazzo Pazzi, 2013:</marcxml:subfield>
+              <marcxml:subfield code="b">text (15th-century home of the Pazzi family on the via Proconsolo in Florence; begun by Brunelleschi, completed by Giuliano da Maiano; seat of the Masonic Order in Florence from 1865-1871)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Touring Club italiano website, viewed Oct. 17, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">(Palazzo Pazzi, also "della congiura" [refers to the Pazzi conspiracy]; 10 via Proconsolo, Florence; built by Giuliano da Maiano (1458-69); on two floors with mullioned windows and an elegant porticoed courtyard)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford art online, viewed Oct. 17, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">Brunelleschi biography (Palazzo Pazzi) Giuliano da Maiano biography (Palazzo Pazzi-Quaratesi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Credo reference, viewed Oct. 17, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">Renaissance encyclopedia (under Giuliano da Maiano: Palazzo Pazzi)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, viewed Oct. 17, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">(Palazzo Pazzi, Palazzo della congiura, Palazzo Pazzi-Quaratesi, Palazzo delle Marchesane di Massa; since 1931, seat of the regional INPS)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

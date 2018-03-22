@@ -1,0 +1,37 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00649cz  a2200169n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n50020242</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20080728080118.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800501n| acannaabn          |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  50020242 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00055673</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">White, Stanford,</marcxml:subfield>
+    <marcxml:subfield code="d">1853-1906</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">White, Standford,</marcxml:subfield>
+    <marcxml:subfield code="d">1853-1906</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">McKim, Mead &amp; White</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Author's Illustrated catalogue of valuable artistic property, 1907.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Union list of artist names, via WWW, July 25, 2008</marcxml:subfield>
+    <marcxml:subfield code="b">(White, Stanford (American architect, 1853-1906); variant: White, Standford; partner in the firm of McKim, Mead, and White)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

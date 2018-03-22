@@ -1,0 +1,206 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03397cz  a2200613n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79034972</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20151123053135.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790424n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79034972 </marcxml:subfield>
+    <marcxml:subfield code="z">n  79113105 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85013345 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="024" ind1="7" ind2=" ">
+    <marcxml:subfield code="a">122530980</marcxml:subfield>
+    <marcxml:subfield code="2">viaf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="024" ind1="7" ind2=" ">
+    <marcxml:subfield code="a">http://viaf.org/viaf/122530980</marcxml:subfield>
+    <marcxml:subfield code="2">uri</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="024" ind1="7" ind2=" ">
+    <marcxml:subfield code="a">http://vocab.getty.edu/tgn/7003712</marcxml:subfield>
+    <marcxml:subfield code="2">uri</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="024" ind1="7" ind2=" ">
+    <marcxml:subfield code="a">http://vocab.getty.edu/tgn/7003670</marcxml:subfield>
+    <marcxml:subfield code="2">uri</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0132400</marcxml:subfield>
+    <marcxml:subfield code="e">E0132400</marcxml:subfield>
+    <marcxml:subfield code="f">N0523100</marcxml:subfield>
+    <marcxml:subfield code="g">N0523100</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0132319</marcxml:subfield>
+    <marcxml:subfield code="e">E0132319</marcxml:subfield>
+    <marcxml:subfield code="f">N0523101</marcxml:subfield>
+    <marcxml:subfield code="g">N0523101</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0130520</marcxml:subfield>
+    <marcxml:subfield code="e">E0134540</marcxml:subfield>
+    <marcxml:subfield code="f">N0524031</marcxml:subfield>
+    <marcxml:subfield code="g">N0522022</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0132300</marcxml:subfield>
+    <marcxml:subfield code="e">E0132300</marcxml:subfield>
+    <marcxml:subfield code="f">N0523100</marcxml:subfield>
+    <marcxml:subfield code="g">N0523100</marcxml:subfield>
+    <marcxml:subfield code="2">wikiped</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0132500</marcxml:subfield>
+    <marcxml:subfield code="e">E0132500</marcxml:subfield>
+    <marcxml:subfield code="f">N0523000</marcxml:subfield>
+    <marcxml:subfield code="g">N0523000</marcxml:subfield>
+    <marcxml:subfield code="2">gettytgn</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">13.4167</marcxml:subfield>
+    <marcxml:subfield code="e">13.4167</marcxml:subfield>
+    <marcxml:subfield code="f">52.5000</marcxml:subfield>
+    <marcxml:subfield code="g">52.5000</marcxml:subfield>
+    <marcxml:subfield code="2">gettytgn</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0132400</marcxml:subfield>
+    <marcxml:subfield code="e">E0132400</marcxml:subfield>
+    <marcxml:subfield code="f">N0523100</marcxml:subfield>
+    <marcxml:subfield code="g">N0523100</marcxml:subfield>
+    <marcxml:subfield code="2">gettytgn</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">13.4000</marcxml:subfield>
+    <marcxml:subfield code="e">13.4000</marcxml:subfield>
+    <marcxml:subfield code="f">52.5167</marcxml:subfield>
+    <marcxml:subfield code="g">52.5167</marcxml:subfield>
+    <marcxml:subfield code="2">gettytgn</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00268560</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC-S</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">SdMadT</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">CSt</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-gx---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlin (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">States (political divisions)</marcxml:subfield>
+    <marcxml:subfield code="2">aat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Germany</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ger</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stadt Berlin (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlin (Germany : State)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlim (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Baralīna (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berolinum (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlinum (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Verolino (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Land Berlin (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlin State (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlino (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlijn (Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlin (Germany : West)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Berlin (Germany : East)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">For access points before 1949 and after 1990. Access points for 1949-1990 are found under: Berlin (Germany : East); Berlin (Germany : West). Valid for Berlin as a city and as a state.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Its Amtsblatt der Stadt Berlin ... 1936-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Machado Netto, A.P. Berlim, muro da vergonha ou muro da paz? c1985.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN, 1-15-91</marcxml:subfield>
+    <marcxml:subfield code="b">(Berlin: ppl, 52°31ʹN, 13°24ʹE; Berlin [brief], Land: adm1, 52°30ʹN, 13°25ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Jihād (Berlin, Germany). Hindi, 5 Mārca 1915:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Baralīna; Germany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Orbis Latinus, 1972:</marcxml:subfield>
+    <marcxml:subfield code="b">I:264 (Berolinum, Berlinensis, Berlinum, Berolinensis: Berlin, Hst. von Deutschland.)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ho Hellēnikos kosmos anamesa stēn Anatolē kai tē Dysē, 1453-1981, 1999:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Verolino)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Information about Berlin online April 13, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(capital of Germany and one of the 16 federal states (Länder), divided into 12 boroughs (Bezirke))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, November 20, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Berlin is the capital of Germany and one of the 16 states of Germany; 52°31ʹN 13°23ʹE) German version of page (Berlin; Land Berlin)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Getty Thesaurus of geographic names, November 20, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Berlin (state), UF Berlin state, ID: 7003670, Lat: 52 30 00 N degrees minutes; Lat: 52.5000 decimal degrees; Long: 013 25 00 E degrees minutes; Long: 13.4167 decimal degrees; and: Berlin (inhabited place), UF Berlino, Berlijn, ID: 7003712, Lat: 52 31 00 N degrees minutes; Lat: 52.5167 decimal degrees; Long: 013 24 00 E degrees minutes; Long: 13.4000 decimal degrees; city of Berlin, coextensive with the state of Berlin)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Germany</marcxml:subfield>
+    <marcxml:subfield code="z">Berlin</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

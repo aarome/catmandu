@@ -1,0 +1,33 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00560cz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n86107415</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20030603111143.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">861007n| acannaab           |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  86107415 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Duomo di Ravello (Ravello, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Ravello (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Duomo</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cattedrale di Ravello (Ravello, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Melczer, W. La porta di bronzo di Barisano da Trani a Ravello, 1984:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (Duomo di Ravello)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">La Cattedrale di Ravello, 2001:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 43 (Cattedrale di Ravello; Duomo di Ravello)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

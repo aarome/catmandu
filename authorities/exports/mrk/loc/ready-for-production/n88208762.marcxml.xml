@@ -1,0 +1,36 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00631cz  a2200169n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n88208762</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20050111181215.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">890713n| acannaab           |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  88208762 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Villa nazionale (Stra, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Villa Pisani (Stra, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="w">b</marcxml:subfield>
+    <marcxml:subfield code="a">Museo nazionale di Villa Pisani (Stra, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Fontana, L. Villa Pisani a Stra, 1983.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Dir. of museums:</marcxml:subfield>
+    <marcxml:subfield code="b">under Italy, Stra (Villa nazionale, formerly Villa Pisani)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Mastroianni, U. Umberto Mastroianni, 2000:</marcxml:subfield>
+    <marcxml:subfield code="b">p. opp. t.p. (Museo nazionale di Villa Pisani, Stra-Venezia)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

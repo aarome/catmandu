@@ -1,0 +1,31 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00718cz  a2200145n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n92023514</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19920304111722.2</marcxml:controlfield>
+  <marcxml:controlfield tag="008">920304n| acannaab|          |n aaa |||  </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  92023514 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Banever, Gilbert,</marcxml:subfield>
+    <marcxml:subfield code="d">1912?-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NUCMC data from New Haven Colony Historical Society Library for Cogswell, R.M. Papers, 1903-1982</marcxml:subfield>
+    <marcxml:subfield code="b">(Gilbert Banever; b. 1912; student of New Haven, Conn., artist Ruth McIntosh Cogswell)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">WW Amer. art, 1940</marcxml:subfield>
+    <marcxml:subfield code="b">(Banever, Gilbert; b. 1913; originally of New Haven, Conn.; attended Yale; Memphis Acad. of Arts, Memphis, Tenn.)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Yale alumni dir., 1990</marcxml:subfield>
+    <marcxml:subfield code="b">(Banever, Gilbert; lecturer of fine arts; res.: Stratford, Conn.; class '34)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

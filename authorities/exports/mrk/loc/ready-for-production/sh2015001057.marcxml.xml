@@ -1,0 +1,60 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02647cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2015001057</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150906201303.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">150423|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2015001057</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">WaU</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Orsini Pio Righetti (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Orsini Pio Palace (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Orsini Pio Righetti Palace (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Orsini Pio (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Pio Righetti (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Pio Righetti Palace (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Multipurpose buildings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Palaces</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: University of Washington. Architecture in Rome Program. University of Washington Rome Center, 2000?</marcxml:subfield>
+              <marcxml:subfield code="b">unnumbered page 7 (Palazzo Pio: built on the foundations of the theater of Pompey the Great, Rome's first permanent theater inaugurated in 55 BC, this building has been continuously inhabited since then. Known as Palazzo Pio since the 17th century it now houses apartments, offices, shops, a movie theater and the University of Washington Rome Center)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">RomeTour.org website, April 23, 2015:</marcxml:subfield>
+              <marcxml:subfield code="b">Palazzo Orsini Pio Righetti (This vast 17th-century Palazzo Orsini Pio Righetti (also called Palazzo Pio Righetti/Palazzo Orsini Pio/Palazzo Pio) occupies a part of the territory of the ancient ruined Theatre of Pompey (Teatro di Pompeo); the third and fourth floors of the Palazzo Pio were abandoned and in poor condition until the University of Washington began restoration)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">060608 - discover and buy tourist services, cultural offers and shows in Rome website, June 17, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Palazzo Pio Righetti. Address: Piazza del Biscione, 95-99) Italian version of page (Palazzo Pio Righetti. It was erected in 1450 on the ruins of the Theatre of Pompey by Cardinal Francesco Condulmer, nephew of Pope Eugene IV Condulmer (1431-47). It then passed to the Orsini, who erected the tower dell'Arpacata, and then to the Pio family, lords of Carpi, who did realize a new facade by Camillo Arcucci, with the representation of eagles and lions in the gables of the windows. In the nineteenth century, the Palace passed to the banker Righetti, and eventually became the headquarters of the Lotto and finally public school.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, June 17, 2015:</marcxml:subfield>
+              <marcxml:subfield code="b">Palazzo Orsini Pio Righetti (The Palazzo Orsini Pio Righetti (also Palazzo Pio) is a building in the Roman district of Parione. It was built around 1450 and lies on top of the ruins of the Temple of Venus Victrix of the Theatre of Pompey. It overlooks other neighboring areas of Campo de' Fiori and Piazza del Biscione in Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

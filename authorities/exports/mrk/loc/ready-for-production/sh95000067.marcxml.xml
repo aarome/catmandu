@@ -1,0 +1,69 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02156cz  a2200277n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh95000067</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20171013114413.9</marcxml:controlfield>
+            <marcxml:controlfield tag="008">040805|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 95000067 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">OrU</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Mausoleum of Galla Placidia (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Galla Placidia, Mausoleum of (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Mausoleo di Galla Placidia (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">S. Nazario e Celso (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Santi Nazario e Celso (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Tomb of Galla Placidia (Ravenna, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Mausoleums</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Il considdetto Mausoleo di Galla Placidia in Ravenna, 1950.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 9, p. 959 (Mausoleum of Galla Placidia; built in the 5th cent. A.D.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Northern Italy, 1889:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 1, p. 337 ("S. Nazario e Celso, the Mausoleum of Galla Placidia")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Northern Italy, 1930:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 507 (Mausoleum of Galla Placidia, now Santi Nazario e Celso)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Princeton encyc. classic. sites:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 751 (Tomb of Galla Placidia)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Ravenna Tourism website, viewed July 31, 2017:</marcxml:subfield>
+              <marcxml:subfield code="b">Mausoleum of Galla Placidia ("Galla Placidia (386 - 450 AD), sister of the Roman Emperor Honorius... built this little Mausoleum with a Greek cross plan around 425-450 as her own resting place. However, the mausoleum was never used for that purpose, because the empress died and was buried in Rome in 450"; once connected to the Church of Santa Croce; now open as a tourist site)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica online, viewed July 31, 2017:</marcxml:subfield>
+              <marcxml:subfield code="b">Aelia Galla Placidia ("the small chapel usually--though wrongly--known as the Mausoleum of Galla Placidia contains some of the finest examples of early Byzantine mosaics")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Sacred destinations, viewed July 31, 2017:</marcxml:subfield>
+              <marcxml:subfield code="b">Mausoleum of Galla Placidia, Ravenna (known for its amazing mosaics; probably commissioned by Galla Placidia, never buried there; on the World Heritage List; contains three sarcophagi that were believed to be some of the late Roman emperors in Ravenna, but this is doubtful; probably functioned as the oratory of the church of the Holy Cross)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

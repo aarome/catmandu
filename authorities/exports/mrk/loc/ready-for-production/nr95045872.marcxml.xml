@@ -1,0 +1,37 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00829cz  a2200169n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr95045872</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20000505033916.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">951213n| acannaabn          |a aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr 95045872 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca03975139</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NjP</marcxml:subfield>
+    <marcxml:subfield code="c">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">TNJ</marcxml:subfield>
+    <marcxml:subfield code="d">NNPM</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Curtis, C. Densmore</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Curtis, Charles Densmore</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pais, E. Ancient Italy, 1908:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (C. Densmore Curtis)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OCLC, Oct. 12, 1999</marcxml:subfield>
+    <marcxml:subfield code="b">(hdgs.: Curtis, C. Densmore, Curtis, Charles Densmore, 1875-1925, Curtis, Charles Densmore, 1875-; usage: C. Densmore Curtis)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">WWW in America</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1 (Curtis, C(harles) Densmore, 1875-1925, prof. archaeology, Oct. 16, 1875-June 8, 1925, mem. Am. Expdn. for the excavating of Cyrene, Tripoli, 1910-11, fellow Am. Acad. in Rome, 1912-15, asso. prof. archaeology, Am. Acad. in Rome)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

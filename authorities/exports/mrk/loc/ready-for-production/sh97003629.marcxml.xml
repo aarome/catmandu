@@ -1,0 +1,81 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01306cz  a2200301n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh97003629</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110729075452.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">970422|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 97003629 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0124500</marcxml:subfield>
+              <marcxml:subfield code="e">E0124500</marcxml:subfield>
+              <marcxml:subfield code="f">N0414500</marcxml:subfield>
+              <marcxml:subfield code="g">N0414500</marcxml:subfield>
+              <marcxml:subfield code="2">geonet</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Alban Hills (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Albanus Mons (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Colli Albani (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Colli Laziali (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Laziali Hills (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Monti Albani (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Mountains</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Apennines (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 97-107793: Masi, F. Fine della città eterna?, 1996:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 12 (Colli Albani)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet names server, Apr. 22, 1997</marcxml:subfield>
+              <marcxml:subfield code="b">(Albani, Colli; hlls, 41⁰45ʹN 12⁰45ʹE; variant: Laziali, Colli)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeoRef</marcxml:subfield>
+              <marcxml:subfield code="b">(Alban Hills, Italy, part of lower Apennines, SE of Rome)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott</marcxml:subfield>
+              <marcxml:subfield code="b">(Alban Hills; Colli Laziali or Monti Albani: in Latium, c. Italy, 10 mi. SE of Rome, volcanic in origin)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.</marcxml:subfield>
+              <marcxml:subfield code="b">(Alban Hills or Ital. Monti Albani or anc. Albanus Mons; mountain group near Albano Laziale, a part of the Lower Apennines)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet</marcxml:subfield>
+              <marcxml:subfield code="b">(summit; 41°45ʹ00ʺN 012°45ʹ00ʺE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Geog. thes.;</marcxml:subfield>
+              <marcxml:subfield code="a">Geog. thes. suppl.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Alban Hills</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

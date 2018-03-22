@@ -1,0 +1,66 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01348cz  a2200265n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n81138383</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20040623151629.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">811209n| acannaab           |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  81138383 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Villa della Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Rome (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Villa della Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Accademia nazionale dei Lincei.</marcxml:subfield>
+    <marcxml:subfield code="b">Villa della Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Villa della Farnesina alla Lungara</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Rome (City).</marcxml:subfield>
+    <marcxml:subfield code="b">Villa della Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Villa Farnesina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Villa alla Farnesina alla Lungara</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Villa la Farnesina alla Lungara</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gabinetto nazionale delle stampe. Alfredo Petrucci, 1888-1969, 1979 (a.e.)</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Roma - Villa della Farnesina alla Lungara)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Directory of world museums, 1975,</marcxml:subfield>
+    <marcxml:subfield code="b">p. 300 (Villa della Farnesina, Via della Lungara, Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Museums of the world, 1981,</marcxml:subfield>
+    <marcxml:subfield code="b">p. 225 (Villa della Farnesina, Accademia nazionale dei Lincei, Via della Lungara 230, 1-00165 Roma)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ann. musei e gallerie d'Italia, 1950,</marcxml:subfield>
+    <marcxml:subfield code="b">p. 146 (Roma. Villa della Farnesina, in via della Lungara. Di proprietà dell'Accademia dei Lincei ... costruita ne 1509)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Info. from OCLC, 4-18-89</marcxml:subfield>
+    <marcxml:subfield code="b">(la Farnesina; Villa Farnesina; Villa alla Farnesina alla Lungara; Villa la Farnesina alla Lungara)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

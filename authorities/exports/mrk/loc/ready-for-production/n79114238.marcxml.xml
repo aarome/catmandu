@@ -1,0 +1,476 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>11521cz  a2201753n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79114238</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150314070249.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800609i| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79114238 </marcxml:subfield>
+    <marcxml:subfield code="z">n 2004043842</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00345994</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">InU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCl</marcxml:subfield>
+    <marcxml:subfield code="d">CoU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+    <marcxml:subfield code="d">IEN</marcxml:subfield>
+    <marcxml:subfield code="d">NjR</marcxml:subfield>
+    <marcxml:subfield code="d">ICU</marcxml:subfield>
+    <marcxml:subfield code="d">CtY-L</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights Hospitalers of St. John of Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Chevaliers de Rhodes</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Chevaliers de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Malta, Knights of</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights of St. John of Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights of Rhodes</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights Hospitalers</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Hospitalers of St. John of Jerusalem, Order of the</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Jerusalem, Knights of the Order of St. John of</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Jerusalem, Order of the Knights of St. John of</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Rhodes, Knights of</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights Hospitaller</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">St. John of Jerusalem, Knights of the Order of</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Order of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Order of St. John of Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordem Hospitalaria de S. João de Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordem de S. João de Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovereign Order of St. John of Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Zakon Maltański</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Fursān al-Qiddīs Yūḥannā</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Order of the Knights of St. John of Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare ordine di Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre S.M.H. de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain militaire et hiérosolymitain de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Orden de San Juan de Jerusalén</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain de Saint Jean de Jérusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Malteser-Orden</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Johanniter-Orden</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ritterlicher Orden St. Johannis zu Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Orden Hospitalaria de San Juan de Jerusalén</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain militaire de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Jeruzsálemi Szent János (Máltai) Lovagrend</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri di Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Soberana Orden Militar de Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare ordine ospedaliero di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovereign Military Order of the Hospital of St. John of Jerusalem, of Rhodes, and of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre des Hospitaliers de Saint-Jean de Jérusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre de l'Hôpital Saint-Jean de Jérusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain militaire et hospitalier de Saint-Jean de Jérusalem, de Rhodes et de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre souverain de Saint-Jean de Jérusalem, de Rhodes et de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Malʹtiĭskiĭ orden</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordo Sancti Iohannis</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordo Sancti Johannis</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Johannita Rend</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Johannita Lovagrend</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Szent János Lovagrend</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Máltai Lovagrend</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Johanniterorden</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre de Saint-Jean-de-Jérusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Chevaliers de Saint-Jean-de-Jérusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Orden de Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Caballeros de San Juan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Orden de los Caballeros Hospitalarios de San Juan de Jerusalén</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordre de Malte</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovereign Military Hospitaller Order of St. John of Jerusalem, of Rhodes and of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovereign Military and Hospitaller Order of St. John of Jerusalem, of Rhodes and of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovereign Military Hospitaller Order of Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri di San Giovanni</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine dei Cavalieri di S. Giovanni</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine dei Cavalieri di San Giovanni</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di San Giovanni</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di San Giovanni gerosolimitano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Order of St. John (Malta)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine gerosolimitano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri ospitalieri</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Orden Svi︠a︡togo Ioanna Ierusalimskogo</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordni ta' San Ġwann</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Kavallieri Ospitalieri ta' l-Ordni ta' San Ġwann</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordni tal-Kavallieri ta' San Ġwann</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Szpitalnicy Św. Jana</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Rycerski Zakon Świętego Jana</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Zakon "Joannitów"</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare Ordine di S. Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare ordine di San Giovanni gerosolimitano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri di Rodi</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare Ordine di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine dei Cavalieri giovanniti</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri giovanniti</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Giovanniti</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine dei giovanniti</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Joannici</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di S. Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine di S. Giovanni</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Gerosolimitani</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ospedalieri di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ritterlicher Orden St. Johannis vom Spital zu Jerusalem</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare ordine ospedaliero di San Giovanni di Gerusalemme, di Rodi e di Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine ospitaliero di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Ordine giovannita</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri di San Giovanni di Gerusalemme</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Cavalieri Gerosolimitani</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Soberana Militar Orden de Malta</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Zakon Rycerzy Jerozolimskiego Szpitala św. Jana Chrzciciela</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Knights of the Holy Sepulcher</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Antonine Canons</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Canons of the Holy Sepulcher</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="510" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Johanniter Orde in Nederland</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Not to be confused with Grand Priory in the British Realm of the Most Venerable Order of the Hospital of St. John of Jerusalem, also known as Order of St. John, an independent national body; nor with Knights of St. John, incorp. by spec. act of legislature of the State of New York in 1886 as the Roman Catholic Union of the Knights of St. John [no publs. in LC data base]; its name chgd in 1896 to Knights of St. John [no publs. in LC data base]; nor with the Johanniter Orde in Nederland</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">García Larragueta, S. A. el Gran Pirorado de Navarra de la Orden de San Juan ... 1957.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pecchioli, A. Storia dei Cavalieri di Malta, c1978 (a.e.)</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Cavalieri di Malta)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sovrano militare ordine ospedaliero di San Giovanni di Gerusalemme, detto di Rodi, detto di Malta, 1982?</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cath. encycl.</marcxml:subfield>
+    <marcxml:subfield code="b">(under Knights of Malta: The Sovereign Military Order of the Hospital of St. John of Jerusalem, of Rhodes, and of Malta, commonly called the Knights of Malta or Knights Hospitaller; dating from 11th cent. Now divided into 5 grand priories (Rome, Lombardy-Venetia, Naples-Sicily, Bohemia, Austria) &amp; 26 national associations; under Hospitallers: Knights of St. John of Jerusalem, more widely known as Knights of Malta; f. not later than 1108)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">L'Enquête pontificale de 1373 sur l'Ordre des Hospitaliers de Saint-Jean de Jérusalem, 1987-</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Favreau, R. La commanderie du Breuil-du-Pas ... 1986:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (l'ordre de l'Hôpital Saint-Jean de Jérusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Guillaume de Villaret, 1er recteur ... 1985:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ordre des hospitaliers de Saint-Jean de Jérusalem; Association française des membres de l'Ordre souverain militaire et hospitalier de Saint-Jean de Jérusalem, de Rhodes et de Malte)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Quid, 1191:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 1251 (Ordre souverain militaire et hospitalier de St-Jean de Jérusalem, de Rhodes et de Malte, ou Ordre souverain de Malte)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vajay, S. Ordinis Sancti Iohannis in Hungaria Thesaurus ac Corpus, 1987:</marcxml:subfield>
+    <marcxml:subfield code="b">spine (Johannita Rend) p. 55 (Szent János Lovagrend)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Perminov, P. Pod senʹi︠u︡ vosʹmikonechnogo kresta, 1991:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Malʹtiĭskiĭ orden)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Marjai, I. A kereszt és a kard lovagjai, 1990:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (A Máltai Lovagrend) p. 115 (Johannita Lovagrend)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Münzen u. Medaillen des Johanniterordens auf Malta, 1990.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Des Chevaliers de Rhodes aux Chevaliers de Malte, c1994.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">L'Ordre de Saint-Jean-de-Jérusalem, l'Empire ottoman ... 1994:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 15 (Chevaliers de Saint-Jean-de-Jérusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caballeros Aragoneses de la Soberana Orden Militar de Malta ... 1995:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Indice de familias chilenas que han rendido pruebas en la Orden de Malta (1783-1970), 1971.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Anjou, A. La verdadera historia de los Caballeros de San Juan, 1990:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Caballeros de San Juan) p. 7 (Orden de los Caballeros Hospitalarios de San Juan de Jerusalén)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Souvenirs et vestiges de l'Ordre de Malte subsistant encore à Paris, 1891.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The Knights of Malta, c1996:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (The Sovereign Military Hospitaller Order of St. John of Jerusalem, of Rhodes and of Malta) p. 1 (Sovereign Military and Hospitaller Order of St. John of Jerusalem, of Rhodes and of Malta) p. 5 (Sovereign Military Order of Malta)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">I Cavalieri di San Giovanni e il Mediterraneo, 1998:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 23 (Ordine dei Cavalieri di S. Giovanni l'Ordine di Malta)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Mattia Preti e l'Ordine di San Giovanni tra la Calabria e Malta, c1999:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 13 (Ordine di San Giovanni gerosolimitano; Order of St. John of Jerusalem; Order of St. John) p. 22 (Ordine gerosolimitano; Cavalieri ospitalieri) p. 23 (Knights Hospitaller)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Decrees of Paul I, Emperor of Russia, 1796-1800:</marcxml:subfield>
+    <marcxml:subfield code="b">text of decrees of Nov. 19, 1798 and Feb. 15 and Mar. 11, 1799 (Orden Svi︠a︡togo Ioanna Ierusalimskogo)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Il-mużika ta' Malta sa l-ah̳h̳ar tas-seklu tmintax, 2000:</marcxml:subfield>
+    <marcxml:subfield code="b">p. x (Ordni ta' San Ġwann) p. 29 (Kavallieri Ospitalieri ta' l-Ordni ta' San Ġwann) p. 182 (Ordni tal-Kavallieri ta' San Ġwann)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Szpitalnicy św. Jana na Ziemi Starogardzkiej, 2001:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 1 (Rycerskiego Zakonu Świętego Jana) p. (Zakon "Joannitów")</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sovranità e indipendenza nel Sovrano militare Ordine di Malta, c2006:</marcxml:subfield>
+    <marcxml:subfield code="b">cover flap (Sovrano militare Ordine di S. Giovanni di Gerusalemme)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Congresso di Vienna e principio di legittimità, c2006:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Sovrano militare ordine di San Giovanni gerosolimitano) back cover (Cavalieri di Rodi) p. 13 (Sovrano militare Ordine di San Giovanni di Gerusalemme)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Alle origini dell'Europa mediterranea, c2007:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ordine dei Cavalieri giovanniti) p. 5 (Giovanniti; Ordine dei giovanniti)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Joannici na Śląsku w średniowieczu, 2007.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gli ordini ospedalieri tra centro e periferia, 2007:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 5 (Ordine di S. Giovanni di Gerusalemme; Ordine di S. Giovanni) p. 81 (Gerosolimitani)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gli Ospedalieri in Sardegna e l'eredità dei Templari, c2009:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 4 of cover (Ospedalieri di San Giovanni di Gerusalemme)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Festschrift zum 150jährigen Jubiläum der Schlesischen Genossenschaft des Johanniterordens, c2003:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (... Ritterlichen Ordens St. Johannis vom Spital zu Jerusalem)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Maremma, 2010:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (Sovrano militare ordine ospedaliero di San Giovanni di Gerusalemme, di Rodi e di Malta; Ordine ospitaliero di San Giovanni di Gerusalemme; Ordine giovannita)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ritorno dei Cavalieri, 2011:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (Cavalieri di San Giovanni di Gerusalemme) p. 11 (Cavalieri Gerosolimitani)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">La Soberana Militar Orden de Malta como sujeto de derecho internacional, 2013:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Soberana Militar Orden de Malta)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kościół św. Jana Jerozolimskiego za Murami na poznańskiej Komandorii, 2011:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 7 (Zakon Rycerzy Jerozolimskiego Szpitala św. Jana Chrzciciela)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

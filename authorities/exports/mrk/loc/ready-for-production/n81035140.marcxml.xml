@@ -1,0 +1,157 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03691cz  a2200541n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n81035140</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140130070204.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">810417n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  81035140 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85034160 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0153000</marcxml:subfield>
+    <marcxml:subfield code="e">E0153000</marcxml:subfield>
+    <marcxml:subfield code="f">N0451000</marcxml:subfield>
+    <marcxml:subfield code="g">N0451000</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00580799</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OrU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">CSt-HC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">CSt</marcxml:subfield>
+    <marcxml:subfield code="d">ItFiC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-ci---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Croatia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Narodna Republika Hrvatska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Socijalistička Republika Hrvatska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">SRH</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Hrvatska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">S.R.H.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kroatien</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">SR Hrvatska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">SR Croatia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">People's Republic of Croatia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Croazia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Socialist Republic of Croatia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NR Hrvatska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Khorvatii︠a︡</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ḳroʼeṭyah</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Horvátország</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Repubblica di Croazia</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">Croatia (Republic : 1941-1945)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">For 1946-1991, one of the six republics of Yugoslavia; in 1992 became an independent nation.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script reference not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kessler, W. Politik, Kultur und Gesellschaft in Kroatien und Slawonien in der ersten Hälfte des 19. Jahrhunderts, 1981:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Kroatien)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Godiš. izvješ. Met. aerol. ops. Zagreb--Mak., 1972:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (... SR Hrvatske; SR Croatia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vis. met. ops. Slj. God. izv., 1956:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (... Narodne Republike Hrvatske; People's Republic of Croatia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN. Foreign names info. bull., 1 June 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">p. ii (on 7 April 1992, the United States recognized Bosnia and Hercegovina, Croatia, and Slovenia as sovereign states with their republic borders constituting international boundaries) p. 1 (former name: Hrvatska [brief], Socijalistička Republika; ADM1; new name: Croatia; PCLI, 45°10ʹN, 15°30ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN. Foreign names info. bull., 15 Oct. 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 2 (former name: Croatia; PCLI; name name: Croatia [brief], Republic of [conventional]; Republika Hrvatska [Hrvatska=brief] [Serbocroatian]; PCLI, 45°10ʹN, 15°30ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Trasparenze imperiali, c1997:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Croazia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, June 24, 2008</marcxml:subfield>
+    <marcxml:subfield code="b">(Socialist Republic of Croatia (Croatian, Serbian: Socijalistička Republika Hrvatska) was the official name of Croatia as a constituent republic in the former Socialist Federal Republic of Yugoslavia; was founded as the Federal State of Croatia (Croatian: Federalna Država Hrvatska, or FD Hrvatska) on May 9, 1944; on Nov. 29, 1945, the Federal State of Yugoslavia became the Federal People's Republic of Yugoslavia, a Stalinist People's Republic. Accordingly, the Federal State of Croatia became People's Republic of Croatia (Narodna Republika Hrvatska, or NR Hrvatska); in 1963 the People's Republic of Croatia became the Socialist Republic of Croatia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Glovi︠u︡k, Sergeĭ. Starai︠a︡ moneta, 2008</marcxml:subfield>
+    <marcxml:subfield code="b">p. 168 (Khorvatii︠a︡; Khorvatii)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Novyĭ illi︠u︡strirovannyĭ ėnt︠s︡iklopedicheskiĭ slovarʹ, 1999</marcxml:subfield>
+    <marcxml:subfield code="b">(Khorvatii︠a︡, Respublika Khorvatii︠a︡, gos-vo na I︠U︡. Evropy, na Z. omyvaetsi︠a︡ Adriatich. m.)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ha-Kol zorem, 2006?:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 47 (קרואטיה  = Ḳroʼeṭyah) p.2 (Croatia [in rom])</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Mak, Ferenc. Vesztegzár, 2013:</marcxml:subfield>
+    <marcxml:subfield code="b">title page (Horvátország)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Santa Sede e Croazia, 2013:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Repubblica di Croazia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="675" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kazimirović, V. NDH u svetlu nemačkih dokumenata i dnevnika Gleza fon Horstenau, 1941-1944, 1987: t.p. (NDH) p. 5 (... Nezavisne Države Hrvatske)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Croatia</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

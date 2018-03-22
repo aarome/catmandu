@@ -1,0 +1,213 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>04928cz  a2200685n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80053295</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150926053215.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800610n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80053295 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85142410 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122712</marcxml:subfield>
+    <marcxml:subfield code="e">E0122712</marcxml:subfield>
+    <marcxml:subfield code="f">N0415408</marcxml:subfield>
+    <marcxml:subfield code="g">N0415408</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122700</marcxml:subfield>
+    <marcxml:subfield code="e">E0122700</marcxml:subfield>
+    <marcxml:subfield code="f">N0415400</marcxml:subfield>
+    <marcxml:subfield code="g">N0415400</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122712</marcxml:subfield>
+    <marcxml:subfield code="e">E0122712</marcxml:subfield>
+    <marcxml:subfield code="f">N0415412</marcxml:subfield>
+    <marcxml:subfield code="g">N0415412</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">12.453333</marcxml:subfield>
+    <marcxml:subfield code="e">12.453333</marcxml:subfield>
+    <marcxml:subfield code="f">41.903333</marcxml:subfield>
+    <marcxml:subfield code="g">41.903333</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0122644</marcxml:subfield>
+    <marcxml:subfield code="e">E0122730</marcxml:subfield>
+    <marcxml:subfield code="f">N0415426</marcxml:subfield>
+    <marcxml:subfield code="g">N0415400</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00435098</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">MoSU-L</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">UkCU</marcxml:subfield>
+    <marcxml:subfield code="d">CSt</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-vc---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="s">1929</marcxml:subfield>
+    <marcxml:subfield code="2">edtf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vatican City</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">City-states</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Country</marcxml:subfield>
+    <marcxml:subfield code="b">Independent political entity</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Nations</marcxml:subfield>
+    <marcxml:subfield code="2">aat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Nation</marcxml:subfield>
+    <marcxml:subfield code="b">National state</marcxml:subfield>
+    <marcxml:subfield code="2">thesoz</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">State</marcxml:subfield>
+    <marcxml:subfield code="2">eurovocen</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">State</marcxml:subfield>
+    <marcxml:subfield code="2">stw</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">City of the Vatican</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Città del Vaticano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vatikana</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Vatican City State</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stato della Città del Vaticano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Miejsce Piotrowe</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wieczne Miasto</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Watykan</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cité du Vatican</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stolica Apostolska</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Civitas Vaticana</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Status Civitatis Vaticanae</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Holy See</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Holy See (Vatican City State)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Holy See (Vatican City)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Santa Sede</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Santa Sede (Stato della Città del Vaticano)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Santa Sede (Città del Vaticano)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">State of the Vatican City</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Città Vaticano</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Papal States</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Valid for use (1) for items by and about the government of Vatican City State; (2) as a qualifier added to corporate headings; (3) as the entry element for cross-references from place.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Avramchev, G. Vatikana otblizo, 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Vatikana)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Polit. handbk of the world, 1981</marcxml:subfield>
+    <marcxml:subfield code="b">(Vatican City State; Stato della Città del Vaticano; independent sovereign state)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Miejsce Piotrowe, 1987:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Miejsce Piotrowe) p. 8 (Wieczne Miasto) p. 14 (Watykanu)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">La condition des personnes dans la Cité du Vatican, 1930.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Stolica Apostolska wobec rozbrojenia, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Stolica Apostolska)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 41°54ʹ08ʺN 012°27ʹ12ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, March 5, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Vatican City, or Vatican City State, in Italian officially Stato della Città del Vaticano; a landlocked sovereign city-state whose territory consists of a walled enclave within the city of Rome. It has an area of approximately 44 hectares (110 acres), and a population of just over 800 making it the smallest independent state in the world by both area and population. Vatican City was established as an independent state in 1929 by the Lateran Treaty, signed by Cardinal Secretary of State Pietro Gasparri, on behalf of Pope Pius XI and by Prime Minister and Head of Government Benito Mussolini on behalf of King Victor Emmanuel III of Italy. Vatican City State is distinct from the Holy See, which dates back to early Christianity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Vatican City (Italian: Città del Vaticano; Latin: Civitas Vaticana), officially the Vatican City State (Italian: Stato della Città del Vaticano; Latin: Status Civitatis Vaticanae); an ecclesiastical or sacerdotal-monarchical state ruled by the Bishop of Rome--the Pope; The independent city-state came into existence in 1929 by the Lateran Treaty between the Holy See and Italy, which spoke of it as a new creation, not as a vestige of the much larger Papal States (756-1870), which had previously encompassed much of central Italy; capital: Vatican City (city-state); 41°54.2ʹN 12°27.2ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The world factbook, via WWW, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(under Holy See (Vatican City): conventional long form: The Holy See (Vatican City State); conventional short form: Holy See (Vatican City); local long form: La Santa Sede (Stato della Citta del Vaticano); local short form: Santa Sede (Citta del Vaticano); capital: Vatican City; disputes between a series of "prisoner" popes and Italy were resolved in 1929 by three Lateran Treaties, which established the independent state of Vatican City and granted Roman Catholicism special status in Italy; geographic coordinates: 41 54 N, 12 27 E)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet names server, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Vatican City (conventional); State of the Vatican City (conventional); Città del Vaticano (approved); Stato della Città del Vaticano (approved); variants: Città Vaticano; Holy See; Vatican City State; political entity; 41°54ʹ12ʺN, 012°27ʹ12ʺE (41.903333, 12.453333))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

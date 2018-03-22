@@ -1,0 +1,45 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00928cz  a2200193n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr91003820</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19981121052924.8</marcxml:controlfield>
+  <marcxml:controlfield tag="008">910204n| acannaab|          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr 91003820 </marcxml:subfield>
+    <marcxml:subfield code="z">nr 98010232 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NjP</marcxml:subfield>
+    <marcxml:subfield code="c">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">NNU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Basilica palladiana (Vicenza, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Vicenza (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Basilica palladiana</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Palazzo della ragione (Vicenza, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Basilica (Vicenza, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Il Lascito di Neri Pozza per un museo d'arte contemporanea e Vicenza, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 5 (Basilica palladiana)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">UTET, 1973</marcxml:subfield>
+    <marcxml:subfield code="b">(Basilica palladiana)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The basilica of Andrea Palladio, c1970:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 25 (Palazzo della ragione,; located in Vicenza, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Blue guide. Northern Italy, c1997:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 307 (Basilica; on Piazza dei Signori, Vicenza; nucleus of building is medieval Palazzo della ragione; Palladio commissioned to rebuild double loggia, begun 1549)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

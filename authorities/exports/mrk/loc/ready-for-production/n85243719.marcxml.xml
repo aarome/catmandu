@@ -1,0 +1,57 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01269cz  a2200229n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n85243719</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19890630055135.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">860213n| acannaab|          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  85243719 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NjP</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">San Clemente a Casauria (Abbey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Castiglione a Casauria.</marcxml:subfield>
+    <marcxml:subfield code="b">Abbazia di San Clemente</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Castiglione a Casauria (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">San Clemente a Casauria (Abbey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Abbazia di San Clemente a Casauria</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Monasterium Casauriensis</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">S. Clemente alla Pescara (Abbey)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Chronicon Casauriense. Liber instrumentorum seu chronicorum Monasterii Casauriensis, 1982:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (... Monasterii Casauriensis) p. 5 of booklet issued with the facsim. (... del monastero di S. Clemente a Casauria; ... di quell'abbazia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ventura, B. San Clemente a Casauria, 1967:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 5 (la Basilica Casauriense, una volta Abbazia)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encicl. ital.:</marcxml:subfield>
+    <marcxml:subfield code="b">index (under Santo, San ...: Clemente a Casauria, Abbazia di)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC manual cat.</marcxml:subfield>
+    <marcxml:subfield code="b">(Castiglione a Casauria. Abbazia di San Clemente)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pansa, G. Il Chronicon Casauriense e le vicende ... 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (monastero benedettino di S. Clemente alla Pescara) cover (monastero di S. Clemente alla Pescara)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

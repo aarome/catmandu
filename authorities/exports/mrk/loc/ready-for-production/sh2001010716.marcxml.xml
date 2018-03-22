@@ -1,0 +1,71 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01116cz  a2200253n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2001010716</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110805075825.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">020109|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2001010716</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0062856</marcxml:subfield>
+              <marcxml:subfield code="e">E0062856</marcxml:subfield>
+              <marcxml:subfield code="f">N0362738</marcxml:subfield>
+              <marcxml:subfield code="g">N0362738</marcxml:subfield>
+              <marcxml:subfield code="2">geonet</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Uk</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Tiddis (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Castellum Tidditanorum (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Extinct cities</marcxml:subfield>
+              <marcxml:subfield code="z">Algeria</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Algeria</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Berthier, A. Tiddis, 2000</marcxml:subfield>
+              <marcxml:subfield code="b">(cité antique de Numidie, 2000)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Berthier, A. Tiddis antique Castellum Tidditanorum, 1972.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet, Dec. 17th, 2001</marcxml:subfield>
+              <marcxml:subfield code="b">(Tiddis, Ruines de; 36⁰27ʹ38ʺN, 6⁰28ʹ56ʺE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Miftah Shamali WWW Site, Dec 17, 2001</marcxml:subfield>
+              <marcxml:subfield code="b">(Tiddis, Pragmatic Roman ruins)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott</marcxml:subfield>
+              <marcxml:subfield code="b">(Tiddis, site of Roman city, Mila wilaya, E. Algeria, 19 m/30 km NW of Constantine)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet</marcxml:subfield>
+              <marcxml:subfield code="b">(ancient; 36°27ʹ38ʺN 006°28ʹ56ʺE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.;</marcxml:subfield>
+              <marcxml:subfield code="a">Oxford Classical Dictionary, 1970;</marcxml:subfield>
+              <marcxml:subfield code="a">Lempire's Classical Dictionary, 1994</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Algeria</marcxml:subfield>
+              <marcxml:subfield code="z">Tiddis (Extinct city)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

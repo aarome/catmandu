@@ -1,0 +1,66 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02144nz  a2200277n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2014100113</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150402071321.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">141205|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2014100113</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Litta (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Borromeo Litta Villa (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Borromeo Visconti Litta Villa (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Litta Villa (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Toselli, Villa (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Borromeo Litta (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Toselli (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Visconti Borromeo Litta (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Weill-Weiss (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Weill-Weiss Villa (Lainate, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat: 2013384778:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Villa Litta, Lainate-Milano) p. 11 (the Villa Visconti Borromeo Litta, best known for its nymphaeum, was commissioned in the late 16th century by conte Pirro Visconti Borromini and substantially enhanced in the 18th by conte Giulio)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Associazione amici di Villa Litta website, viewed Dec. 5, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">(The Borromeo Visconti Litta Villa is located in Lainate. The creator of the entire complex was Pirro I Visconti Borromeo who, inspired by the Medicean villas in Tuscany, around the year 1585, transformed his estate in Lainate from an agricultural land estate into an estate for amusement and pleasure. In addition to the architectural asset, Pirro I landscaped the garden, and allowed the Nymphaeum be built. The marquis Pompeo Litta inherited the villa in 1750. It was subsequently owned by a succession of families and purchased by the comune of Lainate in 1971)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Getty research library website, viewed Dec. 5, 2014:</marcxml:subfield>
+              <marcxml:subfield code="b">BHA and RLA database (Villa Litta (Lainate); Villa Borromeo Litta (Lainate)) Proquest research library database (Villa Litta))</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Guida d'Italia del T.C.I. Milano e laghi (compreso il canton Ticino), 1967:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 276 (Villa Weill-Weiss, today, Toselli; located in Lainate; begun by Pirro Visconti Borromini in the 17th century and expanded in the 1700s by the Litta family)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

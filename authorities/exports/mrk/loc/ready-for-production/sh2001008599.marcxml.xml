@@ -1,0 +1,44 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01051cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2001008599</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20010814114757.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">010705i| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2001008599</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Impasto ware</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Impasto pottery</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Pottery</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2001383690: Ceramiche d'impasto dell'età orientalizzante in Italia, 2000.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">The dictionary of world pottery and porcelain, c1971</marcxml:subfield>
+              <marcxml:subfield code="b">(Impasto or Impasto italico: in ancient Etruscan ceramics; the name was given to a badly levigated volcanic clay from which were fashioned cinerary urns and other vessels from about the 9th to the 7th century B.C. or later)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Grove Dictionary of art, 1996:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 10, p. 609 (Impasto ware: the fabric used for vases in Etruria during the Iron Age)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">"A-R-T" WWW site, July 5, 2000</marcxml:subfield>
+              <marcxml:subfield code="b">(The Karnoff collection: Etruscan and South Italian vases: three Villanovan impasto ware vessels)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Alta Nova search July 5, 2000</marcxml:subfield>
+              <marcxml:subfield code="b">(Impasto pottery: 10 results)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

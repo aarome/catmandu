@@ -1,0 +1,41 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00776nz  a2200181n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh97008824</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19980108092120.2</marcxml:controlfield>
+            <marcxml:controlfield tag="008">971203|| anannbab|          |a ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 97008824 </marcxml:subfield>
+              <marcxml:subfield code="z">n  86093983 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Palazzo dei Priori (Perugia, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Palazzo comunale (Perugia, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2="0">
+              <marcxml:subfield code="a">Priori Palazzo (Perugia, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Municipal buildings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 97-214824: Il Palazzo dei Priori di Perugia, c1997:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 177, etc. (houses many offices and the Galleria nazionale dell'Umbria)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Guide to artistic Italy, 1981:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 237 (Perugia: Palazzo comunale or dei Priori, begun in 1293)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Italia, guida artistica, 1993:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 559 (Perugia: Palazzo comunale or dei Priori)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

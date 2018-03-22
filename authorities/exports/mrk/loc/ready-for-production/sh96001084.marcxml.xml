@@ -1,0 +1,69 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01085cz  a2200265n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh96001084</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110604082627.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">960201|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 96001084 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0233460</marcxml:subfield>
+              <marcxml:subfield code="e">E0233460</marcxml:subfield>
+              <marcxml:subfield code="f">N0382800</marcxml:subfield>
+              <marcxml:subfield code="g">N0382800</marcxml:subfield>
+              <marcxml:subfield code="2">geonames</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DGPO</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Evripos Strait (Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Egripos Strait (Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Eurípos Strait (Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Evrípou, Porthmós (Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Porthmós Evrípou (Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Straits</marcxml:subfield>
+              <marcxml:subfield code="z">Greece</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: U.S. Defense Mapping Agency. Hydrographic/Topographic Center. Porthmós Evrípou and Khálkis Harbor, 1994:</marcxml:subfield>
+              <marcxml:subfield code="b">map recto (Porthmós Evrípou, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GNIS, Greece</marcxml:subfield>
+              <marcxml:subfield code="b">(Evrípou, Porthmós; strait; Evripos)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott</marcxml:subfield>
+              <marcxml:subfield code="b">(Euripos or Evripos; strait in Aegean Sea, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Web. geog.</marcxml:subfield>
+              <marcxml:subfield code="b">(Evripos; also, Euripos, or Egripos, Greece)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeoNames [algorithmically matched]</marcxml:subfield>
+              <marcxml:subfield code="b">channel; 38°28ʹ00ʺN 023°35ʹ00ʺE;</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Times atlas</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Greece</marcxml:subfield>
+              <marcxml:subfield code="z">Evripos Strait</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

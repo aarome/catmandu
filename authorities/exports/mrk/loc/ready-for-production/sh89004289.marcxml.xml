@@ -1,0 +1,53 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00745cz  a2200205n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh89004289</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110604081909.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">890721|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 89004289 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">W0020300</marcxml:subfield>
+              <marcxml:subfield code="e">W0020300</marcxml:subfield>
+              <marcxml:subfield code="f">N0505800</marcxml:subfield>
+              <marcxml:subfield code="g">N0505800</marcxml:subfield>
+              <marcxml:subfield code="2">geonames</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cranborne Chase (England)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Forests and forestry</marcxml:subfield>
+              <marcxml:subfield code="z">England</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Barrett, J.C. Landscape, monuments and society ... 1990.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Phillip intl. atlas:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 44.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Barth, 1986</marcxml:subfield>
+              <marcxml:subfield code="b">(a wooded area on the border of Dorset and Wiltshire)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeoNames [algorithmically matched]</marcxml:subfield>
+              <marcxml:subfield code="b">woods; 50°58ʹ00ʺN 002°03ʹ00ʺW</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lippincott;</marcxml:subfield>
+              <marcxml:subfield code="a">Web. geog.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">England</marcxml:subfield>
+              <marcxml:subfield code="z">Cranborne Chase</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

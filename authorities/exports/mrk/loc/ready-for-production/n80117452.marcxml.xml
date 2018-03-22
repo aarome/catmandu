@@ -1,0 +1,148 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03272cz  a2200553n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80117452</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20160722075410.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800915n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80117452 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0004214</marcxml:subfield>
+    <marcxml:subfield code="e">E0004214</marcxml:subfield>
+    <marcxml:subfield code="f">N0472341</marcxml:subfield>
+    <marcxml:subfield code="g">N0472341</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E000.703977</marcxml:subfield>
+    <marcxml:subfield code="e">E000.703977</marcxml:subfield>
+    <marcxml:subfield code="f">N047.394836</marcxml:subfield>
+    <marcxml:subfield code="g">N047.394836</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00498088</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">LNT</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-fr---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tours (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">France</marcxml:subfield>
+    <marcxml:subfield code="f">Indre-et-Loire (France)</marcxml:subfield>
+    <marcxml:subfield code="f">Centre (France)</marcxml:subfield>
+    <marcxml:subfield code="f">Touraine (France)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">Centre-Val de Loire (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">fre</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Augusta Turonum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caesarodunum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caesarodunum Turonum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Martinopolis (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Thoronus (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Thuro (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Thuronum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Torenorum Civitas (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Toronus (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turenorum Civitas (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonensium Civitas (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turones (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonia (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonica Civitas (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonium (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Turonorum Civitas (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Civitas Turonum (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ville de Tours (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tours (Indre-et-Loire, France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Tours</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Orbis Latinus, 1992:</marcxml:subfield>
+    <marcxml:subfield code="b">III:529 (Turonum, Augusta Turonum, Caesarodunum, Caesarodunum Turonum, Martinopolis, Thoronus, Thuro, Thuronum, Torenorum civ., Toronensis, Toronus, Turenorum civ., Turonensis, Turonensium civ., Turones, Turonia, Turonica civ., Turonium, Turonorum civ.: Tours, Hst. d. Dép. Indre-et-Loire, Frankreich.)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet, 20 July 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Tours; geopolitical entity name: France; first-order administrative division name: Centre-Val de Loire; 47° 23ʹ 41ʺ N, 000° 42ʹ 14ʺ E; 47.394836 [N], .703977 [E]; populated place; lists another populated place [not yet in LC/NACO file as of 21 July 2016] with the same approved name, Tours, and without a variant name, in Région Rhône-Alpes)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ville de Tours official Web site, 20 July 2016:</marcxml:subfield>
+    <marcxml:subfield code="b">main page (Ville de Tours; Tours)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 20 July 2016:</marcxml:subfield>
+    <marcxml:subfield code="b">Tours (Tours; a city located in the centre-west of France; the administrative centre of the Indre-et-Loire department and the largest city in the Centre-Val de Loire region of France (although it is not the capital); stands on the lower reaches of the River Loire, between Orléans and the Atlantic coast; the surrounding district: the traditional province of Touraine; original Gallic name: Turones; becoming part of the Roman Empire during the 1st century AD, the city was named Caesarodunum ("hill of Caesar"); the name evolved in the 4th century to Civitas Turonum then Tours)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 18 March 2016:</marcxml:subfield>
+    <marcxml:subfield code="b">Centre-Val de Loire (on 17 January 2015, in the wake of the proposed reorganization of French regions, the official name of the region of Centre was changed to "Centre-Val de Loire"; Centre-Loire Valley region (France))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">France</marcxml:subfield>
+    <marcxml:subfield code="z">Tours</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

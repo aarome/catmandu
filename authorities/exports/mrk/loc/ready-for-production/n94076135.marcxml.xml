@@ -1,0 +1,70 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01226cz  a2200241n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n94076135</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140322070444.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">940810n| azannaabn          |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  94076135 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca03659864</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">ICU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="s">00</marcxml:subfield>
+    <marcxml:subfield code="t">01</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Apollodorus,</marcxml:subfield>
+    <marcxml:subfield code="c">of Damascus,</marcxml:subfield>
+    <marcxml:subfield code="d">active 1st century-2nd century</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Abūlūdūr,</marcxml:subfield>
+    <marcxml:subfield code="c">al-Dimashqī,</marcxml:subfield>
+    <marcxml:subfield code="d">active 1st century-2nd century</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Apollodoro,</marcxml:subfield>
+    <marcxml:subfield code="c">di Damasco,</marcxml:subfield>
+    <marcxml:subfield code="d">active 1st century-2nd century</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Apollodorus,</marcxml:subfield>
+    <marcxml:subfield code="c">Mechanicus,</marcxml:subfield>
+    <marcxml:subfield code="d">active 1st century-2nd century</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="w">nnea</marcxml:subfield>
+    <marcxml:subfield code="a">Apollodorus,</marcxml:subfield>
+    <marcxml:subfield code="c">of Damascus,</marcxml:subfield>
+    <marcxml:subfield code="d">1st/2nd cent.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Abūlūdūr al-Dimashqī, 1990:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 15 (b. in Damascus ca. 60 AD; d. ca. 125 AD)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encyc. Brit., 1992</marcxml:subfield>
+    <marcxml:subfield code="b">(Apollodorus of Damascus, fl. early 2nd cent. AD; Greek engineer and architect primarily for Roman Emperor Trajan; executed ca. 130 AD)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Acad. Amer. Encyc. 1986,</marcxml:subfield>
+    <marcxml:subfield code="b">(Apollodorus of Damascus, was chief architect of the Roman Emperor Trajan; executed ca. 130 AD)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His L'arte dell'assedio di Apollodoro di Damasco, c1999.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His Apollodorus Mechanicus, Siege-matters = Poliorkētika, 2010, ©2010.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

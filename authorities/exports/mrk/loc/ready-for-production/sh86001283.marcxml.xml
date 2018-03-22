@@ -1,0 +1,59 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01294cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh86001283</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20080124081250.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860306|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 86001283 </marcxml:subfield>
+              <marcxml:subfield code="z">nr 98026032 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Albani (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Albani Villa (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Torlonia Villa (Rome, Italy : Via Salaria)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Albani-Torlonia (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Torlonia (Rome, Italy : Via Salaria)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Palaces</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Forschungen zur Villa Albani ... 1982</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Baedeker, Rome, 1930: p. 476</marcxml:subfield>
+              <marcxml:subfield code="b">("Villa Albani")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Davenport, Dolphin Guide to Rome, 1964: p. 268</marcxml:subfield>
+              <marcxml:subfield code="b">("Villa Torlonia formerly the Villa Albani")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hülsen, Rome, 1964: p. 331</marcxml:subfield>
+              <marcxml:subfield code="b">(in German "called Villa Torlonia but known to art history as 'Villa Albani'")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Rossiter, Blue Guides...Rome, 1971: p. 181</marcxml:subfield>
+              <marcxml:subfield code="b">("Villa Torlonia, formerly Albani")</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Dec. 18, 2007</marcxml:subfield>
+              <marcxml:subfield code="b">(Villa Torlonia is the name applied to several country retreats of the Torlonia princely family in the outskirts of the city of Rome and in Frascati, Lazio, including ... Villa Albani-Torlonia with its entrance in the via Salaria, better known by its former name, the Villa Albani)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

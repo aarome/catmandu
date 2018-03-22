@@ -1,0 +1,120 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02969cz  a2200433n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n81070647</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140313070256.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">810914n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  81070647 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85033069 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0090000</marcxml:subfield>
+    <marcxml:subfield code="e">E0090000</marcxml:subfield>
+    <marcxml:subfield code="f">N0420000</marcxml:subfield>
+    <marcxml:subfield code="g">N0420000</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00615973</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">NcD</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">NNC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-fr---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Corsica (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">France</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cyrnos (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Corse (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Korsika (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Còrsega (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Korsikē (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cyrnus (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Gorse (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Territorial Collectivity of Corsica (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Collectivité territoriale de Corse (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Golo (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Liamone (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Corse-du-Sud (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Haute-Corse (France)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">This heading represents the successive jurisdictions coterminous with the island of Corsica, except the economic region, which has existed simultaneously with the French dept., and is established as: Corsica (France : Region)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Comby, L. Histoire des Corses, 1978:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 5, etc. (Corse) p. 190 (Corse du Sud, Haute-Corse) p. 191 (Corsica divided into two depts. Oct. 1974)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Bottin admin., 1974:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 1004 (Dept.: Corse) 1976: p. 1010-1011 (Dept.: Corse-du-Sud; Dept.: Haute-Corse)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN gaz., France, 1964</marcxml:subfield>
+    <marcxml:subfield code="b">(Corse (French), Corsica (conventional), ISL, 42°00ʹN, 9°00ʹE; Corse [brief], Département de la, ADMD, 42°00ʹN, 9°00ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Col. Lipp. gaz.</marcxml:subfield>
+    <marcxml:subfield code="b">(Corsica, Fr. Corse, anc. Cyrnus, island, a dept. of metropolitan France, ruled by Genoa 1312-1755, indep. under P. Paoli 1755-1768, to France 1768)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encyc. Brit., 1977</marcxml:subfield>
+    <marcxml:subfield code="b">(Corsica, French Corse, island; formerly a dept. of France, but as of 1/1/76 two depts., Haute Corse, cap. Bastia, and Corse du Sud, cap. Ajaccio)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN, 6/2/81</marcxml:subfield>
+    <marcxml:subfield code="b">(Corse, conventional Corsica, island, 42°00ʹN, 9°00ʹE; Département de la Corse [Corse=brief], former ADM 1, 42°00ʹN, 9°00ʹE; divided in 1976; Corse, economic region, 42°00ʹN, 9°00ʹE, variants: Corsica, Gorse)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN. Foreign names info. bull., 15 Apr. 1996</marcxml:subfield>
+    <marcxml:subfield code="b">(former name: Corse; ADM1; new name: Corsica [brief], Territorial Collectivity of [conventional]; Collectivité territoriale de Corse [Corse=brief] [French]; ADM1; 42°00ʹN, 9°00ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encyc.Brit., 11th ed.</marcxml:subfield>
+    <marcxml:subfield code="b">(Lists the successive changes in ownership undergone by the island throughout its history; since 1796 under French control except for a brief time in 1814, when it was under British control; premanent French control was confirmed by the settlement of 1815; had been a British viceroyalty from 1794 until British evacuation Oct. 26, 1796; ownership before French control was variously Arabic, Pisan, Genoese, etc.)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">France</marcxml:subfield>
+    <marcxml:subfield code="z">Corsica</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

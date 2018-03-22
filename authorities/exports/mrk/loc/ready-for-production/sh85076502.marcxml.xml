@@ -1,0 +1,46 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00683cz  a2200181n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85076502</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20101007075918.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860211i| anannbabn          |b ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85076502 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Z662</marcxml:subfield>
+              <marcxml:subfield code="b">Z997</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Libraries</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="360" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">subdivision</marcxml:subfield>
+              <marcxml:subfield code="a">Library</marcxml:subfield>
+              <marcxml:subfield code="i">under names of individual persons, families, and corporate bodies; also subdivision</marcxml:subfield>
+              <marcxml:subfield code="a">Libraries</marcxml:subfield>
+              <marcxml:subfield code="i">under names of individual corporate bodies; also headings beginning with the word</marcxml:subfield>
+              <marcxml:subfield code="a">Library;</marcxml:subfield>
+              <marcxml:subfield code="i">and names of individual libraries</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Documentation</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Public institutions</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Librarians</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="681" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Notes under</marcxml:subfield>
+              <marcxml:subfield code="a">Library reports; Library surveys</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

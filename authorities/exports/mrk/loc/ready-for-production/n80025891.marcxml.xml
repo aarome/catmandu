@@ -1,0 +1,35 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00450cz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80025891</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19891017065524.7</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800409n| acannaab|          |a aaa |||  </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80025891 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Borromini, Francesco,</marcxml:subfield>
+    <marcxml:subfield code="d">1599-1667</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Borromino, Francesco,</marcxml:subfield>
+    <marcxml:subfield code="d">1599-1667</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Boromini, Francesco,</marcxml:subfield>
+    <marcxml:subfield code="d">1599-1667</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Boromino, Francesco,</marcxml:subfield>
+    <marcxml:subfield code="d">1599-1667</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Castello, Francesco,</marcxml:subfield>
+    <marcxml:subfield code="d">1599-1667</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

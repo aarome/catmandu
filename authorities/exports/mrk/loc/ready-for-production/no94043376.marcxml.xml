@@ -1,0 +1,27 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00432nz  a2200133n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no94043376</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19950109151745.5</marcxml:controlfield>
+  <marcxml:controlfield tag="008">941215n| acannaab|          |a aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no 94043376 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OO</marcxml:subfield>
+    <marcxml:subfield code="c">OO</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Mahoney, J. O.</marcxml:subfield>
+    <marcxml:subfield code="q">(James Owen),</marcxml:subfield>
+    <marcxml:subfield code="d">1907-1987</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Mahoney, James Owen,</marcxml:subfield>
+    <marcxml:subfield code="d">1907-1987</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Paintings and drawings by J.O. Mahoney, c1990:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 6 (James Owen Mahoney; b. 10/16/1907) p. 7 (d. 10/19/1987)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

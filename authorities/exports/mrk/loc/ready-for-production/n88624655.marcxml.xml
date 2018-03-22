@@ -1,0 +1,62 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01227cz  a2200241n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n88624655</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20111118074737.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">880331n| acannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  88624655 </marcxml:subfield>
+    <marcxml:subfield code="z">n  93061008 </marcxml:subfield>
+    <marcxml:subfield code="z">n 2002011232</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NNWhit</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Mercati Traianei (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Mercati di Traiano a Roma</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Mercati di Traiano (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Trajan's Markets (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Trajan Markets (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2=" ">
+    <marcxml:subfield code="a">Markets of Trajan (Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nuc88-38768: Roma, archeologia e progetto, 1983</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg. on CLU rept.: Mercati Traianei (Rome, Italy); usage: Mercati Traianei)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Richard Serra, c1999:</marcxml:subfield>
+    <marcxml:subfield code="b">p. opposite t.p. (Mercati di Traiano a Roma) t.p. verso (Mercati di Traiano, Roma)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC database, July 18, 2000</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg.: Trajan's Markets; usage: Mercati di Traiano; Trajan's Markets; Trajan Markets)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Caro in the Trajan Markets, 1993:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP galley (daily market of ancient Rome)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Oxford hist. of classical world, 1986</marcxml:subfield>
+    <marcxml:subfield code="b">(Trajan Markets; ca. AD 100-112)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Treasures of Christian art in Bulgaria, c2001:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 5, etc. (Markets of Trajan, Rome, renovated by 2001)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

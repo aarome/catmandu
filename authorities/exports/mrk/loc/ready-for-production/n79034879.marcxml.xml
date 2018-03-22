@@ -1,0 +1,97 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02795cz  a2200325n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79034879</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150211070227.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790427n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79034879 </marcxml:subfield>
+    <marcxml:subfield code="z">sh 85102445 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0102300</marcxml:subfield>
+    <marcxml:subfield code="e">E0102300</marcxml:subfield>
+    <marcxml:subfield code="f">N0434300</marcxml:subfield>
+    <marcxml:subfield code="g">N0434300</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E010.383333</marcxml:subfield>
+    <marcxml:subfield code="e">E010.383333</marcxml:subfield>
+    <marcxml:subfield code="f">N043.716667</marcxml:subfield>
+    <marcxml:subfield code="g">N043.716667</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00268470</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">LNT</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pisa (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="b">City-states</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Italy</marcxml:subfield>
+    <marcxml:subfield code="f">Tuscany (Italy)</marcxml:subfield>
+    <marcxml:subfield code="f">Pisa (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Comune di Pisa (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Portus Pisanus (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Colonia Iulia Obsequens (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pisa (Tuscany)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Pisa</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Its L'inaugurazione della Università di Pisa, 1859.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Columbia encyclopedia: under Tuscany (Pisa became a part of the Grand Duchy of Tuscany in 1569 when the Grand Duchy was created; a city and province of Italy since 1860)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ricerche di archeologia medievale a Pisa, 2000- :</marcxml:subfield>
+    <marcxml:subfield code="b">v. 1, p. opp t.p. (Comune di Pisa)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet, 30 January 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Pisa; geopolitical entity name: Italy; first-order administrative division name: Tuscany; 43° 43ʹ 00ʺ N, 010° 23ʹ 00ʺ E; 43.716667 [N], 10.383333 [E]; seat of a second-order administrative division)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 30 January 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Pisa; city in Tuscany, central Italy; capital city of the Province of Pisa; Etruscan origins; in 180 BC, it became a Roman colony under Roman law, as Portus Pisanus; Emperor Augustus changed the name in Colonia Iulia obsequens; after 774 AD, became part of the duchy of Lucca; in 930, became the county center within the mark of Tuscia; 11th century, Republic of Pisa; occupied by Florentines in 1406; reclaimed its independence in 1494 as the Second Pisan Republic; the new freedom did not last long; the city was sold to Visconti family from Milan and eventually to Florence again)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sarti, Roland. Italy, 2004:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 486 (Pisa, city of; a provincial capital in the region of Tuscany; of Roman origin) p. 487 (in 11th century, Pisa competed for territory with the neighboring city of Lucca, conquered the island of Sardinia; a self-governing commune after 1080; Florence defeated Pisa decisively in 1406 and took it over in 1509; under the rule of the Medici family and part of the Grand Duchy of Tuscany) p. 600 (Tuscany became the regional state of the Grand Duchy of Tuscany under Medici family rule in the 16th century; after the extinction of the Medici dynasty, the House of Habsburg-Lorraine ruled the grand duchy until 1859; a year later Tuscany became part of the Kingdom of Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Pisa</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

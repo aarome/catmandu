@@ -1,0 +1,136 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02050cz  a2200421n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79041756</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150717053154.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790427n| azannaabn          |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79041756 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00275208</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">MdU</marcxml:subfield>
+    <marcxml:subfield code="d">InU</marcxml:subfield>
+    <marcxml:subfield code="d">Uk</marcxml:subfield>
+    <marcxml:subfield code="d">CMalG</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">1483</marcxml:subfield>
+    <marcxml:subfield code="g">1520-04-06</marcxml:subfield>
+    <marcxml:subfield code="2">edtf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raphael,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Urbino (Italy)</marcxml:subfield>
+    <marcxml:subfield code="b">Rome (Italy)</marcxml:subfield>
+    <marcxml:subfield code="f">Rome (Italy)</marcxml:subfield>
+    <marcxml:subfield code="f">Perugia (Italy)</marcxml:subfield>
+    <marcxml:subfield code="f">Florence (Italy)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="372" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Art</marcxml:subfield>
+    <marcxml:subfield code="a">Architecture</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Artists</marcxml:subfield>
+    <marcxml:subfield code="a">Architects</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Sanzio, Raffaele,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raffaello Sanzio,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Santi, Raffaello,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Sanzio, Raffaello,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raffael,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raffaello,</marcxml:subfield>
+    <marcxml:subfield code="c">da Urbino,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Urbino, Raffaello da,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raphael,</marcxml:subfield>
+    <marcxml:subfield code="c">Urbinas,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Sanctius, Raphael,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Urbinas, Raphael Sanctius,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Rafaėlʹ,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Raffaele Sanzio,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Sanzi, Raffaello,</marcxml:subfield>
+    <marcxml:subfield code="d">1483-1520</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His L'Estasi di Santa Cecilia di Raffaello da Urbino nella Pinacoteca nazionale di Bologna, 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">title page (Raffaello da Urbino)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His Raphael Urbinas, c1983:</marcxml:subfield>
+    <marcxml:subfield code="b">title page (Raphael Urbinas)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Aquila, P. Imagines Veteris ac Novi Testamenti, 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">title page (a Raphaele Sanctio Urbinate ...)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rafaėlʹ i ego vremi︠a︡, 1986.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LCCN52-30025</marcxml:subfield>
+    <marcxml:subfield code="b">(access point: Raffaele Sanzio, 1483-1520)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BL auth. file 17 Nov. 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(reference: Sanzi, Raffaello)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Allgemein. Künstlerlexikon online, viewed April 4, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Santi, Rafaello; variants: Sanzio, Raffaello; Raphael (1483); Raffaello Sanzio; Rafael; Raffaello Santi da Urbino; Raphaël; Raphael Urbinas; Raphaello; Raphael; born 1483 in Urbino; died April 6, 1520 in Rome; painter, architect, master draughtsman; active in Perugia, Florence and Rome)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

@@ -1,0 +1,74 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01208cz  a2200277n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2004008862</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20110607082809.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">041025|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2004008862</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0124200</marcxml:subfield>
+              <marcxml:subfield code="e">E0124200</marcxml:subfield>
+              <marcxml:subfield code="f">N0414300</marcxml:subfield>
+              <marcxml:subfield code="g">N0414300</marcxml:subfield>
+              <marcxml:subfield code="2">geonet</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nemi, Lake (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lago di Nemi (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lago nemorense (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lake Nemi (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nemorensis Lacus (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Lakes</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: 2004424701: Il santuario di Diana a Nemi, c2001:</marcxml:subfield>
+              <marcxml:subfield code="b">pp. 15 ff. (Lago di Nemi; Lago nemorense)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet, Oct. 25, 2004</marcxml:subfield>
+              <marcxml:subfield code="b">(Nemi, Lago di; LK; 41⁰43ʹN  012⁰42ʹE)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Getty thes. of geog. names online, Oct. 25, 2004</marcxml:subfield>
+              <marcxml:subfield code="b">(Lake Nemi; Lago di Nemi; Nemi, Lago di; Nemi, Lake; crater lake, Roma province, Lazio)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">LC database, Oct 25, 2004</marcxml:subfield>
+              <marcxml:subfield code="b">(Nemi, Italy, Lake of)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Col. gaz.</marcxml:subfield>
+              <marcxml:subfield code="b">(Nemi, Lake, Latin Nemorensis lacus, small, picturesque crater lake, in the Alban Hills, central Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Merriam Web. geog.</marcxml:subfield>
+              <marcxml:subfield code="b">(Nemi, Lake, anc. Nemorensis Lacus)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GEOnet</marcxml:subfield>
+              <marcxml:subfield code="b">lake; 41°43ʹ00ʺN 012°42ʹ00ʺE</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+              <marcxml:subfield code="z">Nemi, Lake</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

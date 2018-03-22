@@ -1,0 +1,76 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00966cz  a2200277n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80038415</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130711070220.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800404n| azannaabn          |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80038415 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00420508</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">CU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">RPJCB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">15081130</marcxml:subfield>
+    <marcxml:subfield code="g">15800819</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Palladio, Andrea,</marcxml:subfield>
+    <marcxml:subfield code="d">1508-1580</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Padua, Italy</marcxml:subfield>
+    <marcxml:subfield code="b">Vicenza, Italy</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="372" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Architecture</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Architect</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ita</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Palladio, A.</marcxml:subfield>
+    <marcxml:subfield code="q">(Andrea),</marcxml:subfield>
+    <marcxml:subfield code="d">1508-1580</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Palladio, André,</marcxml:subfield>
+    <marcxml:subfield code="d">1508-1580</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Palladio,</marcxml:subfield>
+    <marcxml:subfield code="d">1508-1580</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Andrea,</marcxml:subfield>
+    <marcxml:subfield code="c">di Pietro,</marcxml:subfield>
+    <marcxml:subfield code="d">1508-1580</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His The architecture of A. Palladio, 1715-1720.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His Les qvatre livres de l'architectvre d'André Palladio, 1650</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Encic. ital.</marcxml:subfield>
+    <marcxml:subfield code="b">(Palladio, Andrea; b. 11-30-1508, Padova; d. 08-19-1580, Vicenza; architect; Andrea di Pietro given name Palladio)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

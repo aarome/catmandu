@@ -1,0 +1,36 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00669cz  a2200157n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n97082538</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19971006074944.1</marcxml:controlfield>
+  <marcxml:controlfield tag="008">970818n| acannaab|          |a aaa |||  </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  97082538 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Decius, Gaius Messius Quintus Trajanus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">201-251</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Decius, Caius Messius Quintus Trajanus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">201-251</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Die Religionspolitik des Kaisers Decius, 1994.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Oxford Classical Dictionary</marcxml:subfield>
+    <marcxml:subfield code="b">(Decius, Gaius Messius Quintus (later assumed added name of Trajanus; 201-251; emperor from 249-251)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GDEL</marcxml:subfield>
+    <marcxml:subfield code="b">Decius, Caius Messius Quintus Trajanus, 201-251; ruled 249-251)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

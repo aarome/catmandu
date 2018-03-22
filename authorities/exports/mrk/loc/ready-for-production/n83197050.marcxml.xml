@@ -1,0 +1,103 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02499cz  a2200385n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n83197050</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170728173250.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">830722n| azannaabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  83197050 </marcxml:subfield>
+              <marcxml:subfield code="z">n  87113691 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca01010495</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">ViU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">InU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="w">nnaa</marcxml:subfield>
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Italy.</marcxml:subfield>
+              <marcxml:subfield code="b">Galleria nazionale d'arte antica</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Nationalgalerie für Alte Kunst in Rom</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica di Palazzo Barberini</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica in Palazzo Barberini a Roma</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica di Palazzo Barberini di Roma</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale di Palazzo Barberini</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica a Palazzo Barberini a Roma</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica di Roma</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale d'arte antica Palazzo Barberini</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Italy.</marcxml:subfield>
+              <marcxml:subfield code="b">National Gallery of Ancient Art</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Galleria nazionale (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">National Gallery of Ancient Art (Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Un'Antologia di restauri, c1982 (a.e.)</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Roma, Galleria nazionale d'arte antica, Palazzo Barberini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">LC data base, 7/1/83</marcxml:subfield>
+              <marcxml:subfield code="b">(hdg.: Galleria nazionale d'arte antica)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">La Galleria nazionale ... 1932:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Die Nationalgalerie für Alte Kunst in Rom)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Capolavori del Settecento dalla Galleria nazionale d'arte antica di Palazzo Barberini, c2000:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 5 (Galleria nazionale d'arte antica in Palazzo Barberini a Roma) p. 7 (Galleria nazionale d'arte antica di Palazzo Barberini di Roma) p. 9 (Galleria nazionale di Palazzo Barberini) p. 15 (Galleria nazionale d'arte antica a Palazzo Barberini a Roma; Galleria nazionale d'arte antica di Roma)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Il Seicento e Settecento romano, c1998:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Galleria nazionale d'arte antica Palazzo Barberini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Int'l directory of arts, 1998/99:</marcxml:subfield>
+              <marcxml:subfield code="b">(under Roma: Galleria nazionale d'arte antica Palazzo Barberini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">La Galleria nazionale d'arte antica a Roma, 1987</marcxml:subfield>
+              <marcxml:subfield code="b">p. 39 (Galleria nazionale; founded upon the collections of Corsini and Torlonia) p. 81 (opened in 1895)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Frommer's (Website), viewed on July 28, 2017:</marcxml:subfield>
+              <marcxml:subfield code="b">Rome, attraction (Galleria nazional d'arte antica; National Gallery of Ancient Art; the Palazzo Barberini houses the Galleria nazionale d'arte antica)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

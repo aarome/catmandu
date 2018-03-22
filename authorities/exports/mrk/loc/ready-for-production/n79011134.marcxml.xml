@@ -1,0 +1,120 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02332cz  a2200397n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79011134</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20160211074023.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">790223n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79011134 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0143000</marcxml:subfield>
+    <marcxml:subfield code="e">E0143000</marcxml:subfield>
+    <marcxml:subfield code="f">N0410000</marcxml:subfield>
+    <marcxml:subfield code="g">N0410000</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0145514</marcxml:subfield>
+    <marcxml:subfield code="e">E0145514</marcxml:subfield>
+    <marcxml:subfield code="f">N0405438</marcxml:subfield>
+    <marcxml:subfield code="g">N0405438</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E014.920528</marcxml:subfield>
+    <marcxml:subfield code="e">E014.920528</marcxml:subfield>
+    <marcxml:subfield code="f">N040.910561</marcxml:subfield>
+    <marcxml:subfield code="g">N040.910561</marcxml:subfield>
+    <marcxml:subfield code="2">geonet</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00245209</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NIC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">LNT</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-it---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Campania (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Region</marcxml:subfield>
+    <marcxml:subfield code="a">First-order administrative division</marcxml:subfield>
+    <marcxml:subfield code="a">Regions (Administrative and political divisions)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Italy</marcxml:subfield>
+    <marcxml:subfield code="f">Avellino (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="f">Benevento (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="f">Caserta (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="f">Naples (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="f">Salerno (Italy : Province)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">Italy, Southern</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Regione Campania (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Campanie (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kampania (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Campanien (Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Old catalog heading: Campania</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Inguanez, M. Campania ... 1942.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">L'Eneide, 1983:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Regione Campania)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tremblements de terre, éruptions volcaniques et vie des hommes dans la Campanie antique, 1986:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Campanie)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Genius loci w kulturze europejskie, 2007:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Kampania)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(adm1; 41°00ʹ00ʺN 014°30ʹ00ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Beloch, Julius. Campania, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. verso (original German title: Campanien)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GEOnet, 5 February 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Campania (approved and short); Regione Campania (approved); geopolitical entity name: Italy; 40° 54ʹ 38ʺ N, 014° 55ʹ 14ʺ E; 40.910561 [N], 14.920528 [E]; first-order administrative division)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 5 February 2016</marcxml:subfield>
+    <marcxml:subfield code="b">(Campania; a region in southern Italy; located on the Italian Peninsula, with the Mediterranean Sea to the west, it includes the small Phlegraean Islands and Capri for administration as part of the region; governed by Regional Council of Campania (Consiglio regionale della Campania); divided into five provinces: Province of Avellino, Province of Benevento, Province of Caserta, Province of Naples, and Province of Salerno; capital: Naples)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Italy</marcxml:subfield>
+    <marcxml:subfield code="z">Campania</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

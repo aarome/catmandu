@@ -1,0 +1,56 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01721nz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2016000769</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20160714054432.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">160406|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2016000769</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Domus Augustana (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Augustana, Domus (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Augustiana, Domus (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Domus Augustiana (Rome, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="551" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Italy</marcxml:subfield>
+              <marcxml:subfield code="x">Antiquities</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat: 2016373338: Garcia Barraco, Maria Elisa. Villa Mills sul Palatino e la Domus Augustana, ©2014:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 3 of cover (the Domus Augustana, located on the Palatine Hill, housed the private quarters and baths of the [Flavian] palace built during the reign of Domitian; the building was often confused with the private dwelling of Emperor Augustus, situated further west on the Palatine)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford classical dict., 3rd ed., 2003:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 1099 (under Palatine: Domitian was responsible for the Flavian palace-buildings, designed by the architect Rabirius and conventionally known as Domus Flavia and Domus Augustana)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Princeton encyc. of classical sites, 1976:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 765 (under Roma--Palatine: Domitian's Domus Augustiana)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Institute for the advanced technology in the humanities. Rome reborn website, viewed Apr. 7, 2016:</marcxml:subfield>
+              <marcxml:subfield code="b">Domus Augustana (This was the principal residence of the emperors in the city from the late first to the third centuries A.D. Covering an enormous area on the southeast sector of the Palatine, this well-preserved structure largely dates to the time of Domitian (A.D. 51-96) and was designed by his architect, Rabirius)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="675" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica online, viewed Apr. 7, 2016</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

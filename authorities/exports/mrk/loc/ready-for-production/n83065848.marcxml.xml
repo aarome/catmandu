@@ -1,0 +1,70 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01126cz  a2200241n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n83065848</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20130512074813.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">830503n| azannaabn          |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  83065848 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00949073</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">NNC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">18611016</marcxml:subfield>
+    <marcxml:subfield code="g">19330912</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Platt, Charles A.</marcxml:subfield>
+    <marcxml:subfield code="q">(Charles Adams),</marcxml:subfield>
+    <marcxml:subfield code="d">1861-1933</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">New York, N.Y.</marcxml:subfield>
+    <marcxml:subfield code="c">U.S.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="372" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Landscape gardening</marcxml:subfield>
+    <marcxml:subfield code="a">Photography</marcxml:subfield>
+    <marcxml:subfield code="a">Architecture</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Painters</marcxml:subfield>
+    <marcxml:subfield code="a">Etchers</marcxml:subfield>
+    <marcxml:subfield code="a">Architects</marcxml:subfield>
+    <marcxml:subfield code="a">Landscape architects</marcxml:subfield>
+    <marcxml:subfield code="a">Artists</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="378" ind1=" " ind2=" ">
+    <marcxml:subfield code="q">Charles Adams</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nna</marcxml:subfield>
+    <marcxml:subfield code="a">Platt, Charles Adams,</marcxml:subfield>
+    <marcxml:subfield code="d">1861-1933</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Morgan, K. Charles A. Platt, the artist as architect, c1983:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP t.p. (Charles A. Platt)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, May 9, 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Charles Adams Platt (October 16, 1861-September 12, 1933) was a prominent artist, landscape gardener, landscape designer, and architect of the "American Renaissance" movement. His garden designs complemented his domestic architecture. b. in New York City)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="678" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Charles A. Platt was a painter, etcher, and architect.</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

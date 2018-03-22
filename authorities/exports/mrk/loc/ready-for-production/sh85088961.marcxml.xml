@@ -1,0 +1,46 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00692cz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85088961</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19960916084610.6</marcxml:controlfield>
+            <marcxml:controlfield tag="008">860211i| anannbab|          |b ana |||  </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85088961 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ML459</marcxml:subfield>
+              <marcxml:subfield code="b">ML1093</marcxml:subfield>
+              <marcxml:subfield code="c">History</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">ML462</marcxml:subfield>
+              <marcxml:subfield code="c">Collections, descriptive catalogs, exhibitions</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">MT170</marcxml:subfield>
+              <marcxml:subfield code="b">MT805</marcxml:subfield>
+              <marcxml:subfield code="c">Instruction</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Musical instruments</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Instruments, Musical</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Organology (Music)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2="0">
+              <marcxml:subfield code="a">Instrumental music</marcxml:subfield>
+              <marcxml:subfield code="x">History and criticism</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">For works about musical instruments of an individual ethnic group, additional subject entry is made under the heading</marcxml:subfield>
+              <marcxml:subfield code="a">[ethnic group]--[place]--Music.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

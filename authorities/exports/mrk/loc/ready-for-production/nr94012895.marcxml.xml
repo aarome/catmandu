@@ -1,0 +1,35 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01065nz  a2200169n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">nr94012895</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19940420062813.1</marcxml:controlfield>
+  <marcxml:controlfield tag="008">940419n| acannaab|          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">nr 94012895 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">NNC</marcxml:subfield>
+    <marcxml:subfield code="c">NNC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Santa Maria Antiqua (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">S. Maria Antiqua (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Santa Maria Liberatrice (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="1" ind2="0">
+    <marcxml:subfield code="a">Rome (Italy).</marcxml:subfield>
+    <marcxml:subfield code="b">Santa Maria Antiqua (Church)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Christian corner in the Roman Forum [MI] 1901:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (S. Maria Antiqua) p. 6 (Santa Maria Antiqua)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome and environs, 1989:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 84 (Santa Maria Antiqua (closed indefinitely) the oldest and most important Christian building in the Forum. A series of disasters (earthquates and landslides) damaged the building. It was rebuilt completely by Leo IV (847-855). Rebuilt again in the 12th century and renamed Santa Maria Liberatrice. In 1702 a restoration brought to light the remains of the original church, and in 1901-2 Santa Maria Liberatrice, by the time entirely modernized, was pulled down)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

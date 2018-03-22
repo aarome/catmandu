@@ -1,0 +1,84 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01642cz  a2200301n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n2014046207</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20141122070530.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">140801n| azannaabn          |b aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n 2014046207</marcxml:subfield>
+    <marcxml:subfield code="z">sh 85060359 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca09924584</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Hercules</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Roman mythological character</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Херкулес</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Kherkules</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Herkules</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Erculu</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Herkul</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Ercole</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Erculi</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Херкул</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="500" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Heracles</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Classical masculinity and the spectacular body on film, 2014:</marcxml:subfield>
+    <marcxml:subfield code="b">ECIP t.p. (Hercules)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">LC database, Aug. 1, 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(hdg. Hercules (Roman mythology))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, November 14, 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Hercules is the Roman name for the Greek divine hero Heracles, who was the son of Zeus (Roman equivalent Jupiter) and the mortal Alcmene. In classical mythology, Hercules is famous for his strength and for his numerous far-ranging adventures) Bulgarian page (Херкулес = Kherkules) Bosnian page (Herkules) Corsican page (Erculu) Croatian page (Herkul) Italian page (Ercole) Sicilian page (Erculi) Serbian page (Херкул = Herkul)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

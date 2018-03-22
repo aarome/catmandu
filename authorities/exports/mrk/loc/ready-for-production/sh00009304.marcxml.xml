@@ -1,0 +1,29 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01178cz  a2200145n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh00009304</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20001011111624.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">000906 | anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 00009304 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">NNMM</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="3" ind2=" ">
+              <marcxml:subfield code="a">Gandolfi family</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="500" ind1="3" ind2=" ">
+              <marcxml:subfield code="a">Gandolfi Odofredi family</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Gandolfi, c1992:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 1 (La famiglia Gandolfi. Giuseppe Antonio, figlio di Andrea Gandolfi e Bianca Bianchi, nacque il 10 novembre 1689 nelcommune di Zola Predosa e fu battezzato a Bologna il 3 novembre ... I figli Rinaldo, Ubaldo e Gaetano lasciarono molto giovani Bazzano per andare a Bologna, il primo per apprendere l'arte dell'orologiaio e fonditore di metalli, gli altri due per dedicarsi allo studio della pittura)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Dict. of art, 1996</marcxml:subfield>
+              <marcxml:subfield code="b">(Gandolfi, Italian family of artists. The work of the brothers (1) Ubaldo Gandolfi and (2) Gaetano Gandolfi and of the latter's son (3) Mauro Gandolfi, reflects the transition from late Bolognese baroque through neo-classicism and into early Italian romanticism. During their period of collective productivity, from c. 1760 to c. 1820, the Gandolfi produced paintings, frescoes, drawings, sculptures and prints)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

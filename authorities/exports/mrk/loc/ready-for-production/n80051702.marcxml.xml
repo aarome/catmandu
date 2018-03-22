@@ -1,0 +1,196 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03136cz  a2200565n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80051702</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20131011070215.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800610n| azannaabn          |b aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80051702 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00433548</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">NjP</marcxml:subfield>
+    <marcxml:subfield code="d">DLC-R</marcxml:subfield>
+    <marcxml:subfield code="d">WU</marcxml:subfield>
+    <marcxml:subfield code="d">INS-SF</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">ICU</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="046" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">01210426</marcxml:subfield>
+    <marcxml:subfield code="g">01800317</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="053" ind1=" " ind2="0">
+    <marcxml:subfield code="a">PA3939</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marcus Aurelius,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rome</marcxml:subfield>
+    <marcxml:subfield code="b">Sremska Mitrovica (Serbia)</marcxml:subfield>
+    <marcxml:subfield code="c">Rome</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Viminacium (Extinct city)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Emperors</marcxml:subfield>
+    <marcxml:subfield code="a">Philosophers</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="377" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">grc</marcxml:subfield>
+    <marcxml:subfield code="a">lat</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nna</marcxml:subfield>
+    <marcxml:subfield code="a">Aurelius Antoninus, Marcus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Aurelius, Marcus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Mark Aurel,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marcus Aurelius Antoninus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Mark Avreliĭ,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marek Aureliusz,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marc Aurel,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marcus Antoninus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Antoninus, Marcus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Markos Antōninos,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marco Aurelio,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marḳus Aʼurelyus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marḳus Orelyus,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Marks Aurēlijs,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">מארקוס אורליוס</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">מרקוס אורליוס</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">מרקוס אורליוס,</marcxml:subfield>
+    <marcxml:subfield code="c">קיסר רומא,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Μάρκος Ἀντωνῖνος,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Ἀντωνῖνος, Μάρκος,</marcxml:subfield>
+    <marcxml:subfield code="c">Emperor of Rome,</marcxml:subfield>
+    <marcxml:subfield code="d">121-180</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Machine-derived non-Latin script reference project.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Marc Aurel, 1979:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Marc Aurel)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">His The Emperor Marcus Antoninus, his conversation with himself, 1701:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (The Emperor Marcus Antoninus)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">InU/Wing STC files</marcxml:subfield>
+    <marcxml:subfield code="b">(usage: Markou Antōninou ...)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Rilievi storici capitolini, c1986:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Marco Aurelio)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Sigad, R. ha-Emet ki-ṭragedyah, c1990:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Marḳus Aʼurelyus) t.p. verso (Marcus Aurelius [in rom.])</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Spiegel, N. Marḳus Orelyus, 1980.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Pašam sev, 1991:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Marks Aurēlijs)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Marci Aurelii Antonini ad se ipsum libri XII, 1988:</marcxml:subfield>
+    <marcxml:subfield code="b">p. 1 (Μάρκου Ἀντωνίνου Αὐτοκράτορος τῶν εἰς ἑαθτὸν βιβλίον α)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Brill's new Pauly online, 23 September 2013</marcxml:subfield>
+    <marcxml:subfield code="b">(Marcus Aurelius; Roman emperor and philosopher; born 26 April 121 in Rome, son of Annius Verus and Domitia Lucilla; originally named M. Annius Verus; became emperor 3 July 161, with name M. Aurelius Antoninus Augustus; at first joint ruler with Lucius Verus; upon Verus' death in 169, Marcus Aurelius ruled alone; died on military campaign in Viminacium and Sirmium on 17 March 180)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

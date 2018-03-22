@@ -1,0 +1,131 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>03080cz  a2200421n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n79145881</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20140608070155.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800226n| azannaabn          |a ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  79145881 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0010500</marcxml:subfield>
+    <marcxml:subfield code="e">E0010500</marcxml:subfield>
+    <marcxml:subfield code="f">N0511600</marcxml:subfield>
+    <marcxml:subfield code="g">N0511600</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E001.083333</marcxml:subfield>
+    <marcxml:subfield code="e">E001.083333</marcxml:subfield>
+    <marcxml:subfield code="f">N051.266667</marcxml:subfield>
+    <marcxml:subfield code="g">N051.266667</marcxml:subfield>
+    <marcxml:subfield code="2">geonames</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0010513</marcxml:subfield>
+    <marcxml:subfield code="e">E0010513</marcxml:subfield>
+    <marcxml:subfield code="f">N0511630</marcxml:subfield>
+    <marcxml:subfield code="g">N0511630</marcxml:subfield>
+    <marcxml:subfield code="2">wikiped</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E001.087000</marcxml:subfield>
+    <marcxml:subfield code="e">E001.087000</marcxml:subfield>
+    <marcxml:subfield code="f">N051.275000</marcxml:subfield>
+    <marcxml:subfield code="g">N051.275000</marcxml:subfield>
+    <marcxml:subfield code="2">wikiped</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00377011</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">DNLM</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">LNT</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">e-uk-en</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Canterbury (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">England</marcxml:subfield>
+    <marcxml:subfield code="c">Great Britain</marcxml:subfield>
+    <marcxml:subfield code="f">Kent (England)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">Canterbury (England : District)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Canterbury, Eng.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">nne</marcxml:subfield>
+    <marcxml:subfield code="a">Canterbury (Kent)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">City &amp; County of Canterbury (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">City and County of Canterbury (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">City and County Borough of Canterbury (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Durouernon (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Durovernum Cantiacorum (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cantwaraburh (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Cantwareburh (England)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Townsend, W. Canterbury, 1950.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BL hdg</marcxml:subfield>
+    <marcxml:subfield code="b">(Canterbury (England))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Annual report of the medical officer of health and the sanitary inspector ...1923:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (City &amp; county of Canterbury); 1924: t.p. (City and county of Canterbury); 1930: t.p. (City and county borough of Canterbury)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+    <marcxml:subfield code="b">(ppl; 51°16ʹ00ʺN 001°05ʹ00ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">GeoNames, 29 May 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Canterbury; country: United Kingdom; ADM1: Kent; 51° 16ʹ 00ʺ N, 001° 05ʹ 00ʺ E; 51.266667 [N], 1.083333 [E]; populated place)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 29 May 2014:</marcxml:subfield>
+    <marcxml:subfield code="b">Canterbury (Canterbury; historic English cathedral city; lies at the heart of the City of Canterbury, a local government district of Kent in South East England; Canterbury, along with Whitstable and Herne Bay (coastal towns 6 miles (10 km) north of Canterbury), is in the City of Canterbury local government district; located at 51°16ʹ30ʺN 1°05ʹ13ʺE (51.275, 1.087) in east Kent; it lies on the River Stour; originally a Brythonic settlement called Durouernon, it was renamed Durovernum Cantiacorum by the Roman conquerors in the 1st century AD; the Jutes named the city Cantwaraburh; Old English Cantwareburh; the city became a county corporate in 1461, and later a county borough under the Local Government Act 1888; in 1974 it lost its status as the smallest county borough in England, after the Local Government Act 1972, and came under the control of Kent County Council)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Canterbury City Council Web site, 2 June 2014:</marcxml:subfield>
+    <marcxml:subfield code="b">Parishes (26 parishes within the Canterbury District) Committee structure (5 area member panels for the Canterbury district: Canterbury Area Member Panel, Herne Bay Area Member Panel, Rural Area (North) Member Panel, Rural Area (South) Member Panel, and Whitstable Area Member Panel)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">England</marcxml:subfield>
+    <marcxml:subfield code="z">Canterbury</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

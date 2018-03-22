@@ -1,0 +1,34 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00739nz  a2200169n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no94022516</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">19940705161007.5</marcxml:controlfield>
+  <marcxml:controlfield tag="008">940705n| acannaab|          |a ana     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no 94022516 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ICU</marcxml:subfield>
+    <marcxml:subfield code="c">ICU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="110" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Temple of Antoninus and Faustina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">Temple of Diva Faustina</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="410" ind1="2" ind2="0">
+    <marcxml:subfield code="a">San Lorenzo in Miranda (Church : Rome, Italy)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The Temple of Diva Faustina, 1993: p. 1 (Temple of Diva Faustina, later Temple of Antoninus and Faustina, now Church of S. Lorenzo in Miranda)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Michelin Rome, 1st ed.</marcxml:subfield>
+    <marcxml:subfield code="b">(Temple of Antoninus and Faustina, Church of San Lorenzo in Miranda)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Blue Guides Rome and Central Italy, 1964</marcxml:subfield>
+    <marcxml:subfield code="b">(Temple of Antoninus and Faustina, San Lorenzo in Miranda)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

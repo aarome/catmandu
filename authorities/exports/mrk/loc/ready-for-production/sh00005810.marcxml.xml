@@ -1,0 +1,36 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00582cz  a2200157n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh00005810</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20060222122224.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">000322i| dnannbbba          |a ann      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 00005810 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">IEN</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="073" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">H 1095</marcxml:subfield>
+              <marcxml:subfield code="a">H 1110</marcxml:subfield>
+              <marcxml:subfield code="a">H 1148</marcxml:subfield>
+              <marcxml:subfield code="z">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="180" ind1=" " ind2=" ">
+              <marcxml:subfield code="x">Forgeries</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="480" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">nne</marcxml:subfield>
+              <marcxml:subfield code="x">Autographs, Spurious</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Use as a topical subdivision under names of individual persons for works about forgeries of the person's creative works or signature. Also use under types of art objects, documents, etc.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="681" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Reference under the heading</marcxml:subfield>
+              <marcxml:subfield code="a">Forgery</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,58 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00763cz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n84094110</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20100516080156.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">841001n| acannaabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  84094110 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">E0325200</marcxml:subfield>
+              <marcxml:subfield code="e">E0325200</marcxml:subfield>
+              <marcxml:subfield code="f">N0245800</marcxml:subfield>
+              <marcxml:subfield code="g">N0245800</marcxml:subfield>
+              <marcxml:subfield code="2">other</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca01191651</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="043" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">f-ua---</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Idfū (Egypt)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">nnaa</marcxml:subfield>
+              <marcxml:subfield code="a">Idfu, Egypt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Edfu (Egypt)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Edfou (Egypt)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Kurth, D. Die Dekoration d. Säulen im Pronaos d. Tempels von Edfu, 1983.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">LC data base 9/25/84</marcxml:subfield>
+              <marcxml:subfield code="b">(hdg.: Idfu, Egypt) LC manual cat. (usage: Idfū; Edfou; Edfu)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">BGN Egypt</marcxml:subfield>
+              <marcxml:subfield code="b">(Idfū, ppl, 24°58ʹN, 32°52ʹE; refs.: Edfou, Edfu)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Egypt</marcxml:subfield>
+              <marcxml:subfield code="z">Idfū</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

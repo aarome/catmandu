@@ -1,0 +1,60 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01582cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh99013527</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">19991115142834.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">990930|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 99013527 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">MdU</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Galleria delle statue (Museo Pio-Clementino, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cortile delle statue (Museo Pio-Clementino, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cortile ottagono di Belvedere (Museo Pio-Clementino, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Octagonal Courtyard (Museo Pio-Clementino, Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="510" ind1="2" ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Museo Pio-Clementino (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Rooms</marcxml:subfield>
+              <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Il Cortile delle statue, 1998:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Statuenhof des Belvedere im Vatikan) p. 8, etc. (model of the Cortile delle statue, Musei Vaticani; an integral element of the Cortile del Belvedere; Cortile delle statue [shown on plan])</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cath. encyc.:</marcxml:subfield>
+              <marcxml:subfield code="b">under Vatican (the Museo Pio-Clementino contains eleven separate rooms, filled with celebrated antiquities; Galleria delle statue)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Grove art.:</marcxml:subfield>
+              <marcxml:subfield code="b">index (Cortile ottagono di Belvedere) v. 15, p. 861 (in 16th cent. the villa (Belvedere) was connected with the Vatican by Bramante's Cortile del Belvedere; the villa was altered by Pius VI, and its loggia is now the Galleria delle statue of the Musei Vaticani)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">New Cath. encyc.:</marcxml:subfield>
+              <marcxml:subfield code="b">under Vatican (the modern Pio-Clementine Museum consists of ... Octagonal Courtyard)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Vatican museums, Rome, c1968:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 167 (Cortile ottagono)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Old catalog heading</marcxml:subfield>
+              <marcxml:subfield code="b">(Vatican City.  Belvedere.  Cortile delle statue)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

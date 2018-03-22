@@ -1,0 +1,186 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>03698cz  a2200613n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">no2014084680</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20171026051033.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">140620n| azannaabn          |b aaa     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">no2014084680</marcxml:subfield>
+              <marcxml:subfield code="z">sh 85060317 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca09889784</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(Uk)009066765</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">UPB</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">UPB</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">Uk</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Heracles</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Heroes</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="368" ind1=" " ind2=" ">
+              <marcxml:subfield code="c">Greek mythological character</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">Thebes (Greece)</marcxml:subfield>
+              <marcxml:subfield code="f">Argos (Greece)</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">Trachis</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Alcaeus</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Alcides</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Alkaios</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Alkeidēs</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Earcail</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Eracle</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Eracles</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Heracle</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Herakl</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Heraklej</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Hēraklēs</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Héraklész</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Heraklis</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Herakliu</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Heraklo</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Hērakls</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Héthacl'ye</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">赫拉克勒斯</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">ヘーラクレース</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">הרקולס</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">헤라클레스</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Херакле</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Херакъл</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Гэракл</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Геракл</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">هرکول</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">هيراكليس</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">&amp;#x1f08;λκετ̔̈«”αε·δης</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">&amp;#x1f08;λκατ̔̈»εγ·ος</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">&amp;#x1f29;ρακλτ̔̈»εϐ·ς</marcxml:subfield>
+              <marcxml:subfield code="c">(Greek mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="500" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Hercules</marcxml:subfield>
+              <marcxml:subfield code="c">(Roman mythological character)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Not the same as Hercules, a Roman mythological character associated with Heracles.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Non-Latin script reference not evaluated.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Sophocles. Electra and other plays, 2010:</marcxml:subfield>
+              <marcxml:subfield code="b">page 332 (Herakles)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Brill's new Pauly online, 20 June 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Heracles; &amp;#x1f29;ρακλτ̔̈»εϐ·ς; originally called Alcides or Alcaeus the most prominent Greek hero in myth and cult; connected with Thebes, Argos, And Trachis; name connected with Hera in antiquity; son of Zeus and Alcmene; identified with a large number of non-Greek gods and heroes; he was taken over as Hercle by the Etruscans, as Hercules by the Romans)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, 20 June 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Heracles; &amp;#x1f29;ρακλτ̔̈»εϐ·ς; Herakliu; Alcaeus; &amp;#x1f08;λκατ̔̈»εγ·ος; Alcides; &amp;#x1f08;λκετ̔̈«”αε·δης; divine hero in Greek mythology; son of Zeus and Alcmene, foster son of Amphitryon; greatest of the Greek heroes; associated with the Roman hero Hercules; other forms of name: Herakles; هيراكليس; Herakl; Heraklo; Херакъл; Гэракл; Геракл; هرکول; Earcail; 헤라클레스; Eracle; ף הרקולס ; Hڶerakls; Heraklis; Hڳeraklڳesz; ヘーラクレース; Hڳethacl'ye; Eracles; Heracle; Heraklej; 赫拉克勒斯)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

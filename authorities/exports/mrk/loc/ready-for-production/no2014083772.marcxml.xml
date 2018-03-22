@@ -1,0 +1,167 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02571cz  a2200553n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2014083772</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20141204070755.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">140619n| azannaabn          |b aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2014083772</marcxml:subfield>
+    <marcxml:subfield code="z">sh 85134828 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca09887804</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">UPB</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Theseus,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Mythological character</marcxml:subfield>
+    <marcxml:subfield code="d">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="e">Athens (Greece)</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="374" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Kings and rulers</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">male</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Teseiu,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tesėjas,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Teseo,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Teseu,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tesey,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tezeo,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tezej,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tezeu,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tezeusz,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Thēseas,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Thésée,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Theseus</marcxml:subfield>
+    <marcxml:subfield code="c">(Mythological character)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Thesevs,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Thészeusz,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Þeseifur,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Tiseu,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">忒修斯,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">テーセウス,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">תסאוס,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">테세우스,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Тезеј,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Тезей,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Тэсей,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Тесей,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">تسئوس,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">ثيسيوس,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Θησεύς,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Θησέας,</marcxml:subfield>
+    <marcxml:subfield code="c">King of Athens</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Euripides. Suppliant women, 1995:</marcxml:subfield>
+    <marcxml:subfield code="b">page 22 (Theseus, king of Athens)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Brill's new Pauly online, 19 June 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Theseus, Θησεύς; mythical king of Athens; belongs to the generation before the Trojan War; son of Aethra daughter of Pittheus; divine father is Poseidon, human father is Aegeus, king of Athens; central episode in his legend is his voyage to Crete where he killed the Minotaur)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 19 June 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Theseus; Θησεύς; Θησέας; mythical founder-king of Athens, son of Aethra by two fathers, Aegeus and Poseidon; other forms: ثيسيوس; Teseu; Tesey; Тэсей; Тезей; Tezej; Teseiu; Teseo; Tezeo; Thésée; 테세우스; Þeseifur; תסאוס; Tesėjas; Thészeusz; Тезеј; テーセウス; Thesevs; Tezeusz; Tezeu; Тесей; Tiseu; 忒修斯)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

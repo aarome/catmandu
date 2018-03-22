@@ -1,0 +1,69 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01094cz  a2200265n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85120127</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20151015054135.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">030221i| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85120127 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">NB1800</marcxml:subfield>
+              <marcxml:subfield code="b">NB1885</marcxml:subfield>
+              <marcxml:subfield code="c">Sculpture</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Sepulchral monuments</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="360" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">subdivision</marcxml:subfield>
+              <marcxml:subfield code="a">Tomb</marcxml:subfield>
+              <marcxml:subfield code="i">under names of individual persons; and subdivision</marcxml:subfield>
+              <marcxml:subfield code="a">Tombs</marcxml:subfield>
+              <marcxml:subfield code="i">under classes of persons, names of individual families, royal houses, dynasties, etc.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Funeral monuments</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Funerary monuments</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Graves</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Gravestones</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Memorial tablets</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Tablets, Memorial</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Tombstones</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Monuments</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cockerham, P. Kilkenny funeral monuments 1500-1600, 2001.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Here are entered works on funerary monuments and gravestones. Works on tombs and mausoleums, mainly from the archaeological standpoint, are entered under</marcxml:subfield>
+              <marcxml:subfield code="a">Tombs.</marcxml:subfield>
+              <marcxml:subfield code="i">General works on cemeteries and burying-grounds are entered under</marcxml:subfield>
+              <marcxml:subfield code="a">Cemeteries.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="681" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Notes under</marcxml:subfield>
+              <marcxml:subfield code="a">Cemeteries; Tombs</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

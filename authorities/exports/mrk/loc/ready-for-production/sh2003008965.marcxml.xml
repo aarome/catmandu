@@ -1,0 +1,56 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02433cz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2003008965</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150402071258.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">030815i| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2003008965</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DHMM</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Floor plans</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Drawings, Floor-plan</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Floor-plan drawings</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Floorplans</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Plans, Floor</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Architecture</marcxml:subfield>
+              <marcxml:subfield code="v">Designs and plans</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: United States Holocaust Memorial Museum photo archives catalog, July 22, 2003</marcxml:subfield>
+              <marcxml:subfield code="b">(hdg.: Floor plans)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Art &amp; architecture thesaurus online, Dec. 31, 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(floor plans. Note: Drawings or works in another two-dimensional medium that represent a horizontal section through a building taken above a floor to diagramatically illustrate the enclosing walls, interior spaces, doors, and windows of a building. UF floor plan; floor-plan drawings; plans, floor. BT building plans)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Thesaurus for graphic materials, via WWW, Dec. 31, 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Floor plans. Scope note: Plans that represent horizontal sections cut through the walls and other vertical elements of a building at one or more levels. They demonstrate the shape and disposition of spaces, chambers, and structural components. They include information on placement and dimensions of features, such as doors, walls, built-in equipment, and room names. BT Plans; Sections)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">EH and National Trust resource description thesaurus, via WWW, Dec. 31, 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Floorplan. SN Plan showing a horizontal section, size and arrangement of rooms within a building, may include location of doors, windows and other features. BT Technical drawing)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Dec. 31, 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Floor plan. In architecture and building engineering, a floor plan otherwise known as a Scottish plan is a drawing to scale, showing a view from above, of the relationships between rooms, spaces and other physical features at one level of a structure. Similar to a map the orientation of the view is downward from above, but unlike a conventional map, a plan is understood to be drawn at a particular vertical position (commonly at about 4 feet above the floor). A floor plan is not a top view or birds eye view. It is a measured drawing to scale of the layout of a floor in a building. A "top view" or "bird's eye view" does not show an orthogonally projected plane cut at the typical 4' height above the floor level.)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

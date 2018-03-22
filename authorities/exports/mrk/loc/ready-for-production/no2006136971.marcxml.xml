@@ -1,0 +1,30 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>00554nz  a2200145n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2006136971</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20061230074930.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">050314n| acannaabn          |n aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2006136971</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca07284413</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">OClW</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="c">OClW</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Rosborough, Ruskin R.</marcxml:subfield>
+    <marcxml:subfield code="q">(Ruskin Raymond)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">An epigraphic commentary on Suetonius's Life of Gaius Caligula, 1920:</marcxml:subfield>
+    <marcxml:subfield code="b">t.p. (Ruskin R. Rosborough)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">ProQuest dissertations and theses, viewed Dec. 28, 2006</marcxml:subfield>
+    <marcxml:subfield code="b">(Rosborough, Ruskin Raymond, Ph.D., Univ. of Pennsylvania, 1920)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

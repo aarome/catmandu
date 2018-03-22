@@ -1,0 +1,108 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>03109cz  a2200433n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85142414</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20150511122142.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">030122|| anannbabn          |a ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85142414 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Vatican Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Apostolic Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palace of Sixtus V (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palace of the Vatican (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo apostolico (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo apostolico Vaticano (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palatium Apostolicum (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palatium Papale (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palatium Sacrum (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palatium Vaticani (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzi apostolici (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzi papali (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzi pontifici (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzi Vaticani (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Palazzo Vaticano (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Papal Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Pontificia Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Sacrum Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Sixtus V Palace (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Vatican (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Vatican Palaces (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Vaticano, Palazzo apostolico (Vatican City)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Official residences</marcxml:subfield>
+              <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Popes</marcxml:subfield>
+              <marcxml:subfield code="x">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Vatican City</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Acad. Am. encyc.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 19, p. 527 (Set within the bastioned walls of Vatican City are the Vatican Palaces, a large group of interconnecting buildings dating from the 14th to the 20th century, and Saint Peter's Basilica)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Britannica Micro.:</marcxml:subfield>
+              <marcxml:subfield code="b">v. 12, p. 281 (Vatican palace, papal residence)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Feb. 19, 2015</marcxml:subfield>
+              <marcxml:subfield code="b">(Apostolic Palace; The Apostolic Palace (Italian: Palazzo Apostolico) is the official residence of the Pope, which is located in Vatican City. It is also known as the Papal Palace and the Palace of the Vatican. The Vatican itself refers to the building as the Palace of Sixtus V in honor of Pope Sixtus V. The Portone di Bronzo at the Vatican Apostolic Palace entrance. The building contains the Papal Apartments, various government offices of the Catholic Church and the Holy See, private and public chapels, Vatican Museums and the Vatican library, including the Sistine Chapel, Raphael Rooms and Borgia Apartment. The modern tourist can see these last and other parts of the palace, but not many parts, including the Sala Regia and Cappella Paolina. The Scala Regia can be seen into from one end but not entered. Type: Official residence. Country: Vatican City. Coordinates: 41°54ʹ13ʺN 12°27ʹ23ʺE. Construction started: 30 April 1589) Latin version (Palatium Apostolicum; also called Palatium Sacrum, Palatium Papale, and Palatium Vaticani) Italian version (Palazzo Apostolico; Palazzi Apostolici, also called Palazzi Papali, Palazzi Pontifici or Palazzi Vaticani)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="680" ind1=" " ind2=" ">
+              <marcxml:subfield code="i">Here are entered works on the Vatican City residence of the Pope, consisting of various papal palaces, museums, galleries, the Sistine Chapel, the Vatican Library, etc.</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

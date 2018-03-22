@@ -1,0 +1,58 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00914cz  a2200241n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n83130871</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20171229094203.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">830919n| azannaab           |a aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  83130871 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(DLC)n  83130871</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1954-05-29</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Beaser, Robert</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Composition (Music)</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Composers</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">eng</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Beaser, R.</marcxml:subfield>
+              <marcxml:subfield code="q">(Robert)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">His Notes on a southern sky, c1980:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Robert Beaser)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">His Canti notturni, c1974:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Robert Beaser) caption (R. Beaser)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Musical Elements (Musical group). Musical Elements 10th anniversary recording [SR] p1987:</marcxml:subfield>
+              <marcxml:subfield code="b">label (Robert Beaser) container (b. 1954; Boston, MA)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Grove Music Online, WWW site, September 20, 2013</marcxml:subfield>
+              <marcxml:subfield code="b">(Beaser, Robert. b. Boston, 29 May 1954, American composer)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

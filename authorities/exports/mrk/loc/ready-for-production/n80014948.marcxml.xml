@@ -1,0 +1,67 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>01470cz  a2200253n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n80014948</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20070123095729.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">800821n| acannaab           |a aaa      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  80014948 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Zuccaro, Taddeo,</marcxml:subfield>
+    <marcxml:subfield code="d">1529-1566</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="w">nne</marcxml:subfield>
+    <marcxml:subfield code="a">Zuccari, Taddeo,</marcxml:subfield>
+    <marcxml:subfield code="d">1529-1566</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Zuccheri, Taddeo,</marcxml:subfield>
+    <marcxml:subfield code="d">1529-1566</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Zucchero, Taddeo,</marcxml:subfield>
+    <marcxml:subfield code="d">1529-1566</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="1" ind2=" ">
+    <marcxml:subfield code="a">Zucharo, Taddeo,</marcxml:subfield>
+    <marcxml:subfield code="d">1529-1566</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Author's Illustri fatti farnesiani coloriti nel Real palazzo di Caprarola ... 1748.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Renaissance into baroque, c1989:</marcxml:subfield>
+    <marcxml:subfield code="b">CIP galley (Taddeo Zuccaro)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Britannica online, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Zuccaro, Taddeo; born Sept. 1, 1529, Sant'Angelo in Vado, Urbino; died Sept. 1/2, 1566, Rome; also spelled  Zuccari)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Union list of artists online, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Zuccaro, Taddeo (Italian painter and draftsman, 1529-1566); variants: Zuccari, Taddeo; Zuccheri, Taddeo; Zucchero, Taddeo; Zucharo, Taddeo)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Artcyclopedia, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Taddeo Zuccaro [Italian Mannerist Painter, 1529-1566]; also known as Taddeo Zuccari)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Web gallery of art, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Zuccaro, Taddeo; Italian painter, Roman school (b. 1529, Sant'Angelo in Vado, d. 1566, Roma))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Artnet, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Taddeo Zuccaro (Italian, 1529-1566))</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Grove art online, Jan. 22, 2007</marcxml:subfield>
+    <marcxml:subfield code="b">(Taddeo Zuccaro (b. S Angelo in Vado, Marches, 1 Sept 1529; d. Rome, 2 Sept 1566))</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

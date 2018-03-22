@@ -1,0 +1,92 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01578cz  a2200337n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n79127068</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170921073818.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">800624n| azannaabn           a aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  79127068 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00358602</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">MdU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1598</marcxml:subfield>
+              <marcxml:subfield code="g">1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Gian Lorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Artists</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Sculpture, Italian</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Lorent͡so,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernin, Gianlorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Dzhovanni Lorent͡so,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernino, Giovanni Lorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Gianlorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Lorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernini, Giovan Lorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="w">nnaa</marcxml:subfield>
+              <marcxml:subfield code="a">Bernini, Giovanni Lorenzo,</marcxml:subfield>
+              <marcxml:subfield code="d">1598-1680</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lavin, I. Drawings by Gianlorenzo Bernini, from the Museum der Bildenden Künste, Leipzig, German Dem. Rep., c1981:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Gianlorenzo Bernini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lavin, I. Bernin et l'art de la satire sociale, c1987:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Bernin) p. 10 (Gianlorenzo Bernin)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Fagiolo dell'Arco, M. Bernini, 1981:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Bernini) p. 3 (Giovan Lorenzo ... Bernini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Bernini, 2012:</marcxml:subfield>
+              <marcxml:subfield code="b">CIP t.p. (Bernini)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Material Bernini, 2016, ©2016:</marcxml:subfield>
+              <marcxml:subfield code="b">title page (Bernini) preface (was the baroque multi-media artist par excellence, the effects he achived with mixed stones, metal, glass, stucco and paint commented on ubiquitously) xxiii (Gio. Lorenzo Bernino; Gian Lorenzo Bernini)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

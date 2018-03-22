@@ -1,0 +1,383 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>07880cz  a2201357n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n93010903</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20180201073423.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">930205n| azannaabn          |b aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  93010903 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">54950123</marcxml:subfield>
+              <marcxml:subfield code="2">viaf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://viaf.org/viaf/54950123</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">0000000122802598</marcxml:subfield>
+              <marcxml:subfield code="2">isni</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://isni.org/isni/0000000122802598</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">Q6294</marcxml:subfield>
+              <marcxml:subfield code="2">wikidata</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://www.wikidata.org/entity/Q6294</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://dbpedia.org/resource/Hillary_Rodham_Clinton</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">119082101</marcxml:subfield>
+              <marcxml:subfield code="2">gnd</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://d-nb.info/gnd/119082101</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">00552567</marcxml:subfield>
+              <marcxml:subfield code="2">wndla</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://id.ndl.go.jp/auth/ndlna/00552567</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://aut.nkp.cz/jn20000700317</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">FRBNF12543158</marcxml:subfield>
+              <marcxml:subfield code="2">bnfcg</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://catalogue.bnf.fr/ark:/12148/cb12543158f</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">034705171</marcxml:subfield>
+              <marcxml:subfield code="2">idref</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://www.idref.fr/034705171</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://datos.bne.es/resource/XX1725857</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://id.sbn.it/af/IT%5CICCU%5CUBOV%5C804461</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://cantic.bnc.cat/registres/CUCId/a11695705</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">858a3d95-e1b2-4aac-8427-a99e391ce8c5</marcxml:subfield>
+              <marcxml:subfield code="2">musicb</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">https://musicbrainz.org/artist/858a3d95-e1b2-4aac-8427-a99e391ce8c5</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">nm0166921</marcxml:subfield>
+              <marcxml:subfield code="2">imdb</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://www.imdb.com/name/nm0166921</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://bioguide.congress.gov/scripts/biodisplay.pl?index=C001041</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">http://www.nndb.com/people/022/000025944</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="024" ind1="7" ind2=" ">
+              <marcxml:subfield code="a">https://ballotpedia.org/Hillary_Clinton</marcxml:subfield>
+              <marcxml:subfield code="2">uri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca03312099</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">NJQ</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1947-10-26</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Clinton, Hillary Rodham</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="373" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">United States. Congress. Senate</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+              <marcxml:subfield code="s">2001</marcxml:subfield>
+              <marcxml:subfield code="t">2009</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="373" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">United States. Department of State</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+              <marcxml:subfield code="s">2009</marcxml:subfield>
+              <marcxml:subfield code="t">2013</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Politicians</marcxml:subfield>
+              <marcxml:subfield code="a">Legislators</marcxml:subfield>
+              <marcxml:subfield code="a">Foreign ministers</marcxml:subfield>
+              <marcxml:subfield code="a">Presidents' spouses</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">First ladies</marcxml:subfield>
+              <marcxml:subfield code="2">lcac</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Presidential candidates</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+              <marcxml:subfield code="s">2016</marcxml:subfield>
+              <marcxml:subfield code="t">2016</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Females</marcxml:subfield>
+              <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">eng</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="378" ind1=" " ind2=" ">
+              <marcxml:subfield code="q">Hillary Diane Rodham</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Rodham, Hillary Diane</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Ḳlinṭon, Hilari Rodhʼam</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Xilarui</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">קלינטון, הילרי רודהאם</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">كلينتون، هيلاري</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klīntūn, Hīllārī</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hillari</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hillari Dayan Rodham</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клінтан, Хілары</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klintan, Khilary</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клінтан, Хілары Даян Родэм</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klintan, Khilary Dai͡an Rodėm</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтън, Хилъри</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klintŭn, Khilŭri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Clintonová, Hillary</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Clintonová, Hillary Rodhamová</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Κλτ̔̈«”αε·ντον, Χτ̔̈«”αε·λαρι</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Chilari</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Κλτ̔̈«”αε·ντον, Χτ̔̈«”αε·λαρι Ρτ̔̈«”ϐϐ·νταμ</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Chilari Rontam</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">힐러리 클린턴</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">클린턴, 힐러리</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">K'ŭllint'ŏn, Hillŏri</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">K'ŭllint'ŏn, Hillŏri Rodaem</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хиллари</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Khillari</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хиларри Родхэм</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Khilarri Rodkhėm</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Clinton, Hilaria</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klintone, Hilarija</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klintone, Hilarija Daiena Rodema</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хилари</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hilari</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хилари Дијана Родхем</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hilari Dijana Rodhem</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">ヒラリー・クリントン</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">クリントン, ヒラリー</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Kurinton, Hirarī</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">ヒラリー・ローダム・クリントン</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">クリントン, ヒラリー・ローダム</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Kurinton, Hirarī Rōdamu</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хиллари Родэм</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Khillari Rodėm</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хиллари Дайан Родэм</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Khillari Daĭan Rodėm</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Rodhamová-Clintonová, Hillary</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клинтон, Хилари Дајен Родам</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hilari Dajen Rodam</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клінтон, Гілларі</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клінтон, Гілларі Родем</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hillari Rodem</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Клінтон, Гілларі Діана Родем</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klinton, Hillari Diana Rodem</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">קלינטאן, הילערי ראדהעם</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Ḳlinṭon, Hileri Rodhem</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Klėntuon, Hilarė</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">希拉莉·克林頓</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">克林頓. 希拉莉</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Kelindun, Xilali</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Machine-derived non-Latin script reference project</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hillary Rodham Clinton, a new kind of first lady, c1993:</marcxml:subfield>
+              <marcxml:subfield code="b">CIP t.p. (Hillary Rodham Clinton)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hillary Rodham Clinton, 1994:</marcxml:subfield>
+              <marcxml:subfield code="b">CIP galley (Hillary Diane Rodham; b. Oct. 26, 1947, Chicago, Ill.; grad. Yale Law School, 1973; m. Bill Clinton, 1975; became first lady, 1993)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Nidrash ha-kfar kulo, c1997:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Hilari Rodhʼam Ḳlinton)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Huo chu li shi, Xilarui hui yi lu, 2003:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Xilarui)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Dec. 12, 2012</marcxml:subfield>
+              <marcxml:subfield code="b">(Hillary Diane Rodham Clinton; born October 26, 1947 in Chicago, Ill. is the 67th United States Secretary of State, serving in the administration of President Barack Obama. She was a United States Senator for New York from 2001 to 2009. As the wife of the 42nd President of the United States, Bill Clinton, she was the First Lady of the United States from 1993 to 2001. In the 2008 election, Clinton was a leading candidate for the Democratic presidential nomination)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, April 25, 2015:</marcxml:subfield>
+              <marcxml:subfield code="b">Arabic page (هيلاري كلينتون = Hڶillڶarڶi Klڶintڶun) Azerbaijani page (Hillari Klinton [in roman]; Hillari Dayan Rodham Klinton [in roman]) Belarusian page (Хілары Клінтан = Khilary Klintan; Хілары Даян Родэм Клінтан = Khilary DaЋiЌan RodЇem Klintan) Bulgarian page (Хилъри Клинтън = KhilІuri KlintІun) Czech page (Hillary ClintonovЃa; Hillary RodhamovЃa ClintonovЃa; Hillary Diane RodhamovЃa ClintonovЃa) Greek page (Χτ̔̈«”αε·λαρι Κλτ̔̈«”αε·ντον = Chilari Klinton; Χτ̔̈«”αε·λαρι Ρτ̔̈«”ϐϐ·νταμ Κλτ̔̈«”αε·ντον = Chilari Rontam Klinton) Korean page (힐러리 클린턴 = HillІori K'Іullint'Іon; 힐러리 로덤 클린턴 = HillІori Rodaem K'Іullint'Іon) Kazakh page (Хиллари Клинтон = Khillari Klinton; Хиларри Родхэм Клинтон = Khilarri RodkhЇem Klinton) Latin page (Hilaria Clinton) Latvian page (Hilarija Klintone; Hilarija Daiena Rodema Klintone) Macedonian page (Хилари Клинтон = Hilari Klinton; Хилари Дијана Родхем Клинтон = Hilari Dijana Rodhem Klinton) Japanese page (ヒラリー・クリントン = HirarЅi Kurinton; ヒラリー・ローダム・クリントン = HirarЅi RЅodamu Kurinton) Russian page (Клинтон, Хиллари = Klinton, Khillari; Хиллари Родэм Клинтон = Khillari RodЇem Klinton; Хиллари Дайан Родэм Клинтон = Khillari DaІian RodЇem Klinton) Slovak page (Hillary RodhamovЃa-ClintonovЃa) Serbian page (Хилари Клинтон = Hilari Klinton; Хилари Дајен Родам Клинтон = Hilari Dajen Rodam Klinton) Ukrainian page (Гілларі Клінтон = Hillari Klinton; Гілларі Родем Клінтон = Hillari Rodem Klinton; Гілларі Діана Родем Клінтон = Hillari Diana Rodem Klinton) Yiddish page (הילערי ראדהעם קלינטאן = Hileri Rodhem ѴKlinѴton) Samogitian page (HilarЇe KlЇentuon) Chinese page (希拉莉克林頓 = Xilali Kelindun)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

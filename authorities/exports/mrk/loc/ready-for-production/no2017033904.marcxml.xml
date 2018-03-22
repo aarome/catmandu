@@ -1,0 +1,49 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>00823nz  a2200193n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">no2017033904</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170317073613.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">170316n| azannaabn          |a aaa     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">no2017033904</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca10736365</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">TxU-Mu</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">TxU-Mu</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernard, Seth</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Lake City (Mich.)</marcxml:subfield>
+              <marcxml:subfield code="c">United States</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Singers</marcxml:subfield>
+              <marcxml:subfield code="a">Composers</marcxml:subfield>
+              <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Guitarists</marcxml:subfield>
+              <marcxml:subfield code="a">Keyboard players</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bernard, Samuel Seth</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Bernard, Seth. Hello fellow travelers, 2001:</marcxml:subfield>
+              <marcxml:subfield code="b">label (Seth Bernard) container (vocals, guitars, keyboard, pennywhistle, bass, percussion, djembe; all songs by Seth Bernard)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Seth Bernard WWW site, March 16, 2017</marcxml:subfield>
+              <marcxml:subfield code="b">(Seth Bernard; Samuel Seth Bernard; born and raised in Lake City, Michigan)</marcxml:subfield>
+              <marcxml:subfield code="u">http://www.samuelsethbernard.com/press</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

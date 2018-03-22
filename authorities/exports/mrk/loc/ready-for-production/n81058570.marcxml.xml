@@ -1,0 +1,88 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01593cz  a2200337n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n81058570</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170317073935.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">810805n| azannaabn          |b ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  81058570 </marcxml:subfield>
+              <marcxml:subfield code="z">sh 85032569 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="034" ind1=" " ind2=" ">
+              <marcxml:subfield code="d">W0044600</marcxml:subfield>
+              <marcxml:subfield code="e">W0044600</marcxml:subfield>
+              <marcxml:subfield code="f">N0375300</marcxml:subfield>
+              <marcxml:subfield code="g">N0375300</marcxml:subfield>
+              <marcxml:subfield code="2">geonames</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00604032</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="d">IEN</marcxml:subfield>
+              <marcxml:subfield code="d">CSt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="043" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">e-sp---</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="151" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Córdoba (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">nnaa</marcxml:subfield>
+              <marcxml:subfield code="a">Córdoba</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Qurṭubah (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cordoue (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Cordova (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Kordova (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Corduba (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="451" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">قرطبة (Spain)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Non-Latin script reference not evaluated.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Garaudy, R. L'islam en Occident, c1987:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Cordoue)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Rodríguez Neila, J.F. Del amanecer prehistórico al ocaso visigodo, 1988:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Córdoba) p. 14 (Corduba)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">The Arabic language across the ages, 2010:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 7 (Cordoba)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Sept. 11, 2008</marcxml:subfield>
+              <marcxml:subfield code="b">(Córdoba (Cordova in English) is a city in Andalusia, southern Spain, and the capital of the province of Córdoba; founded in ancient Roman times as Corduba by Claudius Marcellus; was the thriving capital of the Caliphate of Córdoba that governed almost all of the Iberian peninsula; was the capital of the Roman province of Hispania Ulterior Baetica; called قرطبة (Qurۅtuba [in rom.]) in Arabic)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">GeoNames, algorithmically matched, 2009</marcxml:subfield>
+              <marcxml:subfield code="b">(ppl; 37°53ʹ00ʺN 004°46ʹ00ʺW)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="781" ind1=" " ind2="0">
+              <marcxml:subfield code="z">Spain</marcxml:subfield>
+              <marcxml:subfield code="z">Córdoba</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

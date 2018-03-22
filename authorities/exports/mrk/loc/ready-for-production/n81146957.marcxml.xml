@@ -1,0 +1,127 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02323cz  a2200397n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">n81146957</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150926053236.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">820126n| azannaabn          |b ana      </marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">n  81146957 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0131100</marcxml:subfield>
+    <marcxml:subfield code="e">E0131100</marcxml:subfield>
+    <marcxml:subfield code="f">N0325400</marcxml:subfield>
+    <marcxml:subfield code="g">N0325400</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0131040</marcxml:subfield>
+    <marcxml:subfield code="e">E0131040</marcxml:subfield>
+    <marcxml:subfield code="f">N0325348</marcxml:subfield>
+    <marcxml:subfield code="g">N0325348</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0130911</marcxml:subfield>
+    <marcxml:subfield code="e">E0131324</marcxml:subfield>
+    <marcxml:subfield code="f">N0325406</marcxml:subfield>
+    <marcxml:subfield code="g">N0325150</marcxml:subfield>
+    <marcxml:subfield code="2">bound</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0131109</marcxml:subfield>
+    <marcxml:subfield code="e">E0131109</marcxml:subfield>
+    <marcxml:subfield code="f">N0325408</marcxml:subfield>
+    <marcxml:subfield code="g">N0325408</marcxml:subfield>
+    <marcxml:subfield code="2">wikiped</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="034" ind1=" " ind2=" ">
+    <marcxml:subfield code="d">E0131000</marcxml:subfield>
+    <marcxml:subfield code="e">E0131000</marcxml:subfield>
+    <marcxml:subfield code="f">N0325300</marcxml:subfield>
+    <marcxml:subfield code="g">N0325300</marcxml:subfield>
+    <marcxml:subfield code="2">other</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca00691723</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">DLC</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+    <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+    <marcxml:subfield code="d">DNLM</marcxml:subfield>
+    <marcxml:subfield code="d">WaU</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="043" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">f-ly---</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="151" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tripoli (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="b">Cities and towns</marcxml:subfield>
+    <marcxml:subfield code="b">Capitals (Cities)</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Libya</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">nnaa</marcxml:subfield>
+    <marcxml:subfield code="a">Tripoli</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ṭarābulus al-Gharb (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Ṭarābulus (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Trables (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">طرابلس (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">طرابلس الغرب (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Tripoli-of-the-West (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="451" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Western Tripoli (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="551" ind1=" " ind2=" ">
+    <marcxml:subfield code="w">a</marcxml:subfield>
+    <marcxml:subfield code="a">Oea (Libya)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">BGN 9-19-85</marcxml:subfield>
+    <marcxml:subfield code="b">(Ṭarābulus; Tripoli [conventional], ppl, 32°54ʹN 13°11ʹE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Tripoli (Arabic: طرابلس‎ = Ṭarābulus; Berber: Ṭrables) is the de jure capital city and the largest city of Libya; Tripoli was founded in the 7th century BC by the Phoenicians, who named it Oea; also known as Tripoli-of-the-West (Arabic: طرابلس الغرب‎ = Ṭarābulus al-Gharb), to distinguish it from its older Phoenician sister city Tripoli, Lebanon known in Arabic as Ṭarābulus al-Sham (طرابلس الشام) meaning "Levantine Tripoli"; 32°54ʹ8ʺN 13°11ʹ9ʺE)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Britannica online, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(Tripoli, Arabic Ṭarābulus, in full Ṭarābulus al-Gharb ("The Western Tripoli"), capital city of Libya; known as Oea in ancient times and was one of the original cities (along with Sabratha and Leptis Magna) that formed the African Tripolis, or Tripolitania)</marcxml:subfield>
+    <marcxml:subfield code="u">http://www.britannica.com/place/Tripoli</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">The world factbook, via WWW, September 24, 2015</marcxml:subfield>
+    <marcxml:subfield code="b">(under Libya: capital: Tripoli (Tarabulus); geographic coordinates: 32 53 N, 13 10 E)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="781" ind1=" " ind2="0">
+    <marcxml:subfield code="z">Libya</marcxml:subfield>
+    <marcxml:subfield code="z">Tripoli</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

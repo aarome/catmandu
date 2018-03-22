@@ -1,0 +1,134 @@
+<marcxml:record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:mets="http://www.loc.gov/METS/" xmlns:mxe="http://www.loc.gov/mxe" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:sem="http://marklogic.com/semantics">
+  <marcxml:leader>02237cz  a2200457n  4500</marcxml:leader>
+  <marcxml:controlfield tag="001">no2014090208</marcxml:controlfield>
+  <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+  <marcxml:controlfield tag="005">20150610053825.0</marcxml:controlfield>
+  <marcxml:controlfield tag="008">140707n| azannaabn          |b aaa     c</marcxml:controlfield>
+  <marcxml:datafield tag="010" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">no2014090208</marcxml:subfield>
+    <marcxml:subfield code="z">sh 85100056 </marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="035" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">(OCoLC)oca09901578</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="040" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">UPB</marcxml:subfield>
+    <marcxml:subfield code="b">eng</marcxml:subfield>
+    <marcxml:subfield code="e">rda</marcxml:subfield>
+    <marcxml:subfield code="c">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">UPB</marcxml:subfield>
+    <marcxml:subfield code="d">DLC</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="100" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Persephone</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Greek deity</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="368" ind1=" " ind2=" ">
+    <marcxml:subfield code="c">Goddesses, Greek</marcxml:subfield>
+    <marcxml:subfield code="2">lcsh</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="370" ind1=" " ind2=" ">
+    <marcxml:subfield code="f">Greece</marcxml:subfield>
+    <marcxml:subfield code="2">naf</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="375" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">female</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Kore</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Parsefuna</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Persefona</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Persefone</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Persefono</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Pertsefone</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Persefoneh</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Perusepone</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Perszephoné</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Perzefona</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Poersaifunie</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">ペルセポネー</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">פרספונה</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">페르세포네</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Персефона</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">پرسفونه</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">برسفون</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Περσεφόνη</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="400" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Κόρη</marcxml:subfield>
+    <marcxml:subfield code="c">(Greek deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="500" ind1="0" ind2=" ">
+    <marcxml:subfield code="a">Proserpina</marcxml:subfield>
+    <marcxml:subfield code="c">(Roman deity)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Aridjis, Homero. Persephone, 1986.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="667" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Non-Latin script reference not evaluated.</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Brill's new Pauly online, 7 July 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Persephone; Kore; Περσεφόνη; Κόρη; Greek goddess; daughter of Zeus and Demeter; defining myth told in the Homeric hymn to Demeter; Greek equivalent of the Roman goddess Proserpina)</marcxml:subfield>
+  </marcxml:datafield>
+  <marcxml:datafield tag="670" ind1=" " ind2=" ">
+    <marcxml:subfield code="a">Wikipedia, 7 July 2014</marcxml:subfield>
+    <marcxml:subfield code="b">(Persephone; Kore; Περσεφόνη; Κόρη; daughter of Zeus and the harvest goddess Demeter; queen of the Underworld; vegetation goddess; central to the Eleusinian mysteries; equivalent to the Roman goddess Proserpina; other forms of name:  برسفون; Persefona; Персефона = Persefona; Пэрсэфона ; Perzefona; Persefone; Parsefuna; Persefono; Pertsefone; پرسفونه; 페르세포네; פרספונה = Persefoneh; Perszephoné; ペルセポネー = Perusepone; 珀耳塞福涅 = Poersaifunie)</marcxml:subfield>
+  </marcxml:datafield>
+</marcxml:record>

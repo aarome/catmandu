@@ -1,0 +1,161 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>02116cz  a2200529n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n79054060</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20171025160930.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">790621n| azannaabn          |b aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  79054060 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00287200</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">MdU</marcxml:subfield>
+              <marcxml:subfield code="d">NjP</marcxml:subfield>
+              <marcxml:subfield code="d">ViU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="d">UPB</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1792-08-04</marcxml:subfield>
+              <marcxml:subfield code="g">1822-07-08</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">PR5400</marcxml:subfield>
+              <marcxml:subfield code="b">PR5448</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Shelley, Percy Bysshe,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Horsham (West Sussex, England)</marcxml:subfield>
+              <marcxml:subfield code="b">Italy</marcxml:subfield>
+              <marcxml:subfield code="c">England</marcxml:subfield>
+              <marcxml:subfield code="c">Great Britain</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="372" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Poetry</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Poets</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Males</marcxml:subfield>
+              <marcxml:subfield code="2">lcdgt</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">eng</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Sheli, Persi Bish,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Hsüeh-lai,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Hermit of Marlow,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Marlow,</marcxml:subfield>
+              <marcxml:subfield code="c">Hermit of,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="0" ind2=" ">
+              <marcxml:subfield code="a">Victor,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Shelli, Persi-Bishi,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Šéli, Pérsi Ba,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Shilī,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Shelley, P. B.</marcxml:subfield>
+              <marcxml:subfield code="q">(Percy Bysshe),</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Selley, Persy Byss,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Shelli, P.,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Шелли, Перси Биши,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">שלי, פרסי ביש</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">שלי, פרסי ביש,</marcxml:subfield>
+              <marcxml:subfield code="d">1792־1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">שעלי, פוירסי</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">شلي</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="400" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Śeli, Pārsi Bīśa,</marcxml:subfield>
+              <marcxml:subfield code="d">1792-1822</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Machine-derived non-Latin script reference project.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="667" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Non-Latin script references not evaluated.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Raʼūf, Zh. S. Shilī fī al-adab al-ʻArabī fī Miṣr, 1982:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Shilī)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Shelley, P.B. La mascherata dell'anarchia, 1982:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (P.B. Shelley)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Hellas (1821), 1990:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Persy Byss Selley)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Zakat solnt͡sa, 1963:</marcxml:subfield>
+              <marcxml:subfield code="b">label (P. Shelli)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Oxford dictionary of national biography online, 28 November 2012</marcxml:subfield>
+              <marcxml:subfield code="b">(Percy Bysshe Shelley, poet, born 4 August 1792 at Field Place, near Horsham in Sussex; drowned 8 July 1822 off the coast of Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Kālera jaẏayātrā, 2015:</marcxml:subfield>
+              <marcxml:subfield code="b">t.p. (Pārsi Bīśa Śeli)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

@@ -1,0 +1,54 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01428nz  a2200229n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh2012001208</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20121113083654.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">120322|| anannbabn          |a ana     c</marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh2012001208</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">NNFr</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="110" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa del Poggio Imperiale (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Poggio Baroncelli Villa (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Poggio Imperiale Villa (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa del Poggio Baroncelli (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa Poggio Imperiale (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="410" ind1="2" ind2=" ">
+              <marcxml:subfield code="a">Villa di Poggio Imperiale (Florence, Italy)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Dwellings</marcxml:subfield>
+              <marcxml:subfield code="z">Italy</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Work cat.: Viaggio nell'esotismo settecentesco alla Villa del Poggio Imperiale a Firenze, c2011:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 8 (for over a century this ... villa houses the Collegio femminile della SS. Annunziata)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Poggio-Imperiale WWW site, Mar. 15, 2012</marcxml:subfield>
+              <marcxml:subfield code="b">(Villa del Poggio Imperiale, Florence; houses Istituto Statale della SS. Annunziata, founded on Nov. 20, 1823)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Mar. 15, 2011</marcxml:subfield>
+              <marcxml:subfield code="b">(Villa del Poggio Imperiale, Arcetri, south of Florence; known as "Villa del Poggio Baroncelli", built by the Florentine merchant Jacopo Baroncelli in 15th century; since 1823 houses the Istituto Statale della Ss. Annunziata; located at Piazzale del Poggio Imperiale, 1, Florence)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">LC catalog online, Mar. 22, 2012</marcxml:subfield>
+              <marcxml:subfield code="b">(hdg.: Florence. Villa di Poggio Imperiale; Poggio Imperiale (Florence, Italy))</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

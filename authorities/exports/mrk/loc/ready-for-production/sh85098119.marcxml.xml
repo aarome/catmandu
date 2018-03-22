@@ -1,0 +1,76 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>03385cz  a2200301n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">sh85098119</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20130613071127.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">000502i| anannbabn          |b ana      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">sh 85098119 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">CaAE</marcxml:subfield>
+              <marcxml:subfield code="d">WaU</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="053" ind1=" " ind2="0">
+              <marcxml:subfield code="a">SB481</marcxml:subfield>
+              <marcxml:subfield code="b">SB486</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="150" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">County parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Parklands</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Provincial parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Regional parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">State parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="450" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Territorial parks</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Commons</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="w">g</marcxml:subfield>
+              <marcxml:subfield code="a">Recreation areas</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="550" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Playgrounds</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Alberta's parks &amp; protected areas : it's in our nature!, 1998</marcxml:subfield>
+              <marcxml:subfield code="b">(covers Alberta's provincial parks and natural areas)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Simmons, S.E. Parklands pest management, 1985.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">WaU database, May 2, 2000</marcxml:subfield>
+              <marcxml:subfield code="b">(titles: The economic implications of the regional park system in Maricopa County; Regional parks and open space; Financing strategies for county parks and recreation; Municipal and county parks in the United States, 1940; City parks of Canada)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Herschel Island, 2012:</marcxml:subfield>
+              <marcxml:subfield code="b">p. 3 (Yukon) p. 12 (Herschel Island Territorial Park)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, Mar. 14, 2013:</marcxml:subfield>
+              <marcxml:subfield code="b">Provincial park (A provincial park (or territorial park) is a park created under the authority of and is managed by a provincial or territorial government in Canada. Although provincial parks are not the same as national parks, their structures and purposes are very similar. The provincial and territorial parks systems generally have various park categories. In the province of Quebec, the provincial parks are labelled "national parks" and are all IUCN category II protected areas (like at the federal level, and as opposed to many provincial parks), and are managed by Société des établissements de plein air du Québec. Many parks in the other provinces have the IUCN designation.)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Parcs Québec website, Mar. 14, 2013:</marcxml:subfield>
+              <marcxml:subfield code="b">English home page (Québec national parks are officially recognized protected areas. The mission of Parcs Québec is to protect and promote the natural environments of Quebec's 43 designated nature areas and sites of outstanding natural beauty. Accordingly, Québec's national parks are managed so as to strike a balance between the conservation of their natural and cultural heritage, and public access for education and recreation purposes.) Mission - more information (What is a National Park? A national park is an area representative of a natural region and whose vocation is to preserve natural and cultural heritage. The national park concept is everywhere in the world, and Québec is no exception. The Parcs Québec network meets all of the international standards defined by the International Union for Conservation of Nature (IUCN). In this context, Québec's national parks are managed to maintain balance between the conservation of natural and cultural heritage and public access. ... in 2001, the Parks Act was amended to replace the concepts of conservation and recreation parks with the designation of national park, meeting the criteria established by the International Union for Conservation of Nature (IUCN). The story does not end here because the Québec government is currently working on the creation of many parks that will mainly be located north of the 50th parallel. Parc national des Pingualuit, created in 2004, is the first example.)</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>

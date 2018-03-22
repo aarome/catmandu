@@ -1,0 +1,80 @@
+<marcxml:record xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:idx="info:lc/xq-modules/lcindex" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mets="http://www.loc.gov/METS/" xmlns:semtriples="http://marklogic.com/semantic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:streams="info:lc/streams#">
+            <marcxml:leader>01129cz  a2200289n  4500</marcxml:leader>
+            <marcxml:controlfield tag="001">n50019411</marcxml:controlfield>
+            <marcxml:controlfield tag="003">DLC</marcxml:controlfield>
+            <marcxml:controlfield tag="005">20170501100931.0</marcxml:controlfield>
+            <marcxml:controlfield tag="008">800501n| azannaabn          |a aaa      </marcxml:controlfield>
+            <marcxml:datafield tag="010" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">n  50019411 </marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="035" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">(OCoLC)oca00054844</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="040" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">DLC</marcxml:subfield>
+              <marcxml:subfield code="b">eng</marcxml:subfield>
+              <marcxml:subfield code="e">rda</marcxml:subfield>
+              <marcxml:subfield code="c">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+              <marcxml:subfield code="d">OCoLC</marcxml:subfield>
+              <marcxml:subfield code="d">UPB</marcxml:subfield>
+              <marcxml:subfield code="d">DLC</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="046" ind1=" " ind2=" ">
+              <marcxml:subfield code="f">1935-09-21</marcxml:subfield>
+              <marcxml:subfield code="2">edtf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="100" ind1="1" ind2=" ">
+              <marcxml:subfield code="a">Bagg, Robert</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="370" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">New Jersey</marcxml:subfield>
+              <marcxml:subfield code="f">Amherst (Mass.)</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="373" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">University of Massachusetts at Amherst</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+              <marcxml:subfield code="s">1971</marcxml:subfield>
+              <marcxml:subfield code="t">1996</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="373" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">University of Massachusetts (Amherst campus)</marcxml:subfield>
+              <marcxml:subfield code="2">naf</marcxml:subfield>
+              <marcxml:subfield code="s">1965</marcxml:subfield>
+              <marcxml:subfield code="t">1971</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="374" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Poets</marcxml:subfield>
+              <marcxml:subfield code="a">Translators</marcxml:subfield>
+              <marcxml:subfield code="a">College teachers</marcxml:subfield>
+              <marcxml:subfield code="2">lcsh</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="375" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">male</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="377" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">eng</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="510" ind1="2" ind2=" ">
+              <marcxml:subfield code="w">r</marcxml:subfield>
+              <marcxml:subfield code="i">Employer:</marcxml:subfield>
+              <marcxml:subfield code="a">University of Massachusetts at Amherst</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="510" ind1="2" ind2=" ">
+              <marcxml:subfield code="w">r</marcxml:subfield>
+              <marcxml:subfield code="i">Employer:</marcxml:subfield>
+              <marcxml:subfield code="a">University of Massachusetts (Amherst campus)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">His Madonna of the cello, 1961.</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">His Body blows, 1988:</marcxml:subfield>
+              <marcxml:subfield code="b">CIP t.p. (Robert Bagg) data sheet (b. 9/21/35)</marcxml:subfield>
+            </marcxml:datafield>
+            <marcxml:datafield tag="670" ind1=" " ind2=" ">
+              <marcxml:subfield code="a">Wikipedia, 23 June 2014</marcxml:subfield>
+              <marcxml:subfield code="b">(Robert Bagg; born 1935, New Jersey; American poet and translator; taught English at Unviersity of Massachusetts, Amherst (1965-1996))</marcxml:subfield>
+            </marcxml:datafield>
+          </marcxml:record>
