@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2002001720.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "17",
+   "title" : "Ricina (Extinct city)",
+   "source" : "LCCN",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Ricina (Extinct city)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "sh2002001720",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3248",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject"
+}

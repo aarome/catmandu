@@ -1,0 +1,26 @@
+{
+   "lock_version" : "199",
+   "uri" : "/subjects/318",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Glass",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      }
+   ],
+   "title" : "Glass",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85055102",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85055102.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

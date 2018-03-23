@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79149017",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Frankfurt am Main (Germany)",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "4",
+   "uri" : "/subjects/3355",
+   "source" : "LCCN",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "title" : "Frankfurt am Main (Germany)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79149017.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79058874.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Paris (France)",
+   "lock_version" : "66",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Paris (France)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "uri" : "/subjects/6765",
+   "authority_id" : "n79058874"
+}

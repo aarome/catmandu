@@ -1,0 +1,26 @@
+{
+   "title" : "Cosa (Extinct city)",
+   "authority_id" : "sh85033135",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Cosa (Extinct city)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7138",
+   "created_by" : "web_services",
+   "lock_version" : "8",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85033135.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "publish" : "true"
+}

@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Serpentine",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "9",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85120306.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85120306",
+   "title" : "Serpentine",
+   "uri" : "/subjects/382"
+}

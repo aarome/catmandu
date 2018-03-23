@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79023292",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Abruzzo (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79023292.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Abruzzo (Italy)",
+   "uri" : "/subjects/7421",
+   "lock_version" : "38",
+   "publish" : "true"
+}

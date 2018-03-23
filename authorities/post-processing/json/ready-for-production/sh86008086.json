@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "title" : "Circus Flaminius (Rome, Italy)",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh86008086.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh86008086",
+   "terms" : [
+      {
+         "term" : "Circus Flaminius (Rome, Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "1",
+   "uri" : "/subjects/4698",
+   "created_by" : "web_services"
+}

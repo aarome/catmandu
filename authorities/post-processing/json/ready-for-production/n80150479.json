@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n80150479",
+   "uri" : "/subjects/3656",
+   "title" : "Viterbo (Italy : Province)",
+   "lock_version" : "217",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80150479.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Viterbo (Italy : Province)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "publish" : "true"
+}

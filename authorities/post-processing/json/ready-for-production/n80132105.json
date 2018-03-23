@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Reggio di Calabria (Italy)",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Reggio di Calabria (Italy)",
+   "lock_version" : "20",
+   "authority_id" : "n80132105",
+   "uri" : "/subjects/3729",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80132105.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1"
+}

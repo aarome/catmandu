@@ -1,0 +1,26 @@
+{
+   "lock_version" : "14",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/no2015060017.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Vicovaro (Italy)"
+      }
+   ],
+   "authority_id" : "no2015060017",
+   "title" : "Vicovaro (Italy)",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3077"
+}

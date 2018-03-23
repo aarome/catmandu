@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6445",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Bas-relief",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85012010.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "title" : "Bas-relief",
+   "lock_version" : "134",
+   "authority_id" : "sh85012010",
+   "source" : "LCCN",
+   "publish" : "true"
+}

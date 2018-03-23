@@ -1,0 +1,33 @@
+{
+   "lock_version" : "3",
+   "authority_id" : "n00009633",
+   "uri" : "/subjects/5229",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Capitoline she-wolf (Statue)"
+      },
+      {
+         "created_by" : "web_services",
+         "term" : "blah",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      }
+   ],
+   "created_by" : "web_services",
+   "title" : "Capitoline she-wolf (Statue)",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n00009633.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1"
+}

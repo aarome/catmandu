@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Tindari (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/3310",
+   "lock_version" : "12",
+   "authority_id" : "n2005013229",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n2005013229.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Tindari (Italy)",
+   "publish" : "true"
+}

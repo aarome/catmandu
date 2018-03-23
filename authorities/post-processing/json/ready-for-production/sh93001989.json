@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "title" : "Piazza Navona (Rome, Italy)",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Piazza Navona (Rome, Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh93001989.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "lock_version" : "25",
+   "uri" : "/subjects/6384",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh93001989"
+}

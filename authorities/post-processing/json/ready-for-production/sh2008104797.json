@@ -1,0 +1,33 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "2",
+   "authority_id" : "sh2008104797",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5301",
+   "created_by" : "web_services",
+   "title" : "Interior decoration",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Interior decoration"
+      },
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "France",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008104797.marcxml.xml"
+      }
+   ]
+}

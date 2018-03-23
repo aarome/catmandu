@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85127907",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6483",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85127907.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Stele (Archaeology)",
+   "lock_version" : "13",
+   "terms" : [
+      {
+         "term" : "Stele (Archaeology)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "publish" : "true"
+}

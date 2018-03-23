@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5261",
+   "source" : "LCCN",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Cupid and Psyche (Tale) in art",
+         "term_type" : "topical"
+      }
+   ],
+   "lock_version" : "5",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh97003480.marcxml.xml"
+      }
+   ],
+   "authority_id" : "sh97003480",
+   "title" : "Cupid and Psyche (Tale) in art"
+}

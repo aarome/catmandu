@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh2003006527",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5477",
+   "source" : "LCCN",
+   "lock_version" : "2",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2003006527.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Church buildings",
+         "term_type" : "topical"
+      },
+      {
+         "term" : "Germany",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Church buildings"
+}

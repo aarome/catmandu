@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3338",
+   "publish" : "true",
+   "title" : "Kaiseraugst (Switzerland)",
+   "source" : "LCCN",
+   "authority_id" : "n85279520",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "9",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Kaiseraugst (Switzerland)"
+      }
+   ],
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n85279520.marcxml.xml"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85020702.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "lock_version" : "17",
+   "publish" : "true",
+   "source" : "LCCN",
+   "title" : "Castles",
+   "terms" : [
+      {
+         "term" : "Castles",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      }
+   ],
+   "uri" : "/subjects/7412",
+   "authority_id" : "sh85020702"
+}

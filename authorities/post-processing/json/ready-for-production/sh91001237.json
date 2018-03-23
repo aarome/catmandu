@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh91001237",
+   "lock_version" : "7",
+   "title" : "Armor in art",
+   "uri" : "/subjects/6545",
+   "source" : "LCCN",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh91001237.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Armor in art"
+      }
+   ]
+}

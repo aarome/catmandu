@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "uri" : "/subjects/7279",
+   "lock_version" : "15",
+   "title" : "Sulmona (Italy)",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Sulmona (Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n83031972",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n83031972.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN"
+}

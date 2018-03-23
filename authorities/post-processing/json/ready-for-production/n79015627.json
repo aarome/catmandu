@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3292",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "title" : "Benevento (Italy)",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79015627",
+   "source" : "LCCN",
+   "lock_version" : "14",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79015627.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Benevento (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ]
+}

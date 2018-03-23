@@ -1,0 +1,26 @@
+{
+   "title" : "Sutri (Italy)",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Sutri (Italy)"
+      }
+   ],
+   "uri" : "/subjects/7350",
+   "lock_version" : "5",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n94018957",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n94018957.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN"
+}

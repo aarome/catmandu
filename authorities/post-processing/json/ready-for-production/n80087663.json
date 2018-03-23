@@ -1,0 +1,26 @@
+{
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3794",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Mysore (India)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "n80087663",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80087663.marcxml.xml"
+      }
+   ],
+   "title" : "Mysore (India)"
+}

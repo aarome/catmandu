@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Berlin (Germany)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "27",
+   "authority_id" : "n79034972",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79034972.marcxml.xml"
+      }
+   ],
+   "title" : "Berlin (Germany)",
+   "uri" : "/subjects/3356",
+   "publish" : "true"
+}

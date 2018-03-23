@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3692",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Licenza (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "title" : "Licenza (Italy)",
+   "publish" : "true",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "6",
+   "authority_id" : "nr94042063",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/nr94042063.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

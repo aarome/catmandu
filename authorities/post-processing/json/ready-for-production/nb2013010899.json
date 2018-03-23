@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Blera (Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "authority_id" : "nb2013010899",
+   "publish" : "true",
+   "lock_version" : "2",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "uri" : "/subjects/3271",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/nb2013010899.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Blera (Italy)",
+   "created_by" : "web_services"
+}

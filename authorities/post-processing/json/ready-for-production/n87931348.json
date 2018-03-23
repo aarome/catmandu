@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n87931348.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/3062",
+   "publish" : "true",
+   "authority_id" : "n87931348",
+   "title" : "Prima Porta (Italy)",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Prima Porta (Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "2",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject"
+}

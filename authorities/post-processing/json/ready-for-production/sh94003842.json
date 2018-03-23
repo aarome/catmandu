@@ -1,0 +1,26 @@
+{
+   "lock_version" : "11",
+   "uri" : "/subjects/4609",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh94003842.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Esquiline (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Esquiline (Italy)",
+   "authority_id" : "sh94003842",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject"
+}

@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/6078",
+   "title" : "Bergamo (Italy)",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79046136",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79046136.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "16",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term" : "Bergamo (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true"
+}

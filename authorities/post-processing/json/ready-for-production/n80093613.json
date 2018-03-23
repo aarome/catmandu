@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/6170",
+   "authority_id" : "n80093613",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80093613.marcxml.xml"
+      }
+   ],
+   "title" : "Lucca (Italy : Province)",
+   "terms" : [
+      {
+         "term" : "Lucca (Italy : Province)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true",
+   "source" : "LCCN",
+   "lock_version" : "13"
+}

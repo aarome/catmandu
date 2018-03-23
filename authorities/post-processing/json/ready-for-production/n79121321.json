@@ -1,0 +1,26 @@
+{
+   "title" : "San Gimignano (Italy)",
+   "authority_id" : "n79121321",
+   "created_by" : "web_services",
+   "uri" : "/subjects/4456",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "31",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "San Gimignano (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79121321.marcxml.xml"
+      }
+   ]
+}

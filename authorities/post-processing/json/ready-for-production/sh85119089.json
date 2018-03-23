@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Sculpture, Greek",
+   "authority_id" : "sh85119089",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85119089.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Sculpture, Greek",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/7353",
+   "lock_version" : "417",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject"
+}

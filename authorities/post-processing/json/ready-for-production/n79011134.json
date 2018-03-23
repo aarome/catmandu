@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "162",
+   "uri" : "/subjects/2371",
+   "authority_id" : "n79011134",
+   "title" : "Campania (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79011134.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Campania (Italy)",
+         "term_type" : "geographic"
+      }
+   ]
+}

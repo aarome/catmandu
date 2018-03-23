@@ -1,0 +1,26 @@
+{
+   "title" : "Pietrabbondante (Italy)",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Pietrabbondante (Italy)"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "nr2001021425",
+   "source" : "LCCN",
+   "uri" : "/subjects/7267",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/nr2001021425.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "9"
+}

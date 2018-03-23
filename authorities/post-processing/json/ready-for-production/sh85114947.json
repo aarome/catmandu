@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85114947",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Walls, Roman"
+      }
+   ],
+   "uri" : "/subjects/3679",
+   "lock_version" : "82",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85114947.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Walls, Roman"
+}

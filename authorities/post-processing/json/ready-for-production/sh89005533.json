@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh89005533",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Circeo Mountain (Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "title" : "Circeo Mountain (Italy)",
+   "lock_version" : "4",
+   "uri" : "/subjects/3112",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh89005533.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true"
+}

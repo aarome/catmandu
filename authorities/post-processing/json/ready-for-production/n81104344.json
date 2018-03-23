@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n81104344",
+   "title" : "Viterbo (Italy)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6112",
+   "lock_version" : "31",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81104344.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Viterbo (Italy)"
+      }
+   ],
+   "publish" : "true"
+}

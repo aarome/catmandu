@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Cherchell (Algeria)"
+      }
+   ],
+   "authority_id" : "n84239891",
+   "uri" : "/subjects/4739",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "lock_version" : "7",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n84239891.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Cherchell (Algeria)",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN"
+}

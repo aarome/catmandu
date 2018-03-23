@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79097456.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3198",
+   "source" : "LCCN",
+   "lock_version" : "7",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Livorno (Italy)"
+      }
+   ],
+   "authority_id" : "n79097456",
+   "title" : "Livorno (Italy)"
+}

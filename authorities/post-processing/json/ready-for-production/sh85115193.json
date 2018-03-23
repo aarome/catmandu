@@ -1,0 +1,33 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85115193.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Rome (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Description and travel"
+      }
+   ],
+   "title" : "Rome (Italy)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "lock_version" : "3",
+   "source" : "LCCN",
+   "uri" : "/subjects/5764",
+   "authority_id" : "sh85115193"
+}

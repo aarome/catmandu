@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "authority_id" : "n81146957",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/4937",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81146957.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "lock_version" : "7",
+   "title" : "Tripoli (Libya)",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Tripoli (Libya)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

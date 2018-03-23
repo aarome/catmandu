@@ -1,0 +1,26 @@
+{
+   "lock_version" : "3",
+   "title" : "Albano Laziale (Italy)",
+   "publish" : "true",
+   "authority_id" : "n78047528",
+   "uri" : "/subjects/6090",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Albano Laziale (Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n78047528.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services"
+}

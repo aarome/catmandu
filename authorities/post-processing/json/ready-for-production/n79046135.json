@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79046135.marcxml.xml"
+      }
+   ],
+   "authority_id" : "n79046135",
+   "title" : "Messina (Italy)",
+   "uri" : "/subjects/3732",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "lock_version" : "7",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "term" : "Messina (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

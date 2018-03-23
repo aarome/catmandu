@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n79023150",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79023150.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/7383",
+   "publish" : "true",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "uniform_title",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Bible. -- New Testament",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "lock_version" : "5",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Bible. -- New Testament",
+   "jsonmodel_type" : "subject"
+}

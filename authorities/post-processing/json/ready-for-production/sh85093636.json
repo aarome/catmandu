@@ -1,0 +1,26 @@
+{
+   "lock_version" : "14",
+   "uri" : "/subjects/7175",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85093636.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "term" : "Obelisks",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "title" : "Obelisks",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "authority_id" : "sh85093636",
+   "vocabulary" : "/vocabularies/1"
+}

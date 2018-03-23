@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n2013074408.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services",
+   "lock_version" : "2013074408",
+   "title" : "Tabursuq (Tunisia)",
+   "authority_id" : "n2013074408",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Tabursuq (Tunisia)"
+      }
+   ],
+   "uri" : "/subjects/n2013074408"
+}

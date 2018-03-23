@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "title" : "Church buildings",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Church buildings",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "35",
+   "authority_id" : "sh85025854",
+   "uri" : "/subjects/6650",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85025854.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN"
+}

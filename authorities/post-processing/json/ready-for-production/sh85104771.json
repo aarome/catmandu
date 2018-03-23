@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "uri" : "/subjects/7374",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85104771.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85104771",
+   "title" : "Pompeii (Extinct city)",
+   "lock_version" : "87",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Pompeii (Extinct city)",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN"
+}

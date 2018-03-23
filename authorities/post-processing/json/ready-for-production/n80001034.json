@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80001034.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Salerno (Italy : Province)",
+   "uri" : "/subjects/6729",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "31",
+   "authority_id" : "n80001034",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term" : "Salerno (Italy : Province)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

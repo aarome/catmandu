@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n78089021.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "3",
+   "uri" : "/subjects/6347",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Japan"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n78089021",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Japan",
+   "publish" : "true"
+}

@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "authority_id" : "sh85073006",
+   "title" : "Korai",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5521",
+   "lock_version" : "12",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Korai",
+         "term_type" : "topical",
+         "created_by" : "web_services"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85073006.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

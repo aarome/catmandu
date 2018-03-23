@@ -1,0 +1,26 @@
+{
+   "title" : "Naples (Italy)",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5098",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Naples (Italy)",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79015689.marcxml.xml"
+      }
+   ],
+   "lock_version" : "40",
+   "authority_id" : "n79015689",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN"
+}

@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/nr93041088.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "nr93041088",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Valéggio sul Mincio (Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "5",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7351",
+   "title" : "Valéggio sul Mincio (Italy)",
+   "created_by" : "web_services"
+}

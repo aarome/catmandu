@@ -1,0 +1,33 @@
+{
+   "lock_version" : "14",
+   "authority_id" : "sh85096919",
+   "uri" : "/subjects/6339",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85096919.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Palaces",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "term" : "Palaces"
+      },
+      {
+         "term" : "England",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

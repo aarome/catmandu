@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "6",
+   "authority_id" : "n79070127",
+   "uri" : "/subjects/6268",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79070127.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Ravello (Italy)"
+      }
+   ],
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "title" : "Ravello (Italy)"
+}

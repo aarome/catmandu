@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Maggiore, Lake (Italy and Switzerland)",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5833",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "title" : "Maggiore, Lake (Italy and Switzerland)",
+   "authority_id" : "sh85079596",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85079596.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "24",
+   "publish" : "true"
+}

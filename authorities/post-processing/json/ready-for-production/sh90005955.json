@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Porta Soprana (Genoa, Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh90005955.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh90005955",
+   "title" : "Porta Soprana (Genoa, Italy)",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "uri" : "/subjects/5819",
+   "publish" : "true"
+}

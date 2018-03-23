@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "861",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3423",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006860.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "authority_id" : "sh85006860",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Architecture, Roman",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Architecture, Roman"
+}

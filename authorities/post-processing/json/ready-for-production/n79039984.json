@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Pavia (Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79039984.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/6710",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79039984",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Pavia (Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "lock_version" : "12",
+   "created_by" : "web_services"
+}

@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "uri" : "/subjects/4009",
+   "authority_id" : "n85255351",
+   "created_by" : "web_services",
+   "title" : "Anagni (Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n85255351.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Anagni (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "11"
+}

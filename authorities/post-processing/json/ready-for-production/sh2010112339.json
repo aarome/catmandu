@@ -1,0 +1,33 @@
+{
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Sepulchral monuments",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "ItalyRome",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "sh2010112339",
+   "publish" : "true",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "title" : "Sepulchral monuments",
+   "uri" : "/subjects/5216",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2010112339.marcxml.xml"
+      }
+   ]
+}

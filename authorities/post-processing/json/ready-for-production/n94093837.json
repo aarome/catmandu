@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "title" : "Manziana (Italy)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "lock_version" : "3",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n94093837",
+   "uri" : "/subjects/3652",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n94093837.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Manziana (Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

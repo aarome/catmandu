@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/nr2003015504.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Guide (Gaeta, Italy)",
+   "authority_id" : "nr2003015504",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Guide (Gaeta, Italy)",
+         "term_type" : "uniform_title"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "196",
+   "uri" : "/subjects/7337",
+   "source" : "LCCN"
+}

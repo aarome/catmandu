@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "uri" : "/subjects/7289",
+   "source" : "LCCN",
+   "lock_version" : "25",
+   "publish" : "true",
+   "title" : "Tadmur (Syria)",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Tadmur (Syria)"
+      }
+   ],
+   "authority_id" : "n82076341",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n82076341.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Tamil Nadu (India)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/3793",
+   "jsonmodel_type" : "subject",
+   "title" : "Tamil Nadu (India)",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "lock_version" : "3",
+   "created_by" : "web_services",
+   "authority_id" : "n80061081",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80061081.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true"
+}

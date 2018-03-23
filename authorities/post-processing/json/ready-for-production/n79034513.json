@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3745",
+   "authority_id" : "n79034513",
+   "title" : "Marsala (Italy)",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Marsala (Italy)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "5",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79034513.marcxml.xml"
+      }
+   ]
+}

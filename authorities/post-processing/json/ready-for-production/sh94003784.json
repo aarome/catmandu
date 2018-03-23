@@ -1,0 +1,26 @@
+{
+   "title" : "Pincian Hill (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh94003784",
+   "created_by" : "web_services",
+   "uri" : "/subjects/5801",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh94003784.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN",
+   "lock_version" : "22",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Pincian Hill (Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "jsonmodel_type" : "subject"
+}

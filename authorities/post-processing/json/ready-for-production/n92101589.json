@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "authority_id" : "n92101589",
+   "uri" : "/subjects/3309",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Ordona (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Ordona (Italy)",
+   "lock_version" : "10",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n92101589.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

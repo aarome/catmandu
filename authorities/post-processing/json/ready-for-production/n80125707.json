@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/6700",
+   "authority_id" : "n80125707",
+   "title" : "Blois (France)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Blois (France)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80125707.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "lock_version" : "4"
+}

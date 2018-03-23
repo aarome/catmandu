@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "lock_version" : "3",
+   "source" : "LCCN",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Libraries"
+      }
+   ],
+   "title" : "Libraries",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85076502.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/6662",
+   "authority_id" : "sh85076502"
+}

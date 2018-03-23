@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh95000862.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Ponte Emilio (Rome, Italy)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/5124",
+   "lock_version" : "13",
+   "source" : "LCCN",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Ponte Emilio (Rome, Italy)",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh95000862"
+}

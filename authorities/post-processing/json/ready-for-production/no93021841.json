@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "23",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/no93021841.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/5832",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Isola Bella (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "authority_id" : "no93021841",
+   "publish" : "true",
+   "title" : "Isola Bella (Italy)",
+   "vocabulary" : "/vocabularies/1"
+}

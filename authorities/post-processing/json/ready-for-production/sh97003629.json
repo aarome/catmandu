@@ -1,0 +1,26 @@
+{
+   "title" : "Alban Hills (Italy)",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Alban Hills (Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "sh97003629",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "41",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh97003629.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3070"
+}

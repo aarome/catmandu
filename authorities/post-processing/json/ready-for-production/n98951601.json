@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n98951601",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "15",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n98951601.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Tkrah (Libya)",
+   "uri" : "/subjects/4931",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Tkrah (Libya)",
+         "created_by" : "web_services"
+      }
+   ]
+}

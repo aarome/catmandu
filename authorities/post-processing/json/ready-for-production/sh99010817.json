@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "17",
+   "authority_id" : "sh99010817",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Thysdrus (Extinct city)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99010817.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/3366",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "title" : "Thysdrus (Extinct city)"
+}

@@ -1,0 +1,33 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85135944",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Tombs",
+         "term_type" : "topical"
+      },
+      {
+         "term_type" : "geographic",
+         "term" : "Italy",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/4272",
+   "title" : "Tombs",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85135944.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "24",
+   "source" : "LCCN"
+}

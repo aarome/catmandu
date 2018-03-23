@@ -1,0 +1,26 @@
+{
+   "title" : "Piazza Colonna (Rome, Italy)",
+   "created_by" : "web_services",
+   "uri" : "/subjects/6657",
+   "publish" : "true",
+   "lock_version" : "9",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Piazza Colonna (Rome, Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "authority_id" : "sh97005269",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh97005269.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

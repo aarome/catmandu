@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81011188.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Nîmes (France)",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "6",
+   "title" : "Nîmes (France)",
+   "uri" : "/subjects/3331",
+   "authority_id" : "n81011188",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

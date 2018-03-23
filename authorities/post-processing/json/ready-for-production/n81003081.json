@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Como (Italy : Province)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/6173",
+   "lock_version" : "154",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81003081.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Como (Italy : Province)",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "authority_id" : "n81003081"
+}

@@ -1,0 +1,33 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008007071.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Walls",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "term" : "Germany",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "uri" : "/subjects/5475",
+   "source" : "LCCN",
+   "authority_id" : "sh2008007071",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Walls",
+   "lock_version" : "3",
+   "publish" : "true"
+}

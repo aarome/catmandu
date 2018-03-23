@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "authority_id" : "sh85105462",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85105462.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Postcards",
+   "terms" : [
+      {
+         "term" : "Postcards",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "lock_version" : "40",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7274"
+}

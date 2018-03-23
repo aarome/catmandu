@@ -1,0 +1,26 @@
+{
+   "lock_version" : "15",
+   "source" : "LCCN",
+   "uri" : "/subjects/4910",
+   "authority_id" : "sh94003441",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh94003441.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Basilicas (Roman architecture)",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "term" : "Basilicas (Roman architecture)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

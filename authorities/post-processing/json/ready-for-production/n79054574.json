@@ -1,0 +1,26 @@
+{
+   "lock_version" : "3",
+   "uri" : "/subjects/3697",
+   "publish" : "true",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Cortona (Italy)",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79054574.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Cortona (Italy)",
+   "authority_id" : "n79054574"
+}

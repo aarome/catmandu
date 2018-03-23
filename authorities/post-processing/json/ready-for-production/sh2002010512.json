@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/5214",
+   "authority_id" : "sh2002010512",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term" : "Ludovisi Throne",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2002010512.marcxml.xml"
+      }
+   ],
+   "lock_version" : "12",
+   "title" : "Ludovisi Throne",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject"
+}

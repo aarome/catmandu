@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n94089566.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Susa (Italy)",
+   "uri" : "/subjects/5070",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n94089566",
+   "terms" : [
+      {
+         "term" : "Susa (Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "lock_version" : "6"
+}

@@ -1,0 +1,26 @@
+{
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Bradford (West Yorkshire, England)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82127948.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Bradford (West Yorkshire, England)",
+   "uri" : "/subjects/6331",
+   "authority_id" : "n82127948"
+}

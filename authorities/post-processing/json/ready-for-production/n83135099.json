@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n83135099",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Caria",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/5498",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n83135099.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "10",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Caria"
+}

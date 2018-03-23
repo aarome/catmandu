@@ -1,0 +1,26 @@
+{
+   "title" : "Basilicata (Italy)",
+   "uri" : "/subjects/3726",
+   "publish" : "true",
+   "authority_id" : "n79063209",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79063209.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "18",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Basilicata (Italy)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

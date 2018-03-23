@@ -1,0 +1,26 @@
+{
+   "lock_version" : "9",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79089733.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6098",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Assisi (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "n79089733",
+   "jsonmodel_type" : "subject",
+   "title" : "Assisi (Italy)"
+}

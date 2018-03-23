@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "title" : "Biq (Lebanon : Province)",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n85346759",
+   "terms" : [
+      {
+         "term" : "Biq (Lebanon : Province)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n85346759.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/5645",
+   "lock_version" : "7",
+   "publish" : "true"
+}

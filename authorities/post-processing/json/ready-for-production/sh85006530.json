@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006530.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Arches",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "term" : "Arches",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "lock_version" : "79",
+   "authority_id" : "sh85006530",
+   "uri" : "/subjects/5612",
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1"
+}

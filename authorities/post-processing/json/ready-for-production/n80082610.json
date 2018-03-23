@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Etruria",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Etruria"
+      }
+   ],
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80082610.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/239",
+   "lock_version" : "42",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n80082610",
+   "created_by" : "web_services"
+}

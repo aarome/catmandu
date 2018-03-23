@@ -1,0 +1,26 @@
+{
+   "lock_version" : "12",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh91002965.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Bosco Parrasio (Rome, Italy)",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh91002965",
+   "uri" : "/subjects/5733",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Bosco Parrasio (Rome, Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "created_by" : "web_services"
+}

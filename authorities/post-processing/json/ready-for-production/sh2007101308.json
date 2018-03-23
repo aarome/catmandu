@@ -1,0 +1,33 @@
+{
+   "uri" : "/subjects/5310",
+   "created_by" : "web_services",
+   "authority_id" : "sh2007101308",
+   "lock_version" : "15",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Architecture",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2007101308.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "term" : "Architecture",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "FranceParis",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true"
+}

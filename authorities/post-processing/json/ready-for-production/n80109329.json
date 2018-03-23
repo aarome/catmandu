@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80109329.marcxml.xml"
+      }
+   ],
+   "title" : "Frascati (Italy)",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Frascati (Italy)"
+      }
+   ],
+   "authority_id" : "n80109329",
+   "publish" : "true",
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3688"
+}

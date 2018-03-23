@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3118",
+   "title" : "Terracina (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n85061455.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "17",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n85061455",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Terracina (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

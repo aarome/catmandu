@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Quirinal Hill (Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "uri" : "/subjects/4627",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "10",
+   "source" : "LCCN",
+   "authority_id" : "sh95006809",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh95006809.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Quirinal Hill (Italy)"
+}

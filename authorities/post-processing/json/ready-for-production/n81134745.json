@@ -1,0 +1,26 @@
+{
+   "lock_version" : "33",
+   "authority_id" : "n81134745",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n81134745.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Tivoli (Italy)",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Tivoli (Italy)"
+      }
+   ],
+   "uri" : "/subjects/3695",
+   "source" : "LCCN",
+   "created_by" : "web_services"
+}

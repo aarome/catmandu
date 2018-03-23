@@ -1,0 +1,26 @@
+{
+   "title" : "Capri Island (Italy)",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Capri Island (Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "authority_id" : "sh85020000",
+   "uri" : "/subjects/6743",
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85020000.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "3"
+}

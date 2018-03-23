@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "authority_id" : "sh85006703",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006703.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "29",
+   "title" : "Architecture, Ancient",
+   "uri" : "/subjects/2146",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Architecture, Ancient"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN"
+}

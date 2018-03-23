@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "uri" : "/subjects/5258",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85004139.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "22",
+   "authority_id" : "sh85004139",
+   "title" : "Amazons in art",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Amazons in art"
+      }
+   ]
+}

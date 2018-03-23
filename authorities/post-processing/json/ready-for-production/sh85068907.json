@@ -1,0 +1,33 @@
+{
+   "source" : "LCCN",
+   "title" : "Italy",
+   "lock_version" : "17",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Italy",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      },
+      {
+         "term_type" : "topical",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Description and travel",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85068907.marcxml.xml"
+      }
+   ],
+   "authority_id" : "sh85068907",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3590",
+   "jsonmodel_type" : "subject"
+}

@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh95000540",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh95000540.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Via Aurelia (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Via Aurelia (Italy)",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "uri" : "/subjects/4067",
+   "lock_version" : "17"
+}

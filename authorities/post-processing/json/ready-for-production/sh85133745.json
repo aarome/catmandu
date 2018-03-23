@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh85133745",
+   "source" : "LCCN",
+   "title" : "Temples",
+   "lock_version" : "22",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85133745.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/5488",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Temples",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      },
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Greece",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

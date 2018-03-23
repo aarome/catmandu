@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Nemi, Lake (Italy)",
+   "uri" : "/subjects/3036",
+   "authority_id" : "sh2004008862",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2004008862.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Nemi, Lake (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "lock_version" : "4"
+}

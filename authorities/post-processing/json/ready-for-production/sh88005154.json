@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Isola Tiberina (Rome, Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "51",
+   "source" : "LCCN",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh88005154.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh88005154",
+   "uri" : "/subjects/3948",
+   "title" : "Isola Tiberina (Rome, Italy)",
+   "vocabulary" : "/vocabularies/1"
+}

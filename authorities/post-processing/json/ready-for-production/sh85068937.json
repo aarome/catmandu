@@ -1,0 +1,40 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Italy",
+   "terms" : [
+      {
+         "term" : "Italy",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      },
+      {
+         "term" : "History",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services"
+      },
+      {
+         "term_type" : "temporal",
+         "created_by" : "web_services",
+         "term" : "To 476",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "authority_id" : "sh85068937",
+   "lock_version" : "76",
+   "uri" : "/subjects/220",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85068937.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1"
+}

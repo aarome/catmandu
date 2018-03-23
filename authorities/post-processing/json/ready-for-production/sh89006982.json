@@ -1,0 +1,33 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh89006982.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/5479",
+   "source" : "LCCN",
+   "title" : "Architecture",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "9",
+   "publish" : "true",
+   "authority_id" : "sh89006982",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Architecture",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      },
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Austria",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "lock_version" : "9",
+   "uri" : "/subjects/5898",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Giardino di Boboli (Florence, Italy)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh88005711.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Giardino di Boboli (Florence, Italy)",
+   "authority_id" : "sh88005711",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN"
+}

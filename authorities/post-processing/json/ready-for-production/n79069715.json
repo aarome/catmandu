@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "uri" : "/subjects/4897",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Morocco",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79069715.marcxml.xml"
+      }
+   ],
+   "title" : "Morocco",
+   "lock_version" : "12",
+   "authority_id" : "n79069715",
+   "created_by" : "web_services"
+}

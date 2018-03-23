@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "11",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Split (Croatia)",
+   "uri" : "/subjects/5374",
+   "publish" : "true",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Split (Croatia)"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n81008274.marcxml.xml"
+      }
+   ],
+   "authority_id" : "n81008274"
+}

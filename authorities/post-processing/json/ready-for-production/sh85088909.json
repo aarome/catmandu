@@ -1,0 +1,26 @@
+{
+   "lock_version" : "11",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Music-halls",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "created_by" : "web_services",
+   "title" : "Music-halls",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85088909.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6651",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "authority_id" : "sh85088909"
+}

@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85019969.marcxml.xml"
+      }
+   ],
+   "lock_version" : "10",
+   "authority_id" : "sh85019969",
+   "source" : "LCCN",
+   "title" : "Capitals (Architecture), Corinthian",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Capitals (Architecture), Corinthian",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "publish" : "true",
+   "uri" : "/subjects/7382",
+   "vocabulary" : "/vocabularies/1"
+}

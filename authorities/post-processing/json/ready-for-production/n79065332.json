@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "4",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79065332.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79065332",
+   "created_by" : "web_services",
+   "uri" : "/subjects/7142",
+   "source" : "LCCN",
+   "publish" : "true",
+   "title" : "Erice (Italy)",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Erice (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

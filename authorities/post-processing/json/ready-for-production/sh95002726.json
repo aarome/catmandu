@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh95002726.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Porta Nigra (Trier, Germany)",
+   "source" : "LCCN",
+   "uri" : "/subjects/3344",
+   "terms" : [
+      {
+         "term" : "Porta Nigra (Trier, Germany)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh95002726",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "2",
+   "created_by" : "web_services"
+}

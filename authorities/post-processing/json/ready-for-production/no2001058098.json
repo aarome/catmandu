@@ -1,0 +1,26 @@
+{
+   "title" : "Cori (Italy)",
+   "created_by" : "web_services",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "term" : "Cori (Italy)"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/no2001058098.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "no2001058098",
+   "uri" : "/subjects/5672"
+}

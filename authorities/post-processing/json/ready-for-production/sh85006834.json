@@ -1,0 +1,33 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Architecture, Modern",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Architecture, Modern",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      },
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "20th century",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "temporal"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/644",
+   "source" : "LCCN",
+   "authority_id" : "sh85006834",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "401",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006834.marcxml.xml"
+      }
+   ]
+}

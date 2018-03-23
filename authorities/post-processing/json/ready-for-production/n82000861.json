@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Salé (Morocco)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "authority_id" : "n82000861",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "11",
+   "title" : "Salé (Morocco)",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/4913",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82000861.marcxml.xml"
+      }
+   ]
+}

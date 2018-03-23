@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85074398.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh85074398",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Landscape architecture",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "44",
+   "title" : "Landscape architecture",
+   "source" : "LCCN",
+   "uri" : "/subjects/6659",
+   "created_by" : "web_services"
+}

@@ -1,0 +1,26 @@
+{
+   "lock_version" : "3",
+   "title" : "Castel Gandolfo (Italy)",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Castel Gandolfo (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n50058499.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/3690",
+   "authority_id" : "n50058499"
+}

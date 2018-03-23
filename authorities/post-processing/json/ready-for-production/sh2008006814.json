@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3064",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh2008006814",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Via Ostiense (Italy)"
+      }
+   ],
+   "lock_version" : "2",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008006814.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Via Ostiense (Italy)"
+}

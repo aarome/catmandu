@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "authority_id" : "n80076442",
+   "source" : "LCCN",
+   "lock_version" : "3",
+   "title" : "Rabat (Morocco)",
+   "uri" : "/subjects/4911",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Rabat (Morocco)"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80076442.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services"
+}

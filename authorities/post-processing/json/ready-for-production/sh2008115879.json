@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "term" : "Middle East",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Social conditions",
+         "term_type" : "topical",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "14",
+   "title" : "Middle East",
+   "uri" : "/subjects/7402",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008115879.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh2008115879"
+}

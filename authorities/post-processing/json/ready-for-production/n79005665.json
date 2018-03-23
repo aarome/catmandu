@@ -1,0 +1,26 @@
+{
+   "lock_version" : "43",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79005665",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79005665.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/7222",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "London (England)"
+      }
+   ],
+   "title" : "London (England)"
+}

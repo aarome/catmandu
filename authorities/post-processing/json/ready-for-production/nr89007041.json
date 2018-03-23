@@ -1,0 +1,26 @@
+{
+   "authority_id" : "nr89007041",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "lock_version" : "29",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/nr89007041.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/3785",
+   "title" : "Subayilah (Tunisia)",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Subayilah (Tunisia)"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

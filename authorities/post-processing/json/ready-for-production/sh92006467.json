@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "uri" : "/subjects/4015",
+   "jsonmodel_type" : "subject",
+   "title" : "Arch of Titus (Rome, Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh92006467.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "lock_version" : "61",
+   "authority_id" : "sh92006467",
+   "terms" : [
+      {
+         "term" : "Arch of Titus (Rome, Italy)",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN"
+}

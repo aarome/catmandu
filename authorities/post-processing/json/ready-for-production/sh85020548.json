@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85020548.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Caryatids",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Caryatids",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "lock_version" : "7",
+   "authority_id" : "sh85020548",
+   "uri" : "/subjects/5269",
+   "publish" : "true",
+   "jsonmodel_type" : "subject"
+}

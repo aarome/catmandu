@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "authority_id" : "sh85034465",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Cryptoporticus",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      }
+   ],
+   "lock_version" : "2",
+   "title" : "Cryptoporticus",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3681",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85034465.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true"
+}

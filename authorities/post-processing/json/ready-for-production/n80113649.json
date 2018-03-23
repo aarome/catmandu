@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "authority_id" : "n80113649",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80113649.marcxml.xml"
+      }
+   ],
+   "title" : "Siena (Italy : Province)",
+   "lock_version" : "34",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Siena (Italy : Province)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/6637"
+}

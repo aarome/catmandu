@@ -1,0 +1,33 @@
+{
+   "jsonmodel_type" : "subject",
+   "lock_version" : "3",
+   "authority_id" : "sh2009128768",
+   "uri" : "/subjects/6661",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term" : "Landscape architecture",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Designs and plans",
+         "term_type" : "genre_form",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2009128768.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Landscape architecture"
+}

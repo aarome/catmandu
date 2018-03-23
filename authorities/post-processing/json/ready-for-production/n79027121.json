@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "title" : "Mantua (Italy)",
+   "authority_id" : "n79027121",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79027121.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/5097",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Mantua (Italy)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "11",
+   "vocabulary" : "/vocabularies/1"
+}

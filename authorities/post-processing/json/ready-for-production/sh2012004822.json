@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2012004822.marcxml.xml"
+      }
+   ],
+   "authority_id" : "sh2012004822",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Ponte Vecchio (Florence, Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "lock_version" : "5",
+   "uri" : "/subjects/6843",
+   "publish" : "true",
+   "title" : "Ponte Vecchio (Florence, Italy)",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "created_by" : "web_services"
+}

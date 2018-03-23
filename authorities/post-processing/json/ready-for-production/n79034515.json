@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "title" : "Ciudad Real (Spain)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79034515.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Ciudad Real (Spain)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "lock_version" : "22",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79034515",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3789"
+}

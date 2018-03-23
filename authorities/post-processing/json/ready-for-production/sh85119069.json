@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5225",
+   "source" : "LCCN",
+   "title" : "Sculpture, Cypriot",
+   "lock_version" : "2",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Sculpture, Cypriot",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "sh85119069",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85119069.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

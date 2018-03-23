@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "authority_id" : "sh85019970",
+   "publish" : "true",
+   "uri" : "/subjects/4993",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85019970.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Capitals (Architecture), Ionic",
+   "lock_version" : "3",
+   "terms" : [
+      {
+         "term" : "Capitals (Architecture), Ionic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

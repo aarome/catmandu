@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "lock_version" : "3",
+   "uri" : "/subjects/6839",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Meknès (Morocco)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "authority_id" : "n80067218",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Meknès (Morocco)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80067218.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN"
+}

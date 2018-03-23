@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Triscina (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "4",
+   "authority_id" : "n2004014747",
+   "uri" : "/subjects/3747",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2004014747.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Triscina (Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

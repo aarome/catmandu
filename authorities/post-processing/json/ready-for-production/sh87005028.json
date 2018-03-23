@@ -1,0 +1,33 @@
+{
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "26",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Inscriptions, Latin",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh87005028.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Inscriptions, Latin",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Italy",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "sh87005028",
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/2332"
+}

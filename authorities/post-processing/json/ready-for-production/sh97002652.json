@@ -1,0 +1,26 @@
+{
+   "lock_version" : "24",
+   "title" : "Muses (Greek deities) in art",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "authority_id" : "sh97002652",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5268",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Muses (Greek deities) in art"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh97002652.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

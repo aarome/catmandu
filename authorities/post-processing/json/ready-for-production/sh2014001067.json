@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "title" : "Narce Site (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2014001067.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Narce Site (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh2014001067",
+   "lock_version" : "43",
+   "uri" : "/subjects/5724",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN"
+}

@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh85138788",
+   "publish" : "true",
+   "title" : "Turkey",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3591",
+   "lock_version" : "42",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Turkey",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Description and travel",
+         "term_type" : "topical"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85138788.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject"
+}

@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5656",
+   "title" : "Damascus (Syria)",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Damascus (Syria)",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "lock_version" : "8",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79143055.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "n79143055"
+}

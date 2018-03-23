@@ -1,0 +1,26 @@
+{
+   "lock_version" : "12",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Canterbury (England)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79145881",
+   "uri" : "/subjects/6334",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "title" : "Canterbury (England)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79145881.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

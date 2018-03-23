@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh2008100883",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "City planning"
+      },
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "ItalyRome"
+      }
+   ],
+   "lock_version" : "32",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008100883.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/6840",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "title" : "City planning"
+}

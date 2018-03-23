@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85088940",
+   "terms" : [
+      {
+         "term" : "Music rooms and equipment",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/7241",
+   "lock_version" : "6",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "title" : "Music rooms and equipment",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85088940.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject"
+}

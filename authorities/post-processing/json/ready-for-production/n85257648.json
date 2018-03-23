@@ -1,0 +1,26 @@
+{
+   "lock_version" : "8",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n85257648.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/3232",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n85257648",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Narni (Italy)"
+      }
+   ],
+   "title" : "Narni (Italy)"
+}

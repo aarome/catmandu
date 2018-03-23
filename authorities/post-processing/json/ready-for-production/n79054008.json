@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n79054008",
+   "uri" : "/subjects/7381",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "5",
+   "publish" : "true",
+   "title" : "Puglia (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79054008.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Puglia (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1"
+}

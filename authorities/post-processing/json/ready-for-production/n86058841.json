@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/7380",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n86058841.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Bitonto (Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "5",
+   "title" : "Bitonto (Italy)",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n86058841",
+   "publish" : "true"
+}

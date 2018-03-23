@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Paestum (Extinct city)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "33",
+   "title" : "Paestum (Extinct city)",
+   "uri" : "/subjects/7334",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85096568.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "sh85096568",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1"
+}

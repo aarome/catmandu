@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n81011160.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Brittany (France)",
+   "authority_id" : "n81011160",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Brittany (France)",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "publish" : "true",
+   "uri" : "/subjects/7153",
+   "created_by" : "web_services",
+   "lock_version" : "1"
+}

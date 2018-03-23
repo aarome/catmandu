@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85077280",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85077280.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/2903",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Lion in art",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Lion in art",
+   "lock_version" : "9",
+   "publish" : "true"
+}

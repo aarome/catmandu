@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "lock_version" : "85098588",
+   "authority_id" : "n85098588",
+   "terms" : [
+      {
+         "term" : "Ssah (Libya)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/n85098588",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n85098588.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Ssah (Libya)"
+}

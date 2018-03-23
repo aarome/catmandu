@@ -1,0 +1,26 @@
+{
+   "lock_version" : "22",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79021787.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Verona (Italy)",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79021787",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Verona (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/6696",
+   "vocabulary" : "/vocabularies/1"
+}

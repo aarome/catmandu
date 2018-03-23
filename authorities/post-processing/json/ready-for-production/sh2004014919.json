@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "lock_version" : "3",
+   "publish" : "true",
+   "source" : "LCCN",
+   "uri" : "/subjects/5194",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Clivus Scauri (Rome, Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "title" : "Clivus Scauri (Rome, Italy)",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh2004014919",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2004014919.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

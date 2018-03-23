@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n85309224",
+   "title" : "Artena (Italy)",
+   "terms" : [
+      {
+         "term" : "Artena (Italy)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "uri" : "/subjects/3187",
+   "source" : "LCCN",
+   "publish" : "true",
+   "lock_version" : "7",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n85309224.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

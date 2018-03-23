@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "uri" : "/subjects/3181",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n81003082",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Volterra (Italy)"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "6",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n81003082.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Volterra (Italy)",
+   "source" : "LCCN"
+}

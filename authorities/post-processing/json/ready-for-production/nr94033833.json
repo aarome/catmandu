@@ -1,0 +1,26 @@
+{
+   "authority_id" : "nr94033833",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/nr94033833.marcxml.xml"
+      }
+   ],
+   "lock_version" : "3",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6406",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Nettuno (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "title" : "Nettuno (Italy)"
+}

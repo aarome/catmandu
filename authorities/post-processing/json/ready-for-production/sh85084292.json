@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/5030",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "authority_id" : "sh85084292",
+   "lock_version" : "2",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Metapontum (Extinct city)",
+         "created_by" : "web_services"
+      }
+   ],
+   "title" : "Metapontum (Extinct city)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85084292.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "source" : "LCCN"
+}

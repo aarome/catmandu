@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85026282.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85026282",
+   "terms" : [
+      {
+         "term" : "City planning",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/7192",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "24",
+   "title" : "City planning"
+}

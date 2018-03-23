@@ -1,0 +1,26 @@
+{
+   "lock_version" : "7",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Metaponto (Italy)"
+      }
+   ],
+   "title" : "Metaponto (Italy)",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n88208577",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n88208577.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/7330",
+   "source" : "LCCN"
+}

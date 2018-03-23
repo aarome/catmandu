@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6758",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh89003444.marcxml.xml"
+      }
+   ],
+   "lock_version" : "6",
+   "authority_id" : "sh89003444",
+   "source" : "LCCN",
+   "publish" : "true",
+   "title" : "Ponte di Rialto (Venice, Italy)",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Ponte di Rialto (Venice, Italy)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services"
+}

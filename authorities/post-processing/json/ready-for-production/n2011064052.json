@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n2011064052.marcxml.xml"
+      }
+   ],
+   "lock_version" : "2",
+   "authority_id" : "n2011064052",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Pietole (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3173",
+   "publish" : "true",
+   "title" : "Pietole (Italy)",
+   "vocabulary" : "/vocabularies/1"
+}

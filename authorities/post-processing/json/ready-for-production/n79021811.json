@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Toledo (Spain)",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79021811.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Toledo (Spain)",
+   "source" : "LCCN",
+   "uri" : "/subjects/6805",
+   "lock_version" : "23",
+   "authority_id" : "n79021811"
+}

@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "4",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "arbulus (Libya : Province)"
+      }
+   ],
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n82077894.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "arbulus (Libya : Province)",
+   "authority_id" : "n82077894",
+   "uri" : "/subjects/3770"
+}

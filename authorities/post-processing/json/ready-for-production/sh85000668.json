@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85000668",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85000668.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Acropolis (Athens, Greece)"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/5569",
+   "lock_version" : "126",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "title" : "Acropolis (Athens, Greece)",
+   "created_by" : "web_services"
+}

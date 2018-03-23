@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85007777",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "20",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007777.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Art, Medieval",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Art, Medieval",
+         "term_type" : "topical"
+      }
+   ],
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/6376"
+}

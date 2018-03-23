@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3655",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "title" : "Vulci (Extinct city)",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "69",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Vulci (Extinct city)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85144468.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "sh85144468"
+}

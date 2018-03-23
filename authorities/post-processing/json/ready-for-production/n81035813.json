@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/6734",
+   "authority_id" : "n81035813",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81035813.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Northamptonshire (England)",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "3",
+   "title" : "Northamptonshire (England)",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "source" : "LCCN"
+}

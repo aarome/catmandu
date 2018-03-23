@@ -1,0 +1,26 @@
+{
+   "title" : "Art, Hellenistic",
+   "publish" : "true",
+   "authority_id" : "sh85007694",
+   "uri" : "/subjects/5406",
+   "lock_version" : "35",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Art, Hellenistic",
+         "term_type" : "topical"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007694.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

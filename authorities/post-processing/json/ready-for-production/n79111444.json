@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Caserta (Italy)"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n79111444",
+   "lock_version" : "26",
+   "publish" : "true",
+   "uri" : "/subjects/6154",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79111444.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Caserta (Italy)"
+}

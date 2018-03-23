@@ -1,0 +1,26 @@
+{
+   "title" : "Bolsena, Lake (Italy)",
+   "authority_id" : "sh93008660",
+   "uri" : "/subjects/5963",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Bolsena, Lake (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh93008660.marcxml.xml"
+      }
+   ],
+   "lock_version" : "3",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1"
+}

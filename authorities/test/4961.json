@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 21 Mar 2018 21:20:28 GMT
-Content-Type: application/json
-Cache-Control: private, must-revalidate, max-age=0
-Content-Length: 1101
-X-Content-Type-Options: nosniff
-Server: Jetty(8.1.5.v20120716)
-
-{"lock_version":6,"title":"Acqueducts","authority_id":"10033478","created_by":"web_services","last_modified_by":"l.ciuffa","create_time":"2015-06-29T21:24:19Z","system_mtime":"2018-02-15T15:48:16Z","user_mtime":"2018-02-15T15:48:16Z","source":"lcsh","jsonmodel_type":"subject","external_ids":[{"external_id":"9444346eee795d9ea2f1846f14f746c8","source":"Catmandu","created_by":"l.ciuffa","last_modified_by":"l.ciuffa","create_time":"2018-02-15T15:48:16Z","system_mtime":"2018-02-15T15:48:16Z","user_mtime":"2018-02-15T15:48:16Z","jsonmodel_type":"external_id"}],"publish":true,"used_within_repositories":["/repositories/9"],"used_within_published_repositories":["/repositories/9"],"terms":[{"lock_version":0,"term":"Acqueducts","created_by":"admin","last_modified_by":"admin","create_time":"2017-02-26T21:55:30Z","system_mtime":"2017-02-26T21:55:30Z","user_mtime":"2017-02-26T21:55:30Z","term_type":"topical","jsonmodel_type":"term","uri":"/terms/5032","vocabulary":"/vocabularies/1"}],"external_documents":[],"uri":"/subjects/4961","vocabulary":"/vocabularies/1","is_linked_to_published_record":true}

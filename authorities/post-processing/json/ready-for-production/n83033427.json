@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n83033427.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/3119",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "term" : "Cerveteri (Italy)"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "32",
+   "publish" : "true",
+   "title" : "Cerveteri (Italy)",
+   "authority_id" : "n83033427"
+}

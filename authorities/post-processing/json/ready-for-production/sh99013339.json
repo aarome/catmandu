@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "215",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99013339.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "sh99013339",
+   "publish" : "true",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Baths, Roman"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/3684",
+   "title" : "Baths, Roman"
+}

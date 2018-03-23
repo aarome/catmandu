@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "uri" : "/subjects/7371",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh99000442",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99000442.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Ivories, Roman",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "lock_version" : "13",
+   "title" : "Ivories, Roman"
+}

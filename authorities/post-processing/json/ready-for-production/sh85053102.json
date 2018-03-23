@@ -1,0 +1,33 @@
+{
+   "lock_version" : "7",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85053102.marcxml.xml"
+      }
+   ],
+   "title" : "Gardens",
+   "source" : "LCCN",
+   "authority_id" : "sh85053102",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Gardens"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Design",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical"
+      }
+   ],
+   "uri" : "/subjects/5730"
+}

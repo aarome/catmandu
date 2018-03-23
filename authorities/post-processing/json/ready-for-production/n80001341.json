@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Fiesole (Italy)"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "4",
+   "source" : "LCCN",
+   "title" : "Fiesole (Italy)",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n80001341",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80001341.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/3709",
+   "created_by" : "web_services"
+}

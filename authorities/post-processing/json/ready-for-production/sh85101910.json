@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "sh85101910",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85101910.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/5195",
+   "title" : "Piazza San Pietro (Vatican City)",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Piazza San Pietro (Vatican City)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "94"
+}

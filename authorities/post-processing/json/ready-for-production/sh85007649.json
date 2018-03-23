@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Art, Etruscan",
+   "authority_id" : "sh85007649",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007649.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "129",
+   "uri" : "/subjects/2168",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Art, Etruscan",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "created_by" : "web_services"
+}

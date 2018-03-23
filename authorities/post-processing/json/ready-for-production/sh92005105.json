@@ -1,0 +1,33 @@
+{
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/sh92005105",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Dwellings",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Tunisia",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "92005105",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh92005105.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Dwellings",
+   "authority_id" : "sh92005105",
+   "created_by" : "web_services"
+}

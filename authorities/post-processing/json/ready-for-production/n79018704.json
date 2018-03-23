@@ -1,0 +1,26 @@
+{
+   "lock_version" : "860",
+   "authority_id" : "n79018704",
+   "jsonmodel_type" : "subject",
+   "title" : "Rome (Italy)",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Rome (Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7206",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79018704.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

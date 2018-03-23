@@ -1,0 +1,33 @@
+{
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7411",
+   "title" : "Coasts",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Coasts"
+      },
+      {
+         "term" : "Italy",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "sh85027470",
+   "lock_version" : "5",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85027470.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true"
+}

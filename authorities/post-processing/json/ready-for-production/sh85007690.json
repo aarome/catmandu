@@ -1,0 +1,26 @@
+{
+   "lock_version" : "66",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Art, Greek",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      }
+   ],
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007690.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5409",
+   "title" : "Art, Greek",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85007690"
+}

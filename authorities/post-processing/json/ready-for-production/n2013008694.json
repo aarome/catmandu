@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Marcus Aurelius (Rome, Italy)",
+         "jsonmodel_type" : "term",
+         "term_type" : "uniform_title"
+      }
+   ],
+   "title" : "Marcus Aurelius (Rome, Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2013008694.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "n2013008694",
+   "uri" : "/subjects/n2013008694",
+   "lock_version" : "2013008694"
+}

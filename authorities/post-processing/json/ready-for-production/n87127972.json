@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "n87127972",
+   "lock_version" : "3",
+   "uri" : "/subjects/4740",
+   "title" : "Constantine (Algeria)",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Constantine (Algeria)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n87127972.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject"
+}

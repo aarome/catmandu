@@ -1,0 +1,26 @@
+{
+   "title" : "Museums",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85088723",
+   "terms" : [
+      {
+         "term" : "Museums",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85088723.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/6663",
+   "publish" : "true",
+   "lock_version" : "51",
+   "jsonmodel_type" : "subject"
+}

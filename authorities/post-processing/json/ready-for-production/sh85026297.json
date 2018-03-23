@@ -1,0 +1,26 @@
+{
+   "title" : "City walls",
+   "lock_version" : "99",
+   "publish" : "true",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "City walls"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85026297.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/2320",
+   "authority_id" : "sh85026297",
+   "vocabulary" : "/vocabularies/1"
+}

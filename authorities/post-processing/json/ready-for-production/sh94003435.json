@@ -1,0 +1,26 @@
+{
+   "title" : "Ara Pacis (Rome, Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "8",
+   "uri" : "/subjects/5179",
+   "terms" : [
+      {
+         "term" : "Ara Pacis (Rome, Italy)",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh94003435.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "authority_id" : "sh94003435"
+}

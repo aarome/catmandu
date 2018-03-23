@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/7313",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80049716.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Portugal",
+   "authority_id" : "n80049716",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Portugal"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "7"
+}

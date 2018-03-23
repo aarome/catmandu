@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "uri" : "/subjects/6725",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "20",
+   "title" : "Salamanca (Spain : Province)",
+   "terms" : [
+      {
+         "term" : "Salamanca (Spain : Province)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "n79038537",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79038537.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

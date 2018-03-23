@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Flint"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh85049132",
+   "lock_version" : "117",
+   "source" : "LCCN",
+   "title" : "Flint",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/314",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85049132.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

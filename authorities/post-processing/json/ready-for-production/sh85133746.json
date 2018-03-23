@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "16",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "Temples",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Italy",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "title" : "Temples",
+   "uri" : "/subjects/3701",
+   "source" : "LCCN",
+   "authority_id" : "sh85133746",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85133746.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

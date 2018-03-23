@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99013442.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Column of Marcus Aurelius (Rome, Italy)",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh99013442",
+   "title" : "Column of Marcus Aurelius (Rome, Italy)",
+   "uri" : "/subjects/5238",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "2"
+}

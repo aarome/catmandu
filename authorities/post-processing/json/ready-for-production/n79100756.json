@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/6147",
+   "jsonmodel_type" : "subject",
+   "title" : "Varese (Italy : Province)",
+   "authority_id" : "n79100756",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79100756.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Varese (Italy : Province)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "lock_version" : "29",
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services"
+}

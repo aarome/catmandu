@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "lock_version" : "41",
+   "terms" : [
+      {
+         "term" : "Rhône-Alpes (France)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80123342.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7162",
+   "created_by" : "web_services",
+   "title" : "Rhône-Alpes (France)",
+   "authority_id" : "n80123342",
+   "source" : "LCCN"
+}

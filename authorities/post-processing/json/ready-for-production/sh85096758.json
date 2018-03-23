@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "lock_version" : "206",
+   "source" : "LCCN",
+   "uri" : "/subjects/7326",
+   "title" : "Painting, Italian",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85096758.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85096758",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Painting, Italian",
+         "created_by" : "web_services"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true"
+}

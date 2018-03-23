@@ -1,0 +1,26 @@
+{
+   "lock_version" : "34",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "title" : "Milan (Italy : Province)",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6157",
+   "authority_id" : "n79097457",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Milan (Italy : Province)"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79097457.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN"
+}

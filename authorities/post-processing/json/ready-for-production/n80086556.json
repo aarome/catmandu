@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3034",
+   "title" : "Ariccia (Italy)",
+   "publish" : "true",
+   "source" : "LCCN",
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n80086556",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Ariccia (Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80086556.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services"
+}

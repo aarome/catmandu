@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7018",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Church architecture",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85025567.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85025567",
+   "jsonmodel_type" : "subject",
+   "title" : "Church architecture",
+   "lock_version" : "142",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "source" : "LCCN"
+}

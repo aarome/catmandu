@@ -1,0 +1,26 @@
+{
+   "lock_version" : "13",
+   "authority_id" : "n86029437",
+   "uri" : "/subjects/3980",
+   "title" : "Testaccio (Rome, Italy)",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Testaccio (Rome, Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n86029437.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject"
+}

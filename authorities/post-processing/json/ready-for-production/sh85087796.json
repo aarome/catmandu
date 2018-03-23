@@ -1,0 +1,33 @@
+{
+   "title" : "Mountain passes",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3335",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Mountain passes",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      },
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Switzerland"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85087796.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "sh85087796",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1"
+}

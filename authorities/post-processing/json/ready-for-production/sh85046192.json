@@ -1,0 +1,33 @@
+{
+   "terms" : [
+      {
+         "term" : "Excavations (Archaeology)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services"
+      },
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "term" : "Tunisia"
+      }
+   ],
+   "lock_version" : "8",
+   "title" : "Excavations (Archaeology)",
+   "publish" : "true",
+   "authority_id" : "sh85046192",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7145",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85046192.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN"
+}

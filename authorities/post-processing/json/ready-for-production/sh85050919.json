@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "title" : "Fortification",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "uri" : "/subjects/7418",
+   "terms" : [
+      {
+         "term" : "Fortification",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "lock_version" : "14",
+   "authority_id" : "sh85050919",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85050919.marcxml.xml"
+      }
+   ]
+}

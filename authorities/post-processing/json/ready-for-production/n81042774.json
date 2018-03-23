@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "uri" : "/subjects/6850",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81042774.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Lisieux (France)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "title" : "Lisieux (France)",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n81042774",
+   "lock_version" : "5",
+   "vocabulary" : "/vocabularies/1"
+}

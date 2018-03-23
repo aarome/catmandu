@@ -1,0 +1,26 @@
+{
+   "title" : "Cesano (Rome, Italy)",
+   "uri" : "/subjects/3657",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "no2012036178",
+   "source" : "LCCN",
+   "lock_version" : "2",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/no2012036178.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Cesano (Rome, Italy)"
+      }
+   ]
+}

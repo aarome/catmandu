@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh99003347",
+   "lock_version" : "13",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99003347.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Forum (Pompeii)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/3957",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Forum (Pompeii)",
+   "vocabulary" : "/vocabularies/1"
+}

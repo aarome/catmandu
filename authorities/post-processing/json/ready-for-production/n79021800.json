@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Amalfi (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "n79021800",
+   "source" : "LCCN",
+   "lock_version" : "7",
+   "uri" : "/subjects/6092",
+   "title" : "Amalfi (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79021800.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

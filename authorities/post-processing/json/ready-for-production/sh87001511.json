@@ -1,0 +1,26 @@
+{
+   "lock_version" : "5",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5358",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Thibilis (Extinct city)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "title" : "Thibilis (Extinct city)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh87001511.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh87001511"
+}

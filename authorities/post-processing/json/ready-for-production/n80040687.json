@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3280",
+   "authority_id" : "n80040687",
+   "created_by" : "web_services",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Valle d'Aosta (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80040687.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Valle d'Aosta (Italy)"
+}

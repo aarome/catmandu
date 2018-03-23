@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/4975",
+   "lock_version" : "29",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2012003145.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh2012003145",
+   "jsonmodel_type" : "subject",
+   "title" : "Gigthis (Extinct city)",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Gigthis (Extinct city)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

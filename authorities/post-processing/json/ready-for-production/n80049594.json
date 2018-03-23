@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "240",
+   "authority_id" : "n80049594",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Formia (Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80049594.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "uri" : "/subjects/2210",
+   "title" : "Formia (Italy)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services"
+}

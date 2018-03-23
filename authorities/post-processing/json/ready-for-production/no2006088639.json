@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/no2006088639.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/3781",
+   "created_by" : "web_services",
+   "lock_version" : "4",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Biskra (Algeria)",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "no2006088639",
+   "source" : "LCCN",
+   "title" : "Biskra (Algeria)"
+}

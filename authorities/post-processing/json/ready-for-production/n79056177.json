@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "authority_id" : "n79056177",
+   "lock_version" : "27",
+   "uri" : "/subjects/6724",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Salamanca (Spain)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79056177.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Salamanca (Spain)"
+}

@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "title" : "Campagna di Roma (Italy)",
+   "lock_version" : "7",
+   "uri" : "/subjects/7413",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Campagna di Roma (Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85019184.marcxml.xml"
+      }
+   ],
+   "authority_id" : "sh85019184",
+   "vocabulary" : "/vocabularies/1"
+}

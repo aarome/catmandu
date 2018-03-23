@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Badenweiler (Germany)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "n2003057451",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3340",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "lock_version" : "2",
+   "title" : "Badenweiler (Germany)",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2003057451.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true"
+}

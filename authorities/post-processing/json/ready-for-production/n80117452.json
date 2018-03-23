@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Tours (France)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n80117452",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80117452.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Tours (France)",
+   "lock_version" : "5",
+   "created_by" : "web_services",
+   "uri" : "/subjects/6851"
+}

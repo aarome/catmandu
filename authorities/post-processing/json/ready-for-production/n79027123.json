@@ -1,0 +1,26 @@
+{
+   "title" : "Padua (Italy : Province)",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79027123",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Padua (Italy : Province)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79027123.marcxml.xml"
+      }
+   ],
+   "lock_version" : "9",
+   "source" : "LCCN",
+   "uri" : "/subjects/6074"
+}

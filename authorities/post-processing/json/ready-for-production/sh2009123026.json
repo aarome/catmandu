@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh2009123026",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Decoration and ornament, Architectural",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "term" : "ItalyRome",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "28",
+   "uri" : "/subjects/5177",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2009123026.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Decoration and ornament, Architectural"
+}

@@ -1,0 +1,16 @@
+{
+   "authority_id" : "sh99002035",
+   "lock_version" : "99",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh99002035.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/2338",
+   "created_by" : "web_services"
+}

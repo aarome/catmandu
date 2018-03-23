@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Architecture, Gothic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85006792",
+   "uri" : "/subjects/5592",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006792.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "lock_version" : "25",
+   "title" : "Architecture, Gothic",
+   "created_by" : "web_services"
+}

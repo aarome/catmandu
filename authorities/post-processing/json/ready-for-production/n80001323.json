@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80001323.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Avila (Spain)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "title" : "Avila (Spain)",
+   "created_by" : "web_services",
+   "lock_version" : "18",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7216",
+   "source" : "LCCN",
+   "authority_id" : "n80001323"
+}

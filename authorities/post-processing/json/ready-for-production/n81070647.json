@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "lock_version" : "12",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "title" : "Corsica (France)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n81070647.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n81070647",
+   "uri" : "/subjects/224",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Corsica (France)",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}

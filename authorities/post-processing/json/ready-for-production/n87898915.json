@@ -1,0 +1,26 @@
+{
+   "title" : "Olevano Romano (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "2",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Olevano Romano (Italy)"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n87898915",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n87898915.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/5074"
+}

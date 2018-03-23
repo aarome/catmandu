@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "title" : "Lindhos (Greece)",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "uri" : "/subjects/n78022903",
+   "authority_id" : "n78022903",
+   "lock_version" : "78022903",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n78022903.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Lindhos (Greece)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

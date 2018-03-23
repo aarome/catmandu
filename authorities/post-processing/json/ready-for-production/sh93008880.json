@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh93008880.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "54",
+   "authority_id" : "sh93008880",
+   "uri" : "/subjects/7298",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "title" : "Amiternum (Extinct city)",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Amiternum (Extinct city)"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

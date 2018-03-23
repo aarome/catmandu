@@ -1,0 +1,26 @@
+{
+   "lock_version" : "4",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "title" : "Nazareth (Israel)",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Nazareth (Israel)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "authority_id" : "n80093429",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80093429.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/7253"
+}

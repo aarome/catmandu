@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "19",
+   "terms" : [
+      {
+         "term" : "Tigris River",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85135330.marcxml.xml"
+      }
+   ],
+   "title" : "Tigris River",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh85135330",
+   "source" : "LCCN",
+   "uri" : "/subjects/7393",
+   "publish" : "true"
+}

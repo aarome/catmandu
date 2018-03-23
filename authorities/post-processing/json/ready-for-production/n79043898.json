@@ -1,0 +1,26 @@
+{
+   "lock_version" : "37",
+   "uri" : "/subjects/7338",
+   "created_by" : "web_services",
+   "authority_id" : "n79043898",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Latina (Italy : Province)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79043898.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Latina (Italy : Province)",
+   "source" : "LCCN"
+}

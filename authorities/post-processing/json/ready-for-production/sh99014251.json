@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99014251.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Tusculum (Extinct city)",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh99014251",
+   "lock_version" : "28",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "source" : "LCCN",
+   "uri" : "/subjects/3042",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Tusculum (Extinct city)"
+      }
+   ]
+}

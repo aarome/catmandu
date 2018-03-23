@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "5",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Argolis (Greece)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/7256",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82163992.marcxml.xml"
+      }
+   ],
+   "title" : "Argolis (Greece)",
+   "authority_id" : "n82163992",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "publish" : "true"
+}

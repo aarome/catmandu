@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "uri" : "/subjects/5653",
+   "title" : "Lebanon",
+   "lock_version" : "10",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Lebanon",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79090014.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "n79090014",
+   "vocabulary" : "/vocabularies/1"
+}

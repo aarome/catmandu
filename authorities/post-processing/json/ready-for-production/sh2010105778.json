@@ -1,0 +1,33 @@
+{
+   "uri" : "/subjects/2080",
+   "title" : "Painting",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Painting"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "term" : "ItalyRome",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2010105778.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "6",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh2010105778"
+}

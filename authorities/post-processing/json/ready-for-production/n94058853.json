@@ -1,0 +1,26 @@
+{
+   "lock_version" : "7",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n94058853.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/3196",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n94058853",
+   "created_by" : "web_services",
+   "title" : "Lari (Italy)",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Lari (Italy)",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true"
+}

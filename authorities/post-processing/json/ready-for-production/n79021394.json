@@ -1,0 +1,26 @@
+{
+   "title" : "Bologna (Italy)",
+   "source" : "LCCN",
+   "authority_id" : "n79021394",
+   "created_by" : "web_services",
+   "lock_version" : "5",
+   "uri" : "/subjects/6104",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79021394.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Bologna (Italy)"
+      }
+   ],
+   "jsonmodel_type" : "subject"
+}

@@ -1,0 +1,26 @@
+{
+   "lock_version" : "24",
+   "authority_id" : "n94025689",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Khums (Libya)",
+         "created_by" : "web_services"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n94025689.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "uri" : "/subjects/3757",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Khums (Libya)"
+}

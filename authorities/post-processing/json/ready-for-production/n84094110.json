@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Idf (Egypt)"
+      }
+   ],
+   "title" : "Idf (Egypt)",
+   "lock_version" : "6",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n84094110",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7021",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n84094110.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "title" : "Florence (Italy)",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Florence (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79027120.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/6082",
+   "publish" : "true",
+   "lock_version" : "44",
+   "authority_id" : "n79027120"
+}

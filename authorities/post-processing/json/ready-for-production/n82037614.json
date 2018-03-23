@@ -1,0 +1,26 @@
+{
+   "lock_version" : "5",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Bracciano (Italy)",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n82037614",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Bracciano (Italy)"
+      }
+   ],
+   "uri" : "/subjects/6117",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n82037614.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

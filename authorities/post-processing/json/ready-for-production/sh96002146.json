@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "authority_id" : "sh96002146",
+   "uri" : "/subjects/4701",
+   "title" : "Forum of Augustus (Rome, Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh96002146.marcxml.xml"
+      }
+   ],
+   "lock_version" : "1",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Forum of Augustus (Rome, Italy)"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1"
+}

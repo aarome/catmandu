@@ -1,0 +1,26 @@
+{
+   "lock_version" : "42",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79021799.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Parma (Italy)",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/6144",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "authority_id" : "n79021799",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "title" : "Parma (Italy)"
+}

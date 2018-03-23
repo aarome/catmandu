@@ -1,0 +1,33 @@
+{
+   "title" : "Sicily (Italy)",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/3286",
+   "lock_version" : "49",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Sicily (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Antiquities"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2008116965.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "sh2008116965"
+}

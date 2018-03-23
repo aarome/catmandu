@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "5",
+   "authority_id" : "n79072715",
+   "terms" : [
+      {
+         "term" : "Rouen (France)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Rouen (France)",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79072715.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/6853",
+   "publish" : "true",
+   "created_by" : "web_services"
+}

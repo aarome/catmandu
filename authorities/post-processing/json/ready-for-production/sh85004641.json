@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/418",
+   "authority_id" : "sh85004641",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "lock_version" : "80",
+   "jsonmodel_type" : "subject",
+   "title" : "Amphoras",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Amphoras",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85004641.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

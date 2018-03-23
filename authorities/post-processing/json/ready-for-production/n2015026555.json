@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n2015026555",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Patmos (Greece : Municipality)",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Patmos (Greece : Municipality)",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5549",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "2",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2015026555.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "uri" : "/subjects/5625",
+   "created_by" : "web_services",
+   "lock_version" : "8",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Bethlehem",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "title" : "Bethlehem",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82056740.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "n82056740"
+}

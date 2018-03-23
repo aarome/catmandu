@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Lead",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85075435.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85075435",
+   "lock_version" : "4",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Lead",
+   "source" : "LCCN",
+   "uri" : "/subjects/330"
+}

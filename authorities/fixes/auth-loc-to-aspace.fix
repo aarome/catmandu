@@ -1,7 +1,18 @@
 # MARCXML to JSON processor
-# Maps LC MARCXML fields to ArchivesSpace-ready JSON
+# Maps LC MARCXML authorities to ArchivesSpace-ready JSON subjects
+
+# Ignore personal and corporate names
+
+if marc_match(100a,'.+')
+	reject()
+end
+
+if marc_match(110a,'.+')
+	reject()
+end
 
 # Remove fields we can't use in ArchivesSpace
+
 marc_remove(005)
 marc_remove(008)
 marc_remove(010)
@@ -15,31 +26,164 @@ marc_remove(6**)
 marc_map(001,authority_id)
 marc_map(003,source)
 
-# Subjects - main entry xwalks
-#
+# Add static fields
+
+add_field('created_by','web_services')
+add_field('jsonmodel_type','subject')
+add_field('source','LCCN')
+add_field('publish','true')
+add_field('vocabulary','/vocabularies/1')
+	
 # 130 Uniform titles - uniform_title
-# 147 Named event - temporal
-# 148 Chronological Term - temporal
-# 150 Topical Term - uniform_title
-# 151 Geographic Name - geographic
-# 155 Genre/Form Term - genre_form
-#
-# cultural_context?
-# style_period?
-#
-# walk 1**a data field to title property
+#	$p - merge with title (part or section of work)	
 
 if marc_match(130a,'.+')
-	marc_map('130a','title') 
-  add_field('terms.0.term_type','uniform_title')
+	add_field('terms.0.term_type','uniform_title')
+	marc_map(130a,'title.$append') 
+	marc_map(130p,'title.$append')
+	join_field('title',' -- ') 
+	copy_field('title','terms.0.term')
 end
 
-copy_field('title','terms.0.term')
-add_field('terms.0.jsonmodel_type','term')
-add_field('terms.0.vocabulary','/vocabulary/1')
-add_field('terms.0.created_by','web_services')
+# 150 Topical Term - topical
+#	$v - genre_form
+#	$z - geographic		
+#	$x - topical (general)		
+#	$y - temporal	
 
+if marc_match(150a,'.+')
+	add_field('terms.0.term_type','topical')
+	marc_map(150a,'title') 
+	marc_map(150a,'terms.0.term')
+end
+
+if marc_match(150v,'.+')
+  add_field('terms.1.term_type','genre_form')
+  marc_map(150v,'terms.1.term')
+end
+
+if marc_match(150z,'.+')
+  add_field('terms.2.term_type','geographic')
+  marc_map(150z,'terms.2.term')
+end
+
+if marc_match(150x,'.+')
+  add_field('terms.3.term_type','topical')
+  marc_map(150x,'terms.3.term')
+end
+
+if marc_match(150y,'.+')
+  add_field('terms.4.term_type','temporal')
+  marc_map(150y,'terms.4.term')
+end
+
+# 151 Geographic Name - geographic
+#	$x - topical		
+#	$y - temporal		
+#	$v - genre_form	
+
+if marc_match(151a,'.+')
+	marc_map(151a,'title') 
+  add_field('terms.0.term_type','geographic')
+  marc_map(151a,'terms.0.term')
+end
+
+if marc_match(151x,'.+')
+  add_field('terms.1.term_type','topical')
+  marc_map(151x,'terms.1.term')
+end
+
+if marc_match(151y,'.+')
+  add_field('terms.2.term_type','temporal')
+  marc_map(151y,'terms.2.term')
+end
+
+if marc_match(151z,'.+')
+  add_field('terms.3.term_type','genre_form')
+  marc_map(151z,'terms.3.term')
+end
+
+# 180		
+#	$x - merge with title (topical, general)	
+
+if marc_match(180a,'.+')
+	add_field('terms.4.term_type','uniform_title')
+	marc_map(180a,'title.$append') 
+	marc_map(180x,'title.$append')
+	join_field('title',' -- ')
+	copy_field('title','terms.4.term') 
+end
+
+# Add static fields to terms sub-array
+
+if any_match('terms.0.term','.+')
+	add_field('terms.0.jsonmodel_type','term')
+	add_field('terms.0.vocabulary','/vocabularies/1')
+	add_field('terms.0.created_by','web_services')
+end
+
+if any_match('terms.1.term','.+')
+	add_field('terms.1.jsonmodel_type','term')
+	add_field('terms.1.vocabulary','/vocabularies/1')
+	add_field('terms.1.created_by','web_services')
+end
+
+if any_match('terms.2.term','.+')
+	add_field('terms.2.jsonmodel_type','term')
+	add_field('terms.2.vocabulary','/vocabularies/1')
+	add_field('terms.2.created_by','web_services')
+end
+
+if any_match('terms.3.term','.+')
+	add_field('terms.3.jsonmodel_type','term')
+	add_field('terms.3.vocabulary','/vocabularies/1')
+	add_field('terms.3.created_by','web_services')
+end
+
+if any_match('terms.4.term','.+')
+	add_field('terms.4.jsonmodel_type','term')
+	add_field('terms.4.vocabulary','/vocabularies/1')
+	add_field('terms.4.created_by','web_services')
+end
+
+# Create external documents sub-array
+
+add_field('external_documents.0.title','Library of Congress Authority record')
+
+# Process external documents
+# Strip numbers from 001 field
+
+copy_field('authority_id','temp')
+	if any_match('temp','n')
+		copy_field('authority_id','external_documents.0.location')
+		prepend('external_documents.0.location','http://id.loc.gov/authorities/names/')
+		remove_field('temp')
+	end
+
+	if any_match('temp','sh')
+		copy_field('authority_id','external_documents.0.location')
+		prepend('external_documents.0.location','http://id.loc.gov/authorities/subjects/')
+		remove_field('temp')
+	end
+
+append('external_documents.0.location','.marcxml.xml')	
+
+# Copy LC authority id to uri field
+# then lookup ArchivesSpace subject uri
+
+copy_field('authority_id','aspace-subject-id')
+lookup('aspace-subject-id','lists/auth-to-subjects.csv',sep_char:',')
+prepend('aspace-subject-id','/subjects/')
+copy_field('aspace-subject-id','uri')
+
+# Lookup lock verson
+
+move_field('aspace-subject-id','lock_version')
+replace_all('lock_version','[^0-9]','')
+lookup('lock_version','lists/auth-to-subjects-lock-versions.csv')
 
 # Clean up JSON 
+
 remove_field(_id)
 remove_field(record)
+vacuum()

@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh95008906.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh95008906",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Campanile di San Marco (Venice, Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/3227",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "3",
+   "title" : "Campanile di San Marco (Venice, Italy)"
+}

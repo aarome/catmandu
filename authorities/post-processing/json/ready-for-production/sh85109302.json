@@ -1,0 +1,33 @@
+{
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "sh85109302",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Pyramids"
+      },
+      {
+         "term" : "Egypt",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/5004",
+   "lock_version" : "9",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Pyramids",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85109302.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

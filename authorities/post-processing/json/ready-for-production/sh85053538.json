@@ -1,0 +1,26 @@
+{
+   "lock_version" : "16",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Gaul"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh85053538",
+   "uri" : "/subjects/256",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85053538.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Gaul"
+}

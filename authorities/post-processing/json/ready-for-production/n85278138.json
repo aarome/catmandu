@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n85278138.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/5037",
+   "source" : "LCCN",
+   "authority_id" : "n85278138",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "2",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Vibo Valentia (Italy)",
+         "term_type" : "geographic",
+         "created_by" : "web_services"
+      }
+   ],
+   "title" : "Vibo Valentia (Italy)",
+   "publish" : "true"
+}

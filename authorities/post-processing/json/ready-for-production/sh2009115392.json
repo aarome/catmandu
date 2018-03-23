@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "title" : "Architecture, Baroque",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2009115392.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "sh2009115392",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6156",
+   "terms" : [
+      {
+         "term" : "Architecture, Baroque",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      },
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Italy",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "25"
+}

@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/3353",
+   "title" : "Heidelberg (Germany)",
+   "authority_id" : "n81096075",
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Heidelberg (Germany)",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81096075.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "3",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

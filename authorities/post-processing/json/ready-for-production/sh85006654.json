@@ -1,0 +1,33 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "157",
+   "created_by" : "web_services",
+   "uri" : "/subjects/5489",
+   "title" : "Architecture",
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006654.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "sh85006654",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "Architecture",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Greece",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ]
+}

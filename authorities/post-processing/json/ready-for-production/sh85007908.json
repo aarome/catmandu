@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85007908",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007908.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "uri" : "/subjects/3786",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Art, Spanish",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "66",
+   "title" : "Art, Spanish"
+}

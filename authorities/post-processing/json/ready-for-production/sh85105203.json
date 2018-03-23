@@ -1,0 +1,26 @@
+{
+   "title" : "Portraits, Group",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "216",
+   "terms" : [
+      {
+         "term" : "Portraits, Group",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "uri" : "/subjects/7196",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85105203",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85105203.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

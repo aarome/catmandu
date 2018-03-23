@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/5954",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Grand Canal (Venice, Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "sh89003458",
+   "jsonmodel_type" : "subject",
+   "title" : "Grand Canal (Venice, Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh89003458.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "2"
+}

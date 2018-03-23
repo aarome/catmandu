@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Brindisi (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "n82028276",
+   "title" : "Brindisi (Italy)",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "3",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82028276.marcxml.xml"
+      }
+   ],
+   "uri" : "/subjects/5096"
+}

@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term" : "Manors",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      },
+      {
+         "term" : "England",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "76",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85080616.marcxml.xml"
+      }
+   ],
+   "authority_id" : "sh85080616",
+   "created_by" : "web_services",
+   "uri" : "/subjects/6337",
+   "title" : "Manors",
+   "source" : "LCCN"
+}

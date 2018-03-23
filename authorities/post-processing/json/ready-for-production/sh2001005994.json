@@ -1,0 +1,26 @@
+{
+   "title" : "Falerii Novi (Extinct city)",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Falerii Novi (Extinct city)"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh2001005994",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2001005994.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "3",
+   "uri" : "/subjects/5671",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject"
+}

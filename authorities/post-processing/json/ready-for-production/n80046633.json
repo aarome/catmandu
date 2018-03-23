@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80046633.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Goslar (Germany)",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Goslar (Germany)"
+      }
+   ],
+   "publish" : "true",
+   "uri" : "/subjects/3357",
+   "authority_id" : "n80046633",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1"
+}

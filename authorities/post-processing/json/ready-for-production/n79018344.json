@@ -1,0 +1,26 @@
+{
+   "title" : "Tuscany (Italy)",
+   "source" : "LCCN",
+   "authority_id" : "n79018344",
+   "uri" : "/subjects/2335",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "lock_version" : "8323",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79018344.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Tuscany (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "created_by" : "web_services"
+}

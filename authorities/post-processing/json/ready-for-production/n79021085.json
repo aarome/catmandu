@@ -1,0 +1,26 @@
+{
+   "title" : "Cagliari (Italy)",
+   "publish" : "true",
+   "lock_version" : "9",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79021085.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Cagliari (Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "authority_id" : "n79021085",
+   "uri" : "/subjects/3749"
+}

@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79077528.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Strasbourg (France)"
+      }
+   ],
+   "title" : "Strasbourg (France)",
+   "publish" : "true",
+   "uri" : "/subjects/5616",
+   "authority_id" : "n79077528",
+   "lock_version" : "2",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject"
+}

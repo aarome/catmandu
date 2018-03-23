@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6784",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "11",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Luxor (Egypt)",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "n83205199",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n83205199.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Luxor (Egypt)"
+}

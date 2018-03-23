@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n81024907",
+   "lock_version" : "8",
+   "publish" : "true",
+   "uri" : "/subjects/5506",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Attik (Greece)",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "title" : "Attik (Greece)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81024907.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN"
+}

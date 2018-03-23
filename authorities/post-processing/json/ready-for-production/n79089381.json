@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79089381.marcxml.xml"
+      }
+   ],
+   "authority_id" : "n79089381",
+   "created_by" : "web_services",
+   "lock_version" : "9",
+   "uri" : "/subjects/3334",
+   "title" : "Arles (France)",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Arles (France)",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN"
+}

@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n97042879.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "1",
+   "uri" : "/subjects/4706",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Campo Marzio (Rome, Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "title" : "Campo Marzio (Rome, Italy)",
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "n97042879"
+}

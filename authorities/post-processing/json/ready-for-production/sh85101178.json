@@ -1,0 +1,26 @@
+{
+   "title" : "Photograph collections",
+   "terms" : [
+      {
+         "term" : "Photograph collections",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/2020",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85101178.marcxml.xml"
+      }
+   ],
+   "lock_version" : "944",
+   "publish" : "true",
+   "authority_id" : "sh85101178",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "created_by" : "web_services"
+}

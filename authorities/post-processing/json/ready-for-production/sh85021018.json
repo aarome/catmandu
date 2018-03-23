@@ -1,0 +1,26 @@
+{
+   "lock_version" : "30",
+   "created_by" : "web_services",
+   "title" : "Cathedrals",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Cathedrals",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical"
+      }
+   ],
+   "uri" : "/subjects/5615",
+   "authority_id" : "sh85021018",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85021018.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1"
+}

@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "title" : "Ischia Island (Italy)",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Ischia Island (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85068340",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85068340.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "41",
+   "uri" : "/subjects/3125",
+   "source" : "LCCN"
+}

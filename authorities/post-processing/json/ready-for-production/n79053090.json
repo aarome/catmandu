@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79053090.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Hungary",
+   "uri" : "/subjects/7319",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Hungary",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "authority_id" : "n79053090",
+   "lock_version" : "19",
+   "publish" : "true",
+   "created_by" : "web_services"
+}

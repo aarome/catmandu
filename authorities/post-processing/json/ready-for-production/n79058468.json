@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79058468.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Sardinia (Italy)",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Sardinia (Italy)",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "authority_id" : "n79058468",
+   "source" : "LCCN",
+   "lock_version" : "3",
+   "uri" : "/subjects/3753",
+   "created_by" : "web_services"
+}

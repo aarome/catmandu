@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85120427",
+   "created_by" : "web_services",
+   "title" : "Seventeenth century",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85120427.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7291",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "Seventeenth century"
+      }
+   ],
+   "lock_version" : "3"
+}

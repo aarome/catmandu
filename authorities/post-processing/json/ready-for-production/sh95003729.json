@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Argiletum (Rome, Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh95003729.marcxml.xml"
+      }
+   ],
+   "lock_version" : "13",
+   "publish" : "true",
+   "uri" : "/subjects/3844",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Argiletum (Rome, Italy)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "authority_id" : "sh95003729",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject"
+}

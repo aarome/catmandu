@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "authority_id" : "sh90001165",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Monumento nazionale Vittorio Emmanuele II (Rome, Italy)",
+   "uri" : "/subjects/2207",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "term" : "Monumento nazionale Vittorio Emmanuele II (Rome, Italy)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "4",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh90001165.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services"
+}

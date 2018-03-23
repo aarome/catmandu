@@ -1,0 +1,33 @@
+{
+   "authority_id" : "sh85051170",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "term" : "France",
+         "created_by" : "web_services"
+      },
+      {
+         "term" : "Antiquities",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      }
+   ],
+   "publish" : "true",
+   "uri" : "/subjects/7324",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85051170.marcxml.xml"
+      }
+   ],
+   "lock_version" : "8",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "France",
+   "source" : "LCCN"
+}

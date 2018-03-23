@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "authority_id" : "no2009178578",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Djemila (Algeria)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/no2009178578.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "lock_version" : "2",
+   "uri" : "/subjects/5355",
+   "title" : "Djemila (Algeria)"
+}

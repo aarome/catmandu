@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh87000216.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Public architecture",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN",
+   "lock_version" : "5",
+   "uri" : "/subjects/7012",
+   "created_by" : "web_services",
+   "title" : "Public architecture",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "authority_id" : "sh87000216",
+   "vocabulary" : "/vocabularies/1"
+}

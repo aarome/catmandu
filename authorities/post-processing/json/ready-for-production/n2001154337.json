@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Sant'Oreste (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "2",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2001154337.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/3226",
+   "title" : "Sant'Oreste (Italy)",
+   "authority_id" : "n2001154337"
+}

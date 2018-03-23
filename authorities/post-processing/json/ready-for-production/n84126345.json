@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Sora (Italy)"
+      }
+   ],
+   "lock_version" : "9",
+   "authority_id" : "n84126345",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "uri" : "/subjects/7278",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Sora (Italy)",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n84126345.marcxml.xml"
+      }
+   ]
+}

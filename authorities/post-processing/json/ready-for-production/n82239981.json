@@ -1,0 +1,26 @@
+{
+   "title" : "Nemi (Italy)",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Nemi (Italy)",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/3039",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82239981.marcxml.xml"
+      }
+   ],
+   "lock_version" : "8",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n82239981"
+}

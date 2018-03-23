@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "authority_id" : "n79064760",
+   "terms" : [
+      {
+         "term" : "Algeria",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79064760.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Algeria",
+   "uri" : "/subjects/5357",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "44",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject"
+}

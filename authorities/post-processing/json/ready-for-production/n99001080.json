@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Teano (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/7280",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n99001080.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Teano (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n99001080",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "8"
+}

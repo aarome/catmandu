@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh90002299",
+   "title" : "Windsor Great Park (England)",
+   "uri" : "/subjects/6519",
+   "publish" : "true",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Windsor Great Park (England)"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh90002299.marcxml.xml"
+      }
+   ],
+   "lock_version" : "2"
+}

@@ -1,0 +1,26 @@
+{
+   "lock_version" : "2",
+   "uri" : "/subjects/6507",
+   "authority_id" : "sh85119073",
+   "source" : "LCCN",
+   "title" : "Sculpture, Egyptian",
+   "terms" : [
+      {
+         "term" : "Sculpture, Egyptian",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85119073.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

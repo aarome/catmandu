@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80139195.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Vienne (France)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/7179",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "authority_id" : "n80139195",
+   "title" : "Vienne (France)",
+   "lock_version" : "8"
+}

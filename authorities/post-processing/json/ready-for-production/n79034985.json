@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "term" : "Istanbul (Turkey)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/6767",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79034985.marcxml.xml"
+      }
+   ],
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79034985",
+   "title" : "Istanbul (Turkey)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "lock_version" : "41",
+   "source" : "LCCN"
+}

@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh92006507",
+   "lock_version" : "17",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "term" : "Capitoline Hill (Italy)"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Capitoline Hill (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh92006507.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6274",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "created_by" : "web_services"
+}

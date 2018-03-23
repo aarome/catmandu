@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006535.marcxml.xml"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "13",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Triumphal arches"
+      }
+   ],
+   "uri" : "/subjects/4945",
+   "publish" : "true",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "title" : "Triumphal arches",
+   "authority_id" : "sh85006535"
+}

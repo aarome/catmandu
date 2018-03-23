@@ -1,0 +1,26 @@
+{
+   "title" : "Forum of Trajan (Rome, Italy)",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh94004091.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "5",
+   "publish" : "true",
+   "uri" : "/subjects/4621",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Forum of Trajan (Rome, Italy)"
+      }
+   ],
+   "authority_id" : "sh94004091"
+}

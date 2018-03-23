@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Newport (R.I.)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80119516.marcxml.xml"
+      }
+   ],
+   "title" : "Newport (R.I.)",
+   "source" : "LCCN",
+   "uri" : "/subjects/7026",
+   "lock_version" : "3",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n80119516",
+   "jsonmodel_type" : "subject",
+   "publish" : "true"
+}

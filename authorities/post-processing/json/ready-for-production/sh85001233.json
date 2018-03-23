@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85001233",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85001233.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "23",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "title" : "Aegean Islands (Greece and Turkey)",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "term" : "Aegean Islands (Greece and Turkey)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/5551"
+}

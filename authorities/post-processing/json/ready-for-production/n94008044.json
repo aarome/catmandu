@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n94008044.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5360",
+   "publish" : "true",
+   "lock_version" : "2",
+   "title" : "Darnah (Libya)",
+   "authority_id" : "n94008044",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Darnah (Libya)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ]
+}

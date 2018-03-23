@@ -1,0 +1,33 @@
+{
+   "title" : "Islamic architecture",
+   "lock_version" : "34",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5606",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term" : "Islamic architecture",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical"
+      },
+      {
+         "created_by" : "web_services",
+         "term" : "Spain",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85006810.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "publish" : "true",
+   "authority_id" : "sh85006810",
+   "vocabulary" : "/vocabularies/1"
+}

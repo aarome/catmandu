@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "Area sacra di Largo Argentina (Rome, Italy)"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2001007096.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/4183",
+   "lock_version" : "90",
+   "source" : "LCCN",
+   "title" : "Area sacra di Largo Argentina (Rome, Italy)",
+   "authority_id" : "sh2001007096"
+}

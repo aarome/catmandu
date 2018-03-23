@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/nr95046308.marcxml.xml"
+      }
+   ],
+   "created_by" : "web_services",
+   "title" : "Urbisaglia (Italy)",
+   "lock_version" : "2",
+   "uri" : "/subjects/3247",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "authority_id" : "nr95046308",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Urbisaglia (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

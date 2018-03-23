@@ -1,0 +1,26 @@
+{
+   "title" : "Agrigento (Italy : Province)",
+   "terms" : [
+      {
+         "term" : "Agrigento (Italy : Province)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6737",
+   "lock_version" : "3",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n82005893.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "n82005893",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "publish" : "true"
+}

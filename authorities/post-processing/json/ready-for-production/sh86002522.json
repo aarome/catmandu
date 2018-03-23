@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "authority_id" : "sh86002522",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "128",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh86002522.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Como, Lake (Italy)",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Como, Lake (Italy)"
+      }
+   ],
+   "uri" : "/subjects/3285",
+   "publish" : "true"
+}

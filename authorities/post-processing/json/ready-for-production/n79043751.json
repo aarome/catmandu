@@ -1,0 +1,26 @@
+{
+   "lock_version" : "16",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79043751.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "authority_id" : "n79043751",
+   "source" : "LCCN",
+   "title" : "Palermo (Italy)",
+   "publish" : "true",
+   "terms" : [
+      {
+         "term" : "Palermo (Italy)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/6739"
+}

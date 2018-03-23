@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Pozzuoli (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "uri" : "/subjects/5099",
+   "authority_id" : "n80150311",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80150311.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Pozzuoli (Italy)",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "2"
+}

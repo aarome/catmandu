@@ -1,0 +1,26 @@
+{
+   "lock_version" : "43",
+   "source" : "LCCN",
+   "title" : "Stra (Italy)",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6122",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n88275192.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Stra (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "n88275192",
+   "jsonmodel_type" : "subject"
+}

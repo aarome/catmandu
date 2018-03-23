@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n80150312",
+   "title" : "Naples (Italy : Province)",
+   "uri" : "/subjects/6720",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "lock_version" : "23",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n80150312.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Naples (Italy : Province)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ]
+}

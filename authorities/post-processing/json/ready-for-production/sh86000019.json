@@ -1,0 +1,26 @@
+{
+   "title" : "Relief (Sculpture), Roman",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Relief (Sculpture), Roman",
+         "term_type" : "topical"
+      }
+   ],
+   "authority_id" : "sh86000019",
+   "lock_version" : "32",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6543",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh86000019.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN"
+}

@@ -1,0 +1,26 @@
+{
+   "title" : "Tébessa (Algeria)",
+   "created_by" : "web_services",
+   "uri" : "/subjects/n2006016474",
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2006016474.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Tébessa (Algeria)"
+      }
+   ],
+   "authority_id" : "n2006016474",
+   "lock_version" : "2006016474"
+}

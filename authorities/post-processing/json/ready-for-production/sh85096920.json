@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "title" : "Palaces",
+   "uri" : "/subjects/5346",
+   "authority_id" : "sh85096920",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Palaces"
+      },
+      {
+         "term" : "France",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "7",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85096920.marcxml.xml"
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n85281897.marcxml.xml"
+      }
+   ],
+   "lock_version" : "12",
+   "title" : "Biskra (Algeria : Province)",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "term" : "Biskra (Algeria : Province)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/3396",
+   "authority_id" : "n85281897"
+}

@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/2337",
+   "title" : "Decoration and ornament, Architectural",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Decoration and ornament, Architectural"
+      }
+   ],
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85036275.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "336",
+   "authority_id" : "sh85036275",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN"
+}

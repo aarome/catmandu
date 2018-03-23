@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh99001520",
+   "uri" : "/subjects/3104",
+   "title" : "Via Prenestina (Italy)",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Via Prenestina (Italy)",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh99001520.marcxml.xml"
+      }
+   ],
+   "lock_version" : "41"
+}

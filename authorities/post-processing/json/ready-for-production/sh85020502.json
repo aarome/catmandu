@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85020502.marcxml.xml"
+      }
+   ],
+   "lock_version" : "37",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "sh85020502",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "title" : "Carthage (Extinct city)",
+   "created_by" : "web_services",
+   "uri" : "/subjects/4959",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Carthage (Extinct city)",
+         "term_type" : "geographic"
+      }
+   ],
+   "publish" : "true"
+}

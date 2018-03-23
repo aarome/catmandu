@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Caprarola (Italy)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Caprarola (Italy)",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n86119056.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "authority_id" : "n86119056",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7009",
+   "source" : "LCCN",
+   "lock_version" : "4"
+}

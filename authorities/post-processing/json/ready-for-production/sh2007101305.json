@@ -1,0 +1,33 @@
+{
+   "publish" : "true",
+   "title" : "Architecture",
+   "authority_id" : "sh2007101305",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Architecture",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "term" : "ItalyRome",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "lock_version" : "125",
+   "uri" : "/subjects/6418",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2007101305.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject"
+}

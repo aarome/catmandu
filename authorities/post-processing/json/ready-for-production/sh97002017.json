@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh97002017.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Wall of Aurelian (Rome, Italy)",
+   "terms" : [
+      {
+         "term" : "Wall of Aurelian (Rome, Italy)",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "created_by" : "web_services",
+   "authority_id" : "sh97002017",
+   "lock_version" : "171",
+   "uri" : "/subjects/4221",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true"
+}

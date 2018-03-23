@@ -1,0 +1,33 @@
+{
+   "terms" : [
+      {
+         "term" : "Mural painting and decoration",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1"
+      },
+      {
+         "term" : "ItalyRome",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/5186",
+   "title" : "Mural painting and decoration",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh2010102711.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "6",
+   "authority_id" : "sh2010102711"
+}

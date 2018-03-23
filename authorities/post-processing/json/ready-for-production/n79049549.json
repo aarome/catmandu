@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79049549.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term" : "Extremadura (Spain)",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "uri" : "/subjects/7168",
+   "title" : "Extremadura (Spain)",
+   "authority_id" : "n79049549",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "36",
+   "source" : "LCCN"
+}

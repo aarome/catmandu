@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "authority_id" : "n79006839",
+   "jsonmodel_type" : "subject",
+   "title" : "Lazio (Italy)",
+   "source" : "LCCN",
+   "uri" : "/subjects/6165",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79006839.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Lazio (Italy)",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "3",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1"
+}

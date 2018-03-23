@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term" : "Sabratha (Extinct city)",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Sabratha (Extinct city)",
+   "authority_id" : "sh86004689",
+   "lock_version" : "56",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh86004689.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "uri" : "/subjects/4924",
+   "publish" : "true"
+}

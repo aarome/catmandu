@@ -1,0 +1,33 @@
+{
+   "uri" : "/subjects/5107",
+   "lock_version" : "149",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh2010102714.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "title" : "Mural painting and decoration",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Mural painting and decoration"
+      },
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic",
+         "term" : "ItalyPompeii (Extinct city)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true",
+   "authority_id" : "sh2010102714"
+}

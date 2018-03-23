@@ -1,0 +1,26 @@
+{
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85070215.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "39",
+   "created_by" : "web_services",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6534",
+   "title" : "Jewelry, Ancient",
+   "publish" : "true",
+   "authority_id" : "sh85070215",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Jewelry, Ancient",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79070130.marcxml.xml"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "n79070130",
+   "lock_version" : "3",
+   "uri" : "/subjects/6138",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "La Spezia (Italy : Province)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "title" : "La Spezia (Italy : Province)"
+}

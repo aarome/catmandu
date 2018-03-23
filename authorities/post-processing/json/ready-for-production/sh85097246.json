@@ -1,0 +1,26 @@
+{
+   "authority_id" : "sh85097246",
+   "title" : "Palms",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Palms"
+      }
+   ],
+   "lock_version" : "3",
+   "uri" : "/subjects/3127",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85097246.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1"
+}

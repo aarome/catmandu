@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n82005892.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "n82005892",
+   "lock_version" : "3",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term" : "Agrigento (Italy)",
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic"
+      }
+   ],
+   "uri" : "/subjects/7140",
+   "publish" : "true",
+   "source" : "LCCN",
+   "title" : "Agrigento (Italy)",
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1"
+}

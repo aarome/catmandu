@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "lock_version" : "1441",
+   "source" : "LCCN",
+   "authority_id" : "sh85066566",
+   "uri" : "/subjects/7305",
+   "vocabulary" : "/vocabularies/1",
+   "publish" : "true",
+   "title" : "Inscriptions",
+   "jsonmodel_type" : "subject",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85066566.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "Inscriptions",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services"
+      }
+   ]
+}

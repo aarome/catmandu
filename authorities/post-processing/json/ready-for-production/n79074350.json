@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Marburg (Germany)",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "title" : "Marburg (Germany)",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/3346",
+   "lock_version" : "10",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79074350.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n79074350",
+   "source" : "LCCN"
+}

@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "authority_id" : "sh96003302",
+   "uri" : "/subjects/4712",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh96003302.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term",
+         "term" : "Caelian Hill (Italy)",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "title" : "Caelian Hill (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "lock_version" : "1",
+   "publish" : "true"
+}

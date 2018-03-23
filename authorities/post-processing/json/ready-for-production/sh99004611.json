@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "lock_version" : "4",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh99004611.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "title" : "Loggia di Raffaello (Vatican Palace, Vatican City)",
+   "authority_id" : "sh99004611",
+   "uri" : "/subjects/6811",
+   "publish" : "true",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "term" : "Loggia di Raffaello (Vatican Palace, Vatican City)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1"
+}

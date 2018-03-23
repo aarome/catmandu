@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "title" : "Brescia (Italy)",
+   "publish" : "true",
+   "authority_id" : "n79039793",
+   "uri" : "/subjects/6125",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n79039793.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "term" : "Brescia (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "lock_version" : "14",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1"
+}

@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "4",
+   "created_by" : "web_services",
+   "authority_id" : "sh85007873",
+   "title" : "Art, Romanesque",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/7384",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "topical",
+         "term" : "Art, Romanesque",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "publish" : "true",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85007873.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

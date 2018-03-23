@@ -1,0 +1,26 @@
+{
+   "authority_id" : "n80001376",
+   "title" : "Prato (Italy)",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Prato (Italy)",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "source" : "LCCN",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80001376.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "11",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/6628"
+}

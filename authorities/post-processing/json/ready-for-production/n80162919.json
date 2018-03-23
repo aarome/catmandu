@@ -1,0 +1,26 @@
+{
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "lock_version" : "5",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6807",
+   "terms" : [
+      {
+         "term" : "Marrakech (Morocco)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "title" : "Marrakech (Morocco)",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n80162919.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "n80162919"
+}

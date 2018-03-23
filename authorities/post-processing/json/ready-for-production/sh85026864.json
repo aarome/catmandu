@@ -1,0 +1,26 @@
+{
+   "uri" : "/subjects/295",
+   "source" : "LCCN",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "authority_id" : "sh85026864",
+   "title" : "Clay",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85026864.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "term" : "Clay"
+      }
+   ],
+   "lock_version" : "855",
+   "jsonmodel_type" : "subject"
+}

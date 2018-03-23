@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/names/n82137785.marcxml.xml"
+      }
+   ],
+   "lock_version" : "40",
+   "authority_id" : "n82137785",
+   "uri" : "/subjects/3156",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Cassino (Italy)",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "created_by" : "web_services",
+         "term" : "Cassino (Italy)",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "source" : "LCCN"
+}

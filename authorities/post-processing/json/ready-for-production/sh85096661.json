@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "title" : "Painting",
+   "lock_version" : "110",
+   "uri" : "/subjects/6593",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85096661.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "source" : "LCCN",
+   "authority_id" : "sh85096661",
+   "terms" : [
+      {
+         "term" : "Painting",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ]
+}

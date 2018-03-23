@@ -1,0 +1,26 @@
+{
+   "lock_version" : "2",
+   "created_by" : "web_services",
+   "publish" : "true",
+   "uri" : "/subjects/6525",
+   "title" : "Nurses in art",
+   "terms" : [
+      {
+         "term_type" : "topical",
+         "term" : "Nurses in art",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "authority_id" : "sh97000053",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh97000053.marcxml.xml"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN"
+}

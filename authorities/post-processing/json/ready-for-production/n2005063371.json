@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "created_by" : "web_services",
+   "lock_version" : "4",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2005063371.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "n2005063371",
+   "terms" : [
+      {
+         "term" : "Marina di Massa (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "geographic"
+      }
+   ],
+   "source" : "LCCN",
+   "uri" : "/subjects/3210",
+   "jsonmodel_type" : "subject",
+   "title" : "Marina di Massa (Italy)"
+}

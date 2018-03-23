@@ -1,0 +1,26 @@
+{
+   "jsonmodel_type" : "subject",
+   "lock_version" : "7",
+   "uri" : "/subjects/6510",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "authority_id" : "sh86004535",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh86004535.marcxml.xml"
+      }
+   ],
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Attis (God)",
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "created_by" : "web_services"
+      }
+   ],
+   "publish" : "true",
+   "title" : "Attis (God)"
+}

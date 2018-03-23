@@ -1,0 +1,26 @@
+{
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n86126853",
+   "uri" : "/subjects/4805",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "term" : "Sétif (Algeria)",
+         "term_type" : "geographic"
+      }
+   ],
+   "lock_version" : "5",
+   "title" : "Sétif (Algeria)",
+   "publish" : "true",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n86126853.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ]
+}

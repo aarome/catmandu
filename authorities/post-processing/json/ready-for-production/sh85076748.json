@@ -1,0 +1,33 @@
+{
+   "created_by" : "web_services",
+   "publish" : "true",
+   "terms" : [
+      {
+         "created_by" : "web_services",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Libya",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "topical",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Antiquities",
+         "created_by" : "web_services"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "source" : "LCCN",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "11",
+   "title" : "Libya",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85076748.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85076748",
+   "uri" : "/subjects/4932"
+}

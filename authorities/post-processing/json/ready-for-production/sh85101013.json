@@ -1,0 +1,26 @@
+{
+   "title" : "Phlegraean Plain (Italy)",
+   "vocabulary" : "/vocabularies/1",
+   "jsonmodel_type" : "subject",
+   "terms" : [
+      {
+         "term" : "Phlegraean Plain (Italy)",
+         "term_type" : "geographic",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      }
+   ],
+   "lock_version" : "13",
+   "source" : "LCCN",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/subjects/sh85101013.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "authority_id" : "sh85101013",
+   "publish" : "true",
+   "created_by" : "web_services",
+   "uri" : "/subjects/5090"
+}

@@ -1,0 +1,26 @@
+{
+   "title" : "Sicily (Italy)",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n79018703.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "created_by" : "web_services",
+   "source" : "LCCN",
+   "authority_id" : "n79018703",
+   "terms" : [
+      {
+         "jsonmodel_type" : "term",
+         "term_type" : "geographic",
+         "term" : "Sicily (Italy)",
+         "vocabulary" : "/vocabularies/1",
+         "created_by" : "web_services"
+      }
+   ],
+   "uri" : "/subjects/3728",
+   "jsonmodel_type" : "subject",
+   "lock_version" : "53",
+   "publish" : "true"
+}

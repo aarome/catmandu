@@ -1,0 +1,26 @@
+{
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "San Teodoro (Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ],
+   "title" : "San Teodoro (Italy)",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "uri" : "/subjects/2095",
+   "publish" : "true",
+   "jsonmodel_type" : "subject",
+   "vocabulary" : "/vocabularies/1",
+   "authority_id" : "n2002041520",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n2002041520.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "lock_version" : "11"
+}

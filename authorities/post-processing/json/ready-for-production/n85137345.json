@@ -1,0 +1,26 @@
+{
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n85137345.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "created_by" : "web_services",
+   "publish" : "true",
+   "vocabulary" : "/vocabularies/1",
+   "title" : "Mykonos (Greece)",
+   "authority_id" : "n85137345",
+   "uri" : "/subjects/5540",
+   "source" : "LCCN",
+   "terms" : [
+      {
+         "term" : "Mykonos (Greece)",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "geographic"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "lock_version" : "6"
+}

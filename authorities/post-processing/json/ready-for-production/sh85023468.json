@@ -1,0 +1,33 @@
+{
+   "lock_version" : "4",
+   "created_by" : "web_services",
+   "vocabulary" : "/vocabularies/1",
+   "uri" : "/subjects/7363",
+   "terms" : [
+      {
+         "term" : "Children",
+         "vocabulary" : "/vocabularies/1",
+         "term_type" : "topical",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term"
+      },
+      {
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term_type" : "genre_form",
+         "vocabulary" : "/vocabularies/1",
+         "term" : "Portraits"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "publish" : "true",
+   "source" : "LCCN",
+   "authority_id" : "sh85023468",
+   "title" : "Children",
+   "external_documents" : [
+      {
+         "title" : "Library of Congress Authority record",
+         "location" : "http://id.loc.gov/authorities/subjects/sh85023468.marcxml.xml"
+      }
+   ]
+}

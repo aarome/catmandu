@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "source" : "LCCN",
+   "created_by" : "web_services",
+   "title" : "Sens-sur-Yonne (France)",
+   "terms" : [
+      {
+         "vocabulary" : "/vocabularies/1",
+         "jsonmodel_type" : "term",
+         "created_by" : "web_services",
+         "term" : "Sens-sur-Yonne (France)",
+         "term_type" : "geographic"
+      }
+   ],
+   "vocabulary" : "/vocabularies/1",
+   "lock_version" : "6",
+   "authority_id" : "n81033584",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/n81033584.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "jsonmodel_type" : "subject",
+   "uri" : "/subjects/6854"
+}

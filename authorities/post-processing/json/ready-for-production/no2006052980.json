@@ -1,0 +1,26 @@
+{
+   "publish" : "true",
+   "authority_id" : "no2006052980",
+   "vocabulary" : "/vocabularies/1",
+   "external_documents" : [
+      {
+         "location" : "http://id.loc.gov/authorities/names/no2006052980.marcxml.xml",
+         "title" : "Library of Congress Authority record"
+      }
+   ],
+   "uri" : "/subjects/3043",
+   "jsonmodel_type" : "subject",
+   "source" : "LCCN",
+   "title" : "Monte Porzio Catone (Italy)",
+   "lock_version" : "5",
+   "created_by" : "web_services",
+   "terms" : [
+      {
+         "term_type" : "geographic",
+         "term" : "Monte Porzio Catone (Italy)",
+         "created_by" : "web_services",
+         "jsonmodel_type" : "term",
+         "vocabulary" : "/vocabularies/1"
+      }
+   ]
+}
