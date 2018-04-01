@@ -1,0 +1,28 @@
+# CSV to MARC processor
+# Maps CSV rows to MARC records
+
+# Control fields
+marc_add(003,ItRAAR)
+marc_add(040,a,ind1=" ",ind2=" ",source")
+
+# 020214 a acannaab| a anc d
+marc_add(008,"032918 a acannaab| a anc d")
+
+
+# General information
+marc_map(010,010)
+marc_map(040,"source", -join => ";")
+
+# Lookup 1** values
+lookup('authorized_match','lists/auth-to-subjects-local-sources.csv')
+
+# Koha local fields
+marc_map(942a,'term_type')
+unless any_match('term_type','UNIF_TITLE')
+  reject()
+end
+
+
+
+remove_field(_id)
+remove_field(record)
